@@ -7,8 +7,6 @@ toc-depth: 3
 format:
     html:
         include-after-body: footer.html
-pdf:
-    toc: true
 ---
 
 # "Welcome to Be Not Deceived"
