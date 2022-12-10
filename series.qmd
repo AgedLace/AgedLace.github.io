@@ -1,0 +1,16 @@
+---
+title: "Jesus' End Time Timeline" 
+listing:
+  contents: posts/series/**/*.qmd 
+  sort: "date asc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false 
+  fields: [date, title, reading-time, description, categories]
+page-layout: full
+title-block-banner: false 
+---
+
+---
+

@@ -1,0 +1,85 @@
+---
+title: Cookies Policy
+date: 2022-11-25
+categories: [Cookies Policy]
+---
+
+---
+
+## Cookies policy
+
+### 1.	Introduction
+
+1.1	**BE NOT DECEIVED DOES NOT USE COOKIES OF ANY SORT.**
+
+## 2.	Credit
+
+2.1	This document was created using a template from Docular (https://seqlegal.com).
+
+## 3.	About cookies 
+
+3.1	A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+
+3.2	Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when the web browser is closed.
+
+3.3	Cookies may not contain any information that personally identifies a user, but personal data that we store about you may be linked to the information stored in and obtained from cookies.
+
+## 4.	Types of Cookies 
+
+4.1	BE NOT DECEIVED DOES NOT USE COOKIES FOR ANY PURPOSE, INCLUDING ANY OF THE FOLLOWING PURPOSES:
+
+	(a)	authentication and status - may be used to identify you when you visit a website and as you navigate said website, and to determine if you are logged into said website (cookies used for this purpose are: identify cookies);
+
+	(b)	shopping cart - use cookies to maintain the state of your shopping cart as you navigate websites (cookies used for this purpose are: identify cookies);
+
+	(c)	personalization - cookies may be used to store information about your preferences and to personalize a website for you (cookies used for this purpose are: identify cookies);
+
+	(d)	security - cookies used as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect a website and services generally (cookies used for this purpose are: identify cookies);
+
+	(e)	advertising - cookies used to help a website to display advertisements that will be relevant to you (cookies used for this purpose are: identify cookies);
+
+	(f)	analysis - cookies used to help a website analyze the use and performance of their website and services (cookies used for this purpose are: identify cookies); and
+
+	(g)	cookie consent - cookies used to store your preferences in relation to the use of cookies more generally (cookies used for this purpose are: identify cookies).
+
+## 5.	Cookies used by service providers
+
+5.1	BE NOT DECEIVED DOES NOT USE SERVICE PROVIDERS.  Service providers use cookies and those cookies may be stored on your computer when you visit a website.
+
+5.2	BE NOT DECEIVED DOES NOT USE ANALYTICS PROVIDERS. These providers, such as Google Analytics, gather information about the use of a website by means of cookies. The information gathered is used to create reports about the use of a website. You can find out more about Google's use of information by visiting https://www.google.com/policies/privacy/partners/ and you can review Google's privacy policy at https://policies.google.com/privacy. The relevant cookies are: [identify cookies.
+
+5.3	BE NOT DECEIVED DOES NOT PUBLISH ADVERTISEMENTS, such as Google AdSense.  Google AdSense, together with advertisements from the following advertisers and advertising networks are distributed by Google: identify and provide links to advertisers and networks. The advertisements may be personalized to reflect your interests. To help determine your interests Google and its partners use cookies. The relevant cookies served from a website are identify cookies. The cookies are used to track your previous visits to a website and your visits to other websites. You can opt out of Google's personalized advertising by visiting https://www.google.com/settings/ads and you can opt out of third party cookies use for personalized advertising by visiting http://www.aboutads.info. You can review Google's privacy policy at https://policies.google.com/privacy.
+
+5.4	BE NOT DECEIVED DOES NOT USE A FACEBOOK PIXEL.  Websites using a pixel, allow Facebook to collect information about the users and use of a website. The information is used to personalize Facebook advertisements and to analyze the use of a website. To find out more about the Facebook pixel and about Facebook's use of personal data generally, see the Facebook cookie policy at https://www.facebook.com/policies/cookies/ and the Facebook privacy policy at https://www.facebook.com/about/privacy. The Facebook cookie policy includes information about controlling Facebook's use of cookies to show you advertisements. If you are a registered Facebook user, you can adjust how advertisements are targeted by following the instructions at https://www.facebook.com/help/568137493302217.
+
+5.5	BE NOT DECEIVED DOES NOT USE SERVICE PROVIDERS TO PROVIDE SERVICES TO USERS. Such services uses cookies for specific purpose(s). Contact the service provider's website to view their privacy policy. The relevant cookies are: identify cookies.
+
+## 6.	Managing cookies
+
+6.1	Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
+
+	(a)	https://support.google.com/chrome/answer/95647 (Chrome);
+
+	(b)	https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox);
+
+	(c)	https://help.opera.com/en/latest/security-and-privacy/ (Opera);
+
+	(d)	https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies (Internet Explorer);
+
+	(e)	https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac (Safari); and
+
+	(f)	https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge).
+
+6.2	Blocking all cookies will have a negative impact upon the usability of many websites.
+
+6.3	If you block cookies, you will not be able to use all the features on many websites.
+
+## 7.	Cookie preferences
+
+7.1	BE NOT DECEIVED HAS NO COOKIES FOR A USER TO MANAGE.
+
+# 8.	Our details 
+
+8.1	This website is owned and operated by Be Not Deceived.
+
+8.2	You can contact Be Not Deceived by email at benotdeceived@yandex.com.

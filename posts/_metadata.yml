@@ -1,0 +1,30 @@
+# options specified here will apply to all posts in this folder
+
+# freeze computational output
+# (see https://quarto.org/docs/projects/code-execution.html#freeze)
+freeze: true
+
+last-modified:
+
+# Enable banner style title blocks
+title-block-banner: false
+
+# Author name of all blog posts
+author: 'Admin - Be Not Deceived'
+
+
+
+# Table of content settings
+toc: true
+toc-title: Table of Contents
+toc-depth: 3
+
+page-layout: article
+
+format:
+    html:
+        toc: true
+    pdf:
+        toc: true
+
+license: "CC BY-ND"
