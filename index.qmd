@@ -11,8 +11,6 @@ pdf:
     toc: true
 ---
 
-Test
-
 # "Welcome to Be Not Deceived"
 > For false christs and false prophets ... would deceive even the elect, if that were possible. -- Matthew 24:24  
 
