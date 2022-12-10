@@ -1,0 +1,54 @@
+/* css styles */
+
+:root {
+    --bs-primary: #331079;
+    --bs-primary-rgb: 51, 16, 121;
+    --bs-root-font-size: 16px;
+    --bs-body-font-size: 1rem;
+}
+
+h1, .h1 {
+    font-size: 2rem;
+}
+
+h2, .h2 {
+    font-size: 1.5rem;
+    border-bottom: 0;
+    padding-bottom: 0;
+}
+
+h3, .h3 {
+    font-size: 1.25rem;
+}
+
+
+
+hr {
+    color: #331079;
+    background-color: #331079;
+    opacity: .75;
+}
+
+.sidebar nav[role=doc-toc]>h2, .sidebar nav[role=doc-toc]>.h2 {
+    font-size: .875rem;
+    font-weight: 600;
+    margin-bottom: .5rem;
+    margin-top: .3rem;
+    font-family: inherit;
+    border-bottom: 0;
+    padding-bottom: 0;
+    padding-top: 0px;
+}
+
+.navbar-dark {
+    background-color: #331079;
+}
+
+blockquote {
+        border-left: .25rem solid #331079;
+        border-radius: 5px;
+        font-style: italic;
+        font-weight: bold;
+}
+
+
