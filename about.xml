@@ -6,14 +6,14 @@
       version="2.0">
 <channel>
 <title>Be Not Deceived</title>
-<link>https://agedlace.github.io/about.html</link>
-<atom:link href="https://agedlace.github.io/about.xml" rel="self" type="application/rss+xml"/>
+<link>benotdeceived.org/about.html</link>
+<atom:link href="benotdeceived.org/about.xml" rel="self" type="application/rss+xml"/>
 <description>Dedicated to helping believers &#39;be not deceived&#39; according to Jesus&#39; command in Matthew 24:4.</description>
 <generator>quarto-1.2.269</generator>
-<lastBuildDate>Fri, 25 Nov 2022 05:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 25 Nov 2022 00:00:00 GMT</lastBuildDate>
 <item>
   <title></title>
-  <link>https://agedlace.github.io/about/contact.html</link>
+  <link>benotdeceived.org/about/contact.html</link>
   <description><![CDATA[ 
 
 
@@ -31,12 +31,12 @@
 
  ]]></description>
   <category>contact</category>
-  <guid>https://agedlace.github.io/about/contact.html</guid>
-  <pubDate>Fri, 25 Nov 2022 05:00:00 GMT</pubDate>
+  <guid>benotdeceived.org/about/contact.html</guid>
+  <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>Cookies Policy</title>
-  <link>https://agedlace.github.io/about/cookies.html</link>
+  <link>benotdeceived.org/about/cookies.html</link>
   <description><![CDATA[ 
 
 
@@ -115,12 +115,12 @@
 
  ]]></description>
   <category>Cookies Policy</category>
-  <guid>https://agedlace.github.io/about/cookies.html</guid>
-  <pubDate>Fri, 25 Nov 2022 05:00:00 GMT</pubDate>
+  <guid>benotdeceived.org/about/cookies.html</guid>
+  <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title></title>
-  <link>https://agedlace.github.io/about/copyrights.html</link>
+  <link>benotdeceived.org/about/copyrights.html</link>
   <description><![CDATA[ 
 
 
@@ -176,12 +176,12 @@
 
  ]]></description>
   <category>Translation Copyrights</category>
-  <guid>https://agedlace.github.io/about/copyrights.html</guid>
-  <pubDate>Fri, 25 Nov 2022 05:00:00 GMT</pubDate>
+  <guid>benotdeceived.org/about/copyrights.html</guid>
+  <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title></title>
-  <link>https://agedlace.github.io/about/license.html</link>
+  <link>benotdeceived.org/about/license.html</link>
   <description><![CDATA[ 
 
 
@@ -190,20 +190,20 @@
 <h1>BeNotDeceived Site License</h1>
 <hr>
 <p>All Be Not Deceived content is original, unless otherwise disclosed, and therefore covered under the following Creative Commons License.</p>
-<p>Copyright © 2022 <a href="https://BeNotDeceived.org">Be Not Deceived</a> <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License</a> <img src="https://agedlace.github.io/about/80x15.png" class="img-fluid" alt="Creative Commons License"></p>
+<p>Copyright © 2022 <a href="https://BeNotDeceived.org">Be Not Deceived</a> <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons License</a> <img src="benotdeceived.org/about/80x15.png" class="img-fluid" alt="Creative Commons License"></p>
 
 
 </section>
 
  ]]></description>
   <category>Site License</category>
-  <guid>https://agedlace.github.io/about/license.html</guid>
-  <pubDate>Fri, 25 Nov 2022 05:00:00 GMT</pubDate>
-  <media:content url="https://agedlace.github.io/about/80x15.png" medium="image" type="image/png" height="15" width="80"/>
+  <guid>benotdeceived.org/about/license.html</guid>
+  <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
+  <media:content url="benotdeceived.org/about/80x15.png" medium="image" type="image/png" height="15" width="80"/>
 </item>
 <item>
   <title>Privacy Policy</title>
-  <link>https://agedlace.github.io/about/privacy.html</link>
+  <link>benotdeceived.org/about/privacy.html</link>
   <description><![CDATA[ 
 
 
@@ -275,8 +275,8 @@
 
  ]]></description>
   <category>Privacy Policy</category>
-  <guid>https://agedlace.github.io/about/privacy.html</guid>
-  <pubDate>Fri, 25 Nov 2022 05:00:00 GMT</pubDate>
+  <guid>benotdeceived.org/about/privacy.html</guid>
+  <pubDate>Fri, 25 Nov 2022 00:00:00 GMT</pubDate>
 </item>
 </channel>
 </rss>
