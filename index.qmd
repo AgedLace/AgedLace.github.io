@@ -1,15 +1,12 @@
 ---
-page-layout: full
+page-layout: article
 # Table of content settings
 toc: true
 toc-title: Table of Contents
 toc-depth: 3
-format:
-    html:
-        include-after-body: footer.html
 ---
 
-# "Welcome to Be Not Deceived"
+# Welcome to Be Not Deceived
 > For false christs and false prophets ... would deceive even the elect, if that were possible. -- Matthew 24:24  
 
 <br />

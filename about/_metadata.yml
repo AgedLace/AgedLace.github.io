@@ -19,6 +19,5 @@ page-layout: article
 format:
     html:
         toc: true
-    pdf:
-        toc: true
+
 

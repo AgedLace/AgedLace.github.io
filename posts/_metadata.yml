@@ -24,7 +24,5 @@ page-layout: article
 format:
     html:
         toc: true
-    pdf:
-        toc: true
 
 license: "CC BY-ND"

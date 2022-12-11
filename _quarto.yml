@@ -1,11 +1,19 @@
 project:
     type: website
+#    resources:
+#        - "*.pdf"
 
 
 website:
+    page-navigation: true
     title: "Be Not Deceived"
     site-url: "benotdeceived.org"
     description: "Dedicated to helping believers 'be not deceived' according to Jesus' command in Matthew 24:4."
+    search:
+        location: sidebar
+        type: textbox
+
+
     navbar:
         left:
             - text: Home
@@ -13,23 +21,61 @@ website:
             - text: Blog
               href: blog.qmd
             - text: Series
-              menu: 
-                    - Jesus' End-Time Timeline
               href: series.qmd
-#            - text: Bible Study Notebook          |          href: [Bible Study Notebook](https://benotdeceived.org/notebook){.external target="_blank"}
+            - text: Bible Study Notebook
+              href: notebook.qmd
         right:
             - about.qmd
             - archive.qmd
-#            - resources.qmd
             - icon: rss
               text: RSS Feed
               href: blog.xml
+
+
+    sidebar:
+        logo: "images/logo.png"
+        pinned: true
+        align: center
+        border: true
+        collapse-level: 1
+        contents:
+            - section: Home
+              contents:
+                  - href: index.qmd
+
+            - section: About
+              contents:
+                  - href: about.qmd
+
+            - section:  Blog
+              contents:
+                - href: blog.qmd
+                - href: archive.qmd
+
+            - section: Series
+              contents:
+                - href: series.qmd
+
+            - section: Bible Study
+              contents:
+                - href: notebook.qmd
+
+            
+
+
+
     page-footer:
-        left: "Copyright 2017-2022, [Be Not Deceived](https://benotdeceived.org/about/license)"
-#        right: 
-#            - icon: github
-#              href: https://github.com/
-    cookie-consent: true
+        right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+        center: "Copyright 2017-2022, [Be Not Deceived](https://benotdeceived.org)"
+        left: 
+            - text: "License"
+              href: license.qmd
+            - text: "Privacy Policy"
+              href: privacy.qmd
+            - text: "Contact"
+              href: contact.qmd
+
+#    cookie-consent: implied
 
 # Table of content settings
 toc: true
@@ -43,6 +89,6 @@ format:
         toc: true
         link-external-icon: true
         link-external-newwindow: true
-#        link-external-filter: '^(?:http:|https:)\/\/www\.benotdeceived\.org\/custom'
-    pdf:
-        toc: true
+
+#    pdf:
+#        toc: true
