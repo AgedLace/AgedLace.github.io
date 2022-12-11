@@ -1,5 +1,9 @@
 [
   {
+    "listing": "/notebook.html",
+    "items": []
+  },
+  {
     "listing": "/series.html",
     "items": [
       "/posts/series/jesus-end-time-timeline-part-1.html",
@@ -19,11 +23,8 @@
   {
     "listing": "/about.html",
     "items": [
-      "/about/contact.html",
       "/about/cookies.html",
-      "/about/copyrights.html",
-      "/about/license.html",
-      "/about/privacy.html"
+      "/about/copyrights.html"
     ]
   },
   {

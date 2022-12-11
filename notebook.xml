@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Be Not Deceived</title>
+<link>benotdeceived.org/notebook.html</link>
+<atom:link href="benotdeceived.org/notebook.xml" rel="self" type="application/rss+xml"/>
+<description>Dedicated to helping believers &#39;be not deceived&#39; according to Jesus&#39; command in Matthew 24:4.</description>
+<generator>quarto-1.2.269</generator>
+<lastBuildDate>Sun, 11 Dec 2022 05:03:12 GMT</lastBuildDate>
+</channel>
+</rss>
