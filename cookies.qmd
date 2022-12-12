@@ -14,7 +14,7 @@ categories: [Cookies Policy]
 
 ## 2.	Credit
 
-2.1	This document was created using a template from Docular (https://seqlegal.com).
+2.1	This document is based upon a template from Docular (https://seqlegal.com).
 
 ## 3.	About cookies 
 

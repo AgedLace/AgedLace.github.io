@@ -2,10 +2,12 @@
 title: "Blog Archive"
 page-layout: full
 listing:
+  date-format: dddd MMMM-DD-YYYY
   contents: posts/**/*.qmd
   type: default
   fields: [date, title]
   sort: 'date desc'
+  categories: numbered
 ---
 
 ---

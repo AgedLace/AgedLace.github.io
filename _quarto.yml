@@ -1,15 +1,16 @@
 project:
+    title: Be Not Deceived
     type: website
 #    resources:
 #        - "*.pdf"
 
 
 website:
-    page-navigation: true
     title: "Be Not Deceived"
     favicon: images/favicon.ico
     site-url: "benotdeceived.org"
     description: "Dedicated to helping believers 'be not deceived' according to Jesus' command in Matthew 24:4."
+    page-navigation: true
     search:
         location: sidebar
         type: textbox
@@ -26,7 +27,8 @@ website:
             - text: Bible Study Notebook
               href: notebook.qmd
         right:
-            - about.qmd
+            - text: About
+              href: about.qmd
             - archive.qmd
             - icon: rss
               text: RSS Feed
@@ -34,9 +36,9 @@ website:
 
 
     sidebar:
-        logo: "images/logo.png"
+        header: Be Not Deceived
         pinned: true
-        align: center
+        align: left
         border: true
         collapse-level: 1
         contents:
@@ -57,12 +59,9 @@ website:
               contents:
                 - href: series.qmd
 
-            - section: Bible Study
+            - section: Bible Study Notebook
               contents:
                 - href: notebook.qmd
-
-            
-
 
 
     page-footer:
@@ -73,15 +72,19 @@ website:
               href: license.qmd
             - text: "Privacy Policy"
               href: privacy.qmd
+            - text: "Cookie Policy"
+              href: cookies.qmd
             - text: "Contact"
               href: contact.qmd
 
 #    cookie-consent: implied
 
+
 # Table of content settings
 toc: true
 toc-title: Table of Contents
 toc-depth: 3
+
 
 format:
     html:
@@ -93,3 +96,6 @@ format:
 
 #    pdf:
 #        toc: true
+
+
+callout-icon: false

@@ -4,6 +4,7 @@
 # (see https://quarto.org/docs/projects/code-execution.html#freeze)
 freeze: true
 
+date-format: dddd MMMM-DD-YYYY
 last-modified:
 
 # Enable banner style title blocks

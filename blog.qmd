@@ -2,13 +2,15 @@
 title: "Blog Index"
 listing:
     contents: posts/**/*.qmd
+    date-format: dddd MMMM-DD-YYYY
     sort: "date desc"
     type: default
-    categories: true
+    categories: numbered
     sort-ui: false
     filter-ui: false
     fields: [date, title, reading-time, description, categories]
     feed: true
+
 page-layout: full
 title-block-banner: false
 ---

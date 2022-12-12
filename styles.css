@@ -21,16 +21,10 @@ h3, .h3 {
     font-size: 1.25rem;
 }
 
-
-
 hr {
     color: #331079;
     background-color: #331079;
     opacity: .75;
-}
-
-.sidebar-logo {
-    max-width: 50%;
 }
 
 .sidebar nav[role=doc-toc]>h2, .sidebar nav[role=doc-toc]>.h2 {
@@ -49,13 +43,53 @@ hr {
 }
 
 blockquote {
-        border-left: .25rem solid #331079;
-        border-top: 1px solid lightgrey;
-        border-bottom: 1px solid lightgrey;
-        border-right: 1px solid lightgrey;
-        border-radius: 5px;
+        border-left: 5px solid #331079;
+        border-top: 1px solid #dee2e6;
+        border-bottom: 1px solid #dee2e6;
+        border-right: 1px solid #dee2e6;
+        border-radius: .25rem;
+        font-size: .9rem;
         font-style: italic;
-        font-weight: bold;
+        font-weight: 400;
 }
 
+div.callout-scripture.callout {
+    border-left-color: #331079;
+}
+
+div.callout-scripture.callout-style-default>.callout-header {
+    background-color: #e4dfed;
+}
+
+ div.callout-word-study.callout {
+    border-left-color: #007656;
+}
+
+div.callout-word-study.callout-style-default>.callout-header {
+    background-color: #ddede9;
+}
+
+div.callout-yellow.callout {
+    border-left-color: #e5c704;
+}
+
+div.callout-yellow.callout-style-default>.callout-header {
+    background-color: #fbf8dd;
+}
+
+div.callout-prayer.callout {
+    border-left-color: #301ed8;
+}
+
+div.callout-prayer.callout-style-default>.callout-header {
+    background-color: #e4e1fa;
+}
+
+div.callout-question.callout {
+    border-left-color: #d40088;
+}
+
+div.callout-question.callout-style-default>.callout-header {
+    background-color: #f9ddef;
+}
 
