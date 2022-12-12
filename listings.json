@@ -22,10 +22,7 @@
   },
   {
     "listing": "/about.html",
-    "items": [
-      "/about/cookies.html",
-      "/about/copyrights.html"
-    ]
+    "items": []
   },
   {
     "listing": "/blog.html",
