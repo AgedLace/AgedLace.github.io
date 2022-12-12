@@ -57,6 +57,8 @@ website:
 
             - section: Series
               contents:
+                - text: Series Index
+                  href: series.qmd
                 - text: "Jesus' End-Time Timeline - What Sign Will Signal the End of the World"
                   href: https://benotdeceived.org/posts/series/jesus-end-time-timeline-part-1.html
                 - text: "Jesus' End-Time Timeline - What Sign Will Signal Your Return"
