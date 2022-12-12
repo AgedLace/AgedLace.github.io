@@ -14,7 +14,7 @@ title-block-banner: false
 
 ---
 
-## Default Translation Used By Be Not Deceived
+## Default Translation Used By 'Be Not Deceived'
 
 ### BSB - [Berean Standard Bible](https://bereanbible.com/)
 
