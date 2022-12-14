@@ -1,16 +1,17 @@
 [
   {
-    "listing": "/notebook.html",
-    "items": [
-      "/notebook/introduction.html"
-    ]
-  },
-  {
-    "listing": "/series.html",
+    "listing": "/blog.html",
     "items": [
       "/posts/series/jesus-end-time-timeline-part-1.html",
       "/posts/series/jesus-end-time-timeline-part-2.html",
-      "/posts/series/jesus-end-time-timeline-part-3.html"
+      "/posts/series/jesus-end-time-timeline-part-3.html",
+      "/posts/2017/10/welcome-to-be-not-deceived.html"
+    ]
+  },
+  {
+    "listing": "/notebook.html",
+    "items": [
+      "/notebook/introduction.html"
     ]
   },
   {
@@ -23,16 +24,11 @@
     ]
   },
   {
-    "listing": "/about.html",
-    "items": []
-  },
-  {
-    "listing": "/blog.html",
+    "listing": "/series.html",
     "items": [
       "/posts/series/jesus-end-time-timeline-part-1.html",
       "/posts/series/jesus-end-time-timeline-part-2.html",
-      "/posts/series/jesus-end-time-timeline-part-3.html",
-      "/posts/2017/10/welcome-to-be-not-deceived.html"
+      "/posts/series/jesus-end-time-timeline-part-3.html"
     ]
   }
 ]
