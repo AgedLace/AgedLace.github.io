@@ -1,102 +1,166 @@
----
-page-layout: article
-# Table of content settings
-toc: true
-toc-title: Table of Contents
-toc-depth: 3
----
-
 # Welcome to Be Not Deceived
-> For false christs and false prophets ... would deceive even the elect, if that were possible. -- Matthew 24:24  
 
-<br />
+:::{.callout-scripture}
+# Matthew 24:4
+
+4 Jesus answered, "**See to it that no one deceives you**."
+:::
 
 ---
 
 ## Why 'Be Not Deceived'
 
-Jesus warned us to 'Be Not Deceived'.  Why was it so important to Him that He repeated it often?  The reason can be found in Matthew 24:24  ...
+The purpose of this work is to empower people to obey Jesus' command to **"See to it that no one deceives you."**
 
-> For false messiahs and false prophets will rise up and perform great signs and wonders **so as to deceive, if possible, even God's chosen ones**. Matt 24:24
+There are two methods by which deception comes ...
 
-My goal is to help as many people as possible to 'Be Not Deceived'!
+- self-deception
+- deception by others
 
-### We Are Part Of The Problem
+## Self-Deception
 
-I am finding that each of us comes to the table with our predispositions and preconceived ideas.
+### Deception Due to a Lack of Knowledge of Scripture, or the Power of God
 
-Recently, God is showing me there are things in His Word I never saw before.  There are also things that I thought were in the Bible, that are not there.
+Jesus told us why / how self-deception comes ...
 
-Now, when I read or study the Word, I ask Him that I would "be not deceived".  I renounce my preconceived ideas and predispositions.  I ask Him to open my understanding to what His Word actually says as opposed to what I've been taught, or believe, it says.
+:::{.callout-scripture}
+# Matthew 22:28-29
 
-> Jas 1:5 NLT – **If you need wisdom, ask our generous God, and he will give it to you**. He will not rebuke you for asking.
+28 In the resurrection, then, whose wife will she be of the seven? For all of them were married to her.   
+29 Jesus answered, "**You are mistaken because you do not know the Scriptures or the power of God**"
+:::
 
-### Others Are Part of the Problem
 
-Again, Jesus repeatedly told us ...
+   * The BLB and KJV use the word "err" instead of "mistaken".   
 
-> Mat 24:24 NLT - **For false messiahs and false prophets will rise up and perform great signs and wonders so as to deceive**, if possible, even God's chosen ones.
+He clearly says that only those who **KNOW** the Scriptures or **the POWER OF GOD** will be able to discern between Truth and deception.
 
-We should not be surprised at the many so-called Bible teachers and preachers who mishandle the Scriptures and deceive so many people today.  Jesus told us it would be so.  So the question is "How can we 'Not Be Deceived'?
+Jesus was speaking to the Saducees, a Jewish sect or denomination.  One of the key beliefs of this sect was to deny the resurrection of the dead. 
 
-### "How to 'Not Be Deceived'?
+We need to ask ourselves ...
 
-We do not need these false teachers or preachers, or anyone else, to teach us what the Bible says or doesn’t say.
+:::{.callout-question}
+# Questions
 
-Let me lay some groundwork for this last statement.
+- Does my denomination's "Statement of Faith" line up with the written Word of God?  
+- Do the leaders preach *anything* contrary to the written Word of God?
+- Do the leaders practice, or allow others to practice, *anything* which is contrary to the written Word of God?
+:::
 
-#### Jesus Is the New Covenant
+### Other Ways We Can Deceive Ourselves
 
-The Book of Isaiah tells us that the Father gave Jesus as His \[second\] Covenant with Israel ...
+#### Keeping Bad Company, and Not Knowing God
 
-> Isa 49:8 NLT - This is what the LORD says: "At just the right time, I will respond to you. On the day of salvation I will help you. **I will** protect you and **give you to the people as my covenant with them**. Through you I will reestablish the land of Israel and assign it to its own people again.
+:::{.callout-scripture}
+# 1 Corinthians 15:33-34
 
-#### We Are Grafted Into Israel
+33 **Do not be deceived**: "**Bad company corrupts** good character."  
+34 **Sober up** as you ought, and **stop sinning**; for **some of you are ignorant of God**.  I say this to your shame.  
+:::
 
-As a blood-bought, born-again Christian, you have been grafted into the natural olive tree of Israel ...
+The Greek word for "corrupts" is *phtheiró* and means ...
 
-> Rom 11:17 NLT - But some of these branches from Abraham's tree--some of the people of Israel--have been broken off. **And you Gentiles**, who were branches from a wild olive tree, **have been grafted in. So now you also receive the blessing God has promised Abraham and his children, sharing in the rich nourishment from the root of God's special olive tree.**
+:::{.callout-word-study} 
+# phtheiró  
 
-#### Characteristics Of The New Covenant
+properly, to waste away, corrupt (deteriorate); (figuratively) **to cause or experience moral deterioration** – i.e. decomposition (break-down), **due to the corrupting influence of sin**. [Source](https://biblehub.com/greek/5351.htm)  
 
-What are some of the characteristics of this New Covenant?
+This root (pht-) literally means "waste away" (degenerate), "moving down from a higher level (quality, status) to a lower form".   
+:::
 
-> Heb 8:8 NLT - But when God found fault with the people, he said: "**The day is coming**, says the LORD, **when I will make a new covenant with the people of Israel and Judah**.
-> 
-> Heb 8:9 NLT - This covenant will not be like the one I made with their ancestors when I took them by the hand and led them out of the land of Egypt. They did not remain faithful to my covenant, so I turned my back on them, says the LORD.
-> 
-> Heb 8:10 NLT - But **this is the new covenant** I will make with the people of Israel on that day, says the LORD: **I will put my laws in their minds, and I will write them on their hearts. I will be their God, and they will be my people.**
-> 
-> Heb 8:11 NLT - And **they will not need to teach their neighbors, nor will they need to teach their relatives, saying, 'You should know the LORD.' For everyone, from the least to the greatest, will know me already.**
-> 
-> Heb 8:12 NLT - And I will forgive their wickedness, and I will never again remember their sins."
+The Greek word for "sober up", *eknéphó*, is only used in this Scripture and means ...  
 
-#### Can We Discern His Voice?
+::: {.callout-word-study}
+# eknéphó  
 
-Jesus, Himself, told us ...
+properly, delivered out of drunkenness and to sobriety (seriousness), *i.e.* with the awareness outcome of **being responsibly aware**;  
 
-> Jhn 10:3 NLT - The gatekeeper opens the gate for him, and **the sheep recognize his voice and come to him. He calls his own sheep by name** and leads them out.
-> 
-> Jhn 10:4 NLT - After he has gathered his own flock, he walks ahead of them, and **they follow him because they know his voice.**
-> 
-> Jhn 10:5 NLT - **They won't follow a stranger; they will run from him because they don't know his voice**."
+**(figuratively) aroused (awakened) out of the stupor of spiritual delusion (apathy); "to come to one's senses";**  
 
-He also told us ...
+sober-minded because "**snapped out of" the intoxicating influence of sin (darkness) and brought into keen alertness of spiritual truth (conviction, faith, etc.**). [Source.](https://biblehub.com/greek/1594.htm)  
+:::
 
-> Jhn 14:26 NLT - But when the Father sends the Advocate as my representative--that is, **the Holy Spirit**\--he **will teach you everything and will remind you of everything I have told you**.
+The Greek word for "ignorance" is *agnósia* and specifically means [Source](https://biblehub.com/greek/56.htm)
 
-#### How to Discern His Voice
+:::{.callout-word-study}
+# agnósia  
 
-Now let me ask you, how do you recognize the voice of your wife or husband? your parents or children?
+ignorance; specifically: **willful ignorance**
+:::
 
-You recognize their voices because you have spent time with them.  You live with them, and share experiences with them. You do not have to see them to recognize their voices.
+#### Reaping What We Sow
 
-The same thing is true with Jesus. You need to spend time with Him in prayer and in His Word. The Holy Spirit then begins teaching you how He thinks; how He feels; what He would do in a given situation.
+Scripture reveals that we will reap the consequences of whatever activity we engage in. 
 
-If you do not spend time with Him, or in His Word, you cannot expect to know Him.  If you do not come to know Him, you will be deceived.  You will not only be deceived by false prophets and teachers, but by the ultimate deception of all - the Antichrist.
+:::{.callout-scripture}
+# Galatians 6:7-8
 
-So, my brothers and sisters, I challenge you to spend time with the Lord and in His Word.  So much so that when someone says that something is in the Word that isn't you will 'Be Not Deceived'.
+7 Do not be deceived: God is not to be mocked. **Whatever a man sows, he will reap in return**.  
+8 The one who sows to please his flesh, from the flesh will reap destruction; but the one who sows to please the Spirit, from the Spirit will reap eternal life.
+:::
 
-#### My Prayer Is That You Be Not Deceived
+## Deception by Others
 
-Father God, I ask that You would touch the heart of every person whom You bring to this blog. I ask they become so hungry to intimately know You, and Your Word. I pray they would continually pray ... "Father, help me to 'Be Not Deceived'!" Thank You, Father, in Jesus' Name. Amen.
+### Deception by False Christs and False Prophets
+
+Being Not Deceived is so important, that Jesus repeated it three times just in Matthew 24 alone.  
+
+His command is for us to **"see to it that no one deceives"** us.  This means **it is our responsibility to ensure we are not deceived by anyone**.  
+
+:::{.callout-scripture}
+# Matthew 24:3-5  
+
+3 While Jesus was sitting on the Mount of Olives, the disciples came to Him privately.  "Tell us," they said, "when will these things happen, and what will be the sign of Your coming and of the end of the age?"  
+4 Jesus answered, "**See to it that no one deceives you.**  
+5 For many will come in My name, claiming, 'I am the Christ,' **and will deceive many**.
+:::
+
+:::{.callout-scripture}
+# Matthew 24:10-11  
+
+10 At that time many will fall away and will betray and hate one another,  
+11 and many false prophets will arise and mislead many.  
+:::
+
+:::{.callout-scripture}
+# Matthew 24:23-25  
+
+23 At that time, if anyone says to you, 'Look, here is the Christ!' or 'There He is!' do not believe it.  
+24 **For false Christs and false prophets will appear and perform great signs and wonders that would deceive even the elect, if that were possible.**  
+25 See, I have told you in advance.  
+:::
+
+Notice Jesus is saying that the deception will be so great that ***if it were possible** even the elect would be deceived.*
+
+:::{.callout-question}
+# Question  
+
+How is it possible to deceive even the elect?
+:::
+
+Answer:  Because we do not **know the Scriptures or the power of God**.
+
+:::{.callout-scripture}
+# Matthew 22:29  
+
+29 Jesus answered, "**You are mistaken because you do not know the Scriptures or the power of God**.
+:::
+
+## How to *'Not Be Deceived'*
+
+Take personal responsibility 
+
+:::{.callout-scripture}
+# Colossians 2:8  
+
+8 **See to it that no one takes you captive through philosophy and empty deception, which are based on human tradition and the spiritual forces of the world rather than on Christ**.
+
+This Scripture makes it clear we are to ensure we are not deceived, or taken captive by ...
+
+* philosophy
+* empty deception
+
+both of which are based on ...
+
+* human tradition
+* spiritual forces of the world
