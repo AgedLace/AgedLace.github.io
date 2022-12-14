@@ -1,13 +1,5 @@
 ---
 title: "Bible Translations Used and Their Copyrights"
-listing: 
-    contents: about/**/*.qmd
-    sort: "date desc"
-    type: default
-    sort-ui: false
-    filter-ui: false
-    fields: [date, title, reading-time, description, categories]
-    feed: true
 page-layout: full
 title-block-banner: false
 ---
