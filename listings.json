@@ -1,7 +1,9 @@
 [
   {
     "listing": "/notebook.html",
-    "items": []
+    "items": [
+      "/notebook/introduction.html"
+    ]
   },
   {
     "listing": "/series.html",
