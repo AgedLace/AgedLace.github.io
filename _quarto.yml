@@ -25,7 +25,7 @@ website:
             - text: Series
               href: series.qmd
             - text: Bible Study Notebook
-              href: notebook.qmd
+              href: notebook/introduction.qmd
         right:
             - text: About
               href: about.qmd
