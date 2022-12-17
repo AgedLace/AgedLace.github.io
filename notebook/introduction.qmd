@@ -5,31 +5,44 @@ date: 2022-12-12
 
 ---
 
-The purpose of this online Bible Study Notebook is to disciple new Believers in Christ in the fundamental doctrines of Christianity, and how to study the Bible for themselves by allowing the Holy Spirit be their Teacher.
+The purpose of this online Bible Study Notebook is two-fold ...
 
-## Brand New Believers  
+* To disciple new Believers in Christ in the fundamental doctrines of Christianity according to Matthew 28:19-20
 
-First, we need to cover some basic information for new believers in Christ, particularly if they are new to Christianity.
+:::{.callout-scripture}
+# Matthew 28:19-20  
+
+19 Therefore **go and make disciples of all nations**, baptizing them in the name of the Father, and of the Son, and the Holy Spirit,  
+20 and **teaching them to obey all that I have commanded you**. And surely I am with you always, even to the end of the age.  
+:::
+
+and 
+
+* This discipleship includes training them to study the Word for themselves with the Holy Spirit as their Teacher (See [Holy Spirit - Our Teacher](http://benotdeceived.org/notebook/introduction.html#holy-spirit---our-teacher))
+
+## For Brand New Believers  
+
+This introduction covers necessary information for new believers in Christ who may be new to Christianity.
 
 ## Scripture References 
 
 Scripture references use the following format ...
 
--   Book Chapter : Verse(s) (Version)  
+*   Book Chapter : Verse(s) (Version)  
 
 For example ...
 
--   John 1:1-5 NLT refers to ...
-    - the Gospel of John, Chapter 1, verses 1 through 5 in the New Living Translation
+*   John 1:1-5 NLT refers to ...
+    * The Gospel of John, Chapter 1, verses 1 through 5 in the New Living Translation
 
 ## Common Bible Versions 
 
-- KJV = King James Version (most familiar)
-- NASB = New American Standard Bible
-- NLT = New Living Translation
-- NIV = New International Version
-- AMPC = Amplified Classic
-- BSB = Berean Standard Bible (the default translation used on this site)
+* KJV = King James Version (familiar to most)
+* NASB = New American Standard Bible
+* NLT = New Living Translation
+* NIV = New International Version
+* AMPC = Amplified Classic
+* BSB = Berean Standard Bible (the default translation used on this site)
 
 ## The Bible - God's Word to Us  
 
@@ -38,13 +51,13 @@ For example ...
 :::{.callout-scripture}
 # 2 Timothy 3:16-17 BSB
 
-16 **All Scripture is God-breathed** and is useful for instruction, for conviction, and for training in righteousness,   
+16 **All Scripture is God-breathed** and is useful for instruction, for conviction, and training in righteousness,   
 17 so that the man of God may be complete, fully equipped for every good work.
 :::
 
-**God-breathed** means inspired by God, which expresses the divine origin of the Scriptures.
+*God-breathed* means *inspired by God*. [Source](https://biblehub.com/greek/2315.htm)  It expresses the divine origin of the Scriptures.
 
-### Teaches, Convicts, and Trains
+### Teaches, Convicts, Trains, Equips
 
 :::{.callout-scripture}
 # 2 Timothy 3:16-17 BSB
@@ -52,6 +65,16 @@ For example ...
 16 All Scripture is God-breathed and **is useful for instruction, for conviction, and for training in righteousness,**   
 17 so that the man of God may be complete, fully equipped for every good work.
 :::
+
+God's purpose in giving us His Word is so that we *may be complete* (this phrase means *'ready because prepared'* [Source](https://biblehub.com/greek/739.htm)), and fully equipped for every good work.  
+
+<!-- Ephesians 2:10 tells us why we need to be fully prepared and equipped ...
+
+:::{.callout-scripture}
+# Ephesians 2:10 BSB  
+
+10 For we are God's workmanship, created in Christ Jesus **to do good works, which God prepared in advance as our way of life.**
+::: -->
 
 ### Is Alive
 
@@ -62,21 +85,22 @@ For example ...
 :::
 
 ### Judges Our Thoughts And Intentions
+
 :::{.callout-scripture}
 # Hebrews 4:12 BSB
 
 12 For the word of God is living and active. Sharper than any double-edged sword, it pierces even to dividing soul and spirit, joints and marrow. **It judges the thoughts and intentions of the heart**.
 :::
 
-This is my favorite version for this verse ...  
+The Amplified Classic version adds greater depth and dimension to this verse.  
 
 :::{.callout-scripture}
 # Hebrews 4:12 AMPC
 
 12 For **the Word that God speaks is alive and full of power [making it active, operative, energizing, and effective]**; it is sharper than any two-edged sword, penetrating to the dividing line of the breath of life (soul) and [the immortal] spirit, and of joints and marrow [of the deepest parts of our nature], **exposing and sifting and analyzing and judging the very thoughts and purposes of the heart**.
-:::
+:::  
 
-### Is Sent Out
+### Is Sent Out By God
 
 :::{.callout-scripture}
 # Isaiah 55:11 BSB
@@ -84,7 +108,7 @@ This is my favorite version for this verse ...
 11 **so My word that proceeds from My mouth** will not return to Me empty, but it will accomplish what I please, and **it will prosper where I send it**.  
 :::
 
-### Produces Fruit, Works, and Prospers
+### Accomplishes God's Purposes and Prospers
 
 :::{.callout-scripture}
 # Isaiah 55:11 BSB
@@ -97,68 +121,72 @@ This is my favorite version for this verse ...
 ### Existed 'In The Beginning' With God
 
 :::{.callout-scripture}
-# John 1:1-2, 14 BSB
+# John 1:1-2 BSB
 
 1 **In the beginning was the Word**, and **the Word was with God**, and the Word was God.  
 2 **He was with God in the beginning.**
 :::
 
-### Is 'The Word', God, and God's Son
-
-:::{.callout-scripture}
-# John 1:1-2 BSB
-
-1 In the beginning was the Word, and **the Word was with God, and the Word was God**.  
-...    
-14  **The Word became flesh and made His dwelling among us.** We have seen His glory, the glory of **the one and only Son from the Father**, full of grace and truth.
-:::
-
-### The Creator  
-
-:::{.callout-scripture}
-# John 1:3-4 BSB
-
-3 **Through Him all things were made, and without Him nothing was made that has been made**.  
-4 In Him was life, and that life was the light of men.
-:::
-
-### Both God and Man  
+### Is God's Only Begotten Son
 
 :::{.callout-scripture}
 # John 1:1, 14 BSB
-1 In the beginning was the Word, and **the Word was with God, and the Word was God**.  
+
+1 In the beginning was the Word, and the Word was with God, and the Word was God.  
 ...    
-14  **The Word became flesh and made His dwelling among us.** We have seen His glory, the glory of **the one and only Son from the Father**, full of grace and truth.
+14  The Word became flesh and made His dwelling among us. We have seen His glory, the glory of **the one and only Son from the Father**, full of grace and truth.
 :::
 
+'*One and only*' here means '*only-begotten; unique; one-and-only; one of a kind; the only (one) of its kind*'. [Source](https://biblehub.com/greek/3439.htm)  
+
+### Is Both God and Man  
+
+Jesus, the Word, is the *'only one of His kind'* because He is both God and man.
+
+:::{.callout-scripture}
+# John 1:1, 14 BSB  
+
+1 In the beginning was the Word, and the Word was with God, and **the Word was God**.  
+...    
+14  **The Word became flesh and made His dwelling among us.** We have seen His glory, the glory of the one and only Son from the Father, full of grace and truth.
+:::
+
+### Is The Creator  
+
+:::{.callout-scripture}
+# John 1:3 BSB
+
+3 **Through Him all things were made, and without Him nothing was made that has been made**.   
+:::
 
 ## Our Heart Condition  
 
-Jesus teaches there are four conditions of the heart with respect to receiving His Word.  He likens men's hearts to four types of soil in a farmer's field.  
+Jesus teaches there are four conditions of the heart concerning His Word.  He likens these four conditions of men's hearts to four types of soil in which seed, representing His Word, is sown.  
 
-- seed which falls on a footpath
-- seed which falls on shallow, rocky, soil
-- seed which falls among thorns
-- seed which falls on fertile soil  
+- seed that falls on a footpath
+- seed that falls on shallow, rocky, soil
+- seed that falls among thorns
+- seed that falls on fertile soil  
 
 :::{.callout-question}
 Which type of soil represents how receptive your heart is to God's Word?
 :::
 
-### Parable of the Soil, aka Parable of the Seed
+### Parable of the Seed
 
 :::{.callout-scripture}
-# Matthew 13:3-9 BSB
+# Matthew 13:3-9 BSB  
+
 3 And He told them many things in parables, saying, "A farmer went out to sow his seed.  
 4 And as he was sowing, **some seed fell along the path**, and the birds came and devoured it.  
 5 **Some fell on rocky ground**, where it did not have much soil. It sprang up quickly because the soil was shallow.  
-6 But when the sun rose, the seedlings were scorched, sand they withered because they had no root.  
+6 But when the sun rose, the seedlings were scorched, and they withered because they had no root.  
 7 Other **seed fell among thorns**, which grew up and choked the seedlings.  
 8 **Still other seed fell on good soil and produced a crop** -- a hundredfold, sixtyfold, or thirtyfold.  
 9 He who has ears, let him hear."
 :::
 
-* Only the seed that fell on the good soil produced a crop.
+* Only seed that falls on good soil produces fruit.
 
 ### Jesus Interprets the Parable
 
@@ -169,53 +197,52 @@ Which type of soil represents how receptive your heart is to God's Word?
 19 When anyone **hears** the message of the kingdom **but does not understand** it, the evil one comes and snatches away what was sown in his heart. This is the seed sown along the path.  
 20 The seed sown on rocky ground is the one who **hears** the word and **at once receives it with joy**.  
 21 But since **he has no root**, he remains for only a season. When trouble or persecution comes because of the word, he quickly falls away.  
-22 The seed sown among thorns is the one who **hears** the word, but the worries of this life and the deceitfulness of wealth choke the word, and it **becomes unfruitfu**l.  
+22 The seed sown among thorns is the one who **hears** the word, but the worries of this life and the deceitfulness of wealth choke the word, and it **becomes unfruitful**.  
 23 But the seed sown on good soil is the one who **hears** the word and **understands it**.  He indeed **bears fruit** and produces a crop - a hundredfold, sixtyfold, or thirtyfold."
 :::
 
-* all four types of soil had heard the word  
-* some heard it, but didn't understand, therefore could not take root, nor produce fruit  
-* some both hear and receive, but do not become rooted, making it unable to produce fruit    
-* some heard and received but did not grow roots; they looked healthy for a time, but became unfruitful    
-* only seed sown in good soil, who heard it, and understood it produced a harvest of fruit  
+* All four types of soil hear the Word  
+* Some hear it but don't understand, therefore it cannot take root, nor produce fruit  
+* Some both hear and receive, but it does not become rooted, making it unable to produce fruit    
+* Some hear and receive but worries and greed choke it out; they look healthy for a time, but become unfruitful    
+* Only seed sown in good soil, can hear, understand, and be fruitful  
 
 The way we get God's Word to take root in our hearts is to read and study it for ourselves, with the help of the Holy Spirit as our Teacher.  (see [Holy Spirit - Our  Teacher](http://benotdeceived.org/notebook.html#holy-spirit---our-teacher) below.)
 
 ## Literal Interpretation 
 
-God's Word should be taken literally unless the context of the passage clearly indicates it is using allegory and/or symbolism.  Some examples ...  
+God's Word should be taken literally unless the context of the passage indicates it is using allegory and/or symbolism.  Some examples ...  
 
 * Jesus = the Word - John 1:1-14
 * Jesus = the Good Shepherd - John 10:11, 14-15
 * Jesus = the (Passover) Lamb - John 1:29, 36
-* The Communion bread = Jesus' Body and the wine = His Blood - Matthew 26:20-30
+* Communion bread = Jesus' Body; wine = His Blood - Matthew 26:20-30
 
-Also, Scripture interprets Scripture.  See, for example, the Parable of the Seed in the previous section.  Jesus shared the parable, then gave the interpretation afterwards.
+Also, Scripture interprets Scripture.  See, for example, [the Parable of the Seed](http://benotdeceived.org/notebook/introduction.html#parable-of-the-seed) in the previous section.  Jesus shared the parable, then gave its interpretation afterward.
 
-God's Word **never** contradicts itself.  If it appears to do so, ask the Holy Spirit to grant you understanding about the seeming contradiction.  
+God's Word **never** contradicts itself.  If it appears to do so, ask the Holy Spirit to grant you His understanding regarding the seeming contradiction.  
 
 :::{.callout-scripture}
 # James 1:5 BSB
 
-5 Now if **any** of you lacks wisdom, he should ask God, who gives generously to **all** without finding fault, and it **will** be give to him.
+5 Now if **any** of you lacks wisdom, he should ask God, who gives generously to **all** without finding fault, and it **will** be given to him.
 :::
-
 
 ## Holy Spirit - Our Teacher 
 
-You have no need for anyone to teach you what the Bible says or means.  God promised both to write His Word on your heart and to give you the Holy Spirit as your Divine Teacher.
+Now that you are born-again, you do not need anyone to teach you what the Bible says or means.  God promised both to write His Word on your heart and to give you the Holy Spirit as your Divine Teacher.
 
 :::{.callout-scripture}
 # Jeremiah 31:33-34 BSB
 
 33 "But this is the covenant I will make with the house of Israel after those days, declares the LORD. **I will put My law in their minds and inscribe it on their hearts**. And I will be their God, and they will be My people.  
-34 **No longer will each man teach his neighbor or his brother, saying, 'Know the LORD,' because they will all know Me**, from the least of them to the greatest, declares the LORD. For I will forgive there iniquities and will remember their sins no more."
+34 **No longer will each man teach his neighbor or his brother, saying, 'Know the LORD,' because they will all know Me**, from the least of them to the greatest, declares the LORD. For I will forgive their iniquities and will remember their sins no more."
 :::
 
 :::{.callout-scripture}
 # 1 John 2:27 BSB
 
-27 And as for you, the anointing you received from Him remains in you, and **you do not need anyone to teach you. But just as His true and genuine anointing teaches you about all things, so remain in Him as you have been taught.**
+27 And as for you, the anointing you received from Him remains in you, and **you do not need anyone to teach you.** But just as His true and genuine anointing teaches you about all things, so remain in Him as you have been taught.
 :::
 
 :::{.callout-scripture}
@@ -226,7 +253,7 @@ You have no need for anyone to teach you what the Bible says or means.  God prom
 
 ### Addressing An Error In Doctrine
 
-Many believe that it is error to teach that we don't need men's teaching in order to understand the Scriptures because we are to allow the Holy Spirit to be our Teacher.  
+Many believe that it is error to teach that we don't need men's teaching to understand the Scriptures because we are to learn to allow the Holy Spirit to be our Teacher.  
 
 Let's examine the portion of Scripture they use to "prove" this.  
 
@@ -238,15 +265,15 @@ Let's examine the portion of Scripture they use to "prove" this.
 13 **until we all reach unity in the faith and in the knowledge of the Son of God, as we mature to the full measure of the stature of Christ.**
 :::
 
-This Scripture teaches the job of these five-fold ministries is to ...
+This Scripture teaches the job of these church leaders is to ...
 
 * prepare the saints for works of ministry
 * to build up the Body
     * until we all reach unity in the faith ...
 
-Once we become Christians, it is our responsibility to read and study the Bible with the help of the Holy Spirit, so that we **know** what it says.  
+Once we become Christians, **it is our responsibility to read and study the Bible with the help of the Holy Spirit, so we know what it says**.  
 
-Only the Holy Spirit knows what the original intent and meaning of the Scriptures are.  When we prayerfully approach the study of the Bible, and ask the Holy Spirit to teach us what it actually means, will we be able to accurately understand it.  
+Only the Holy Spirit knows what the original intent and meaning of the Scriptures are.  When we prayerfully approach the study of God's Word and ask the Holy Spirit to teach us what it means, will we be able to accurately understand it.  
 
 This is what the Parable of the Seed meant when He said the Word must be rooted in our hearts (good soil).  [Parable of the Seed](http://benotdeceived.org/notebook.html#jesus-interprets-the-parable)
 
@@ -265,9 +292,9 @@ This is what the Parable of the Seed meant when He said the Word must be rooted 
 
 **NEVER** take what someone else says the Bible says as true, even if you think you know what the Scripture says.  It is always best to look it up to refresh your memory.  The Bible has been misquoted and twisted to 'prove' just about anything.  For example ...  
 
-* Psalm 14:11 says "*there is no God*".  
+* An atheist might quote Psalm 14:11 which says "*there is no God*".  
 
-What Psalm 14:1 says in full context ...  
+What Psalm 14:1 says in its full context ...  
 
 :::{.callout-scripture}
 # Psalm 14:1 BSB
@@ -275,7 +302,7 @@ What Psalm 14:1 says in full context ...
 1 **The fool says in his heart**, "There is no God."
 :::
 
-It is always best to read the entire verse in the context of the chapter it resides in, the Book it resides in, as well as what the rest of Bible says about the subject matter.  Other verses about the subject (known as 'cross references') can clarify and/or expand your understanding of the verse.  
+It is always best to read the entire verse in the context of the chapter it resides in, the Book it resides in, as well as what the rest of the Bible says about the subject matter.  Other verses about the subject (known as 'cross references') can clarify and/or expand your understanding of the verse.  
 
 ## The 'ASK' Principle 
 
@@ -283,7 +310,7 @@ It is always best to read the entire verse in the context of the chapter it resi
 # Matthew 7:7-8 BSB
 
 7 Ask, and it will be given to you; seek, and you will find; knock, and the door will be opened to you.  
-8 For **everyone** who asks receives; he who seeks finds; and to him who knocks, the door will be opened.  
+8 For everyone who asks receives; he who seeks finds; and to him who knocks, the door will be opened.  
 :::
 
 Read the bold capital Letters from top to bottom.
@@ -292,7 +319,7 @@ Read the bold capital Letters from top to bottom.
 **S**eek  
 **K**nock 
 
-Before reading God's Word, **ask** Him to prepare your heart to be fertile ground; that His Word might be nurtured, take deep root, and produce much fruit.  **Ask** Him to expose any pre-conceived ideas about the passage that may be incorrect.  **Ask** Him to grant that you may understand His Word with fresh eyes and as He intends it to be understood. (James 1:5)  Finally, **ask** Him if there is anything specific He wants to reveal to you personally in the passage.  
+Before reading God's Word, **ask** Him to prepare your heart to be fertile ground; so that His Word might be nurtured, take deep root, and produce much fruit.  **Ask** Him to expose any pre-conceived ideas about the passage that may be incorrect.  **Ask** Him to grant that you may understand His Word with fresh eyes and as He intends it to be understood. (James 1:5)  Finally, **ask** Him if there is anything specific He wants to reveal to you personally in the passage.  
 
 If you cultivate this type of prayer every time you open your Bible to read or study, the Holy Spirit will have the most fertile environment with which to plant God's Word and reveal Himself more deeply and intimately to you.  This type of relationship takes both time and effort on your part.  
 
@@ -300,42 +327,42 @@ If you cultivate this type of prayer every time you open your Bible to read or s
 
 When you need His direction or guidance, or you don't understand the passage you are currently reading ... **ask** God to give you His wisdom and understanding according to James 1:5.  
 
-Are you seeing a pattern here?  (God wants us to **ASK** Him for things!)
+Are you seeing a pattern here?  (God wants us to **ASK** Him for understanding and wisdom!)
 
 :::{.callout-scripture}
 # James 1:5-8 BSB
 
-5 Now if **any** of you lacks wisdom, he should ask God, who gives generously to **all** without finding fault, and it **will** be give to him.  
+5 Now if **any** of you lacks wisdom, he should ask God, who gives generously to **all** without finding fault, and it **will** be given to him.  
 6 But he must ask in faith, without doubting, because he who doubts is like a wave of the sea, blown and tossed by the wind.  
-7 That man should not expect to received anything from the Lord.  
+7 That man should not expect to receive anything from the Lord.  
 8 He is a double-minded man, unstable in all his ways.
 :::
 
 
-## Things Hidden In Christ  
+## Christ - A Mystery  
 
-### All The Treasures of Wisdom And Knowledge
+### All The Treasures of Wisdom And Knowledge Hidden in Him
 
 :::{.callout-scripture}
 # Colossians 2:2-3 BSB
 
-2 that they may be encouraged in heart, knit together in love, and filled with the full riches of complete understanding, so that they may know the mystery of God, namely **Christ,  
-3 in whom are hidden all the treasures of wisdom and knowledge.  
+2 that they may be encouraged in heart, knit together in love, and filled with the full riches of complete understanding, so that they may know **the mystery of God, namely Christ,  
+3 in whom are hidden all the treasures of wisdom and knowledge**.  
 :::
 
-### Christians
+### Believers Hidden In Him
 
 :::{.callout-scripture}
 # Colossians 3:3 BSB
 
-3 For you died, and your .ife is now hidden with Christ in God.
+3 For you died, and **your life is now hidden with Christ in God**.
 :::
 
-In other words, **you are hidden in the exact same place as all of His wisdom and knowledge**.  How cool is that?
+In other words, **you are hidden in the same place as all of His wisdom and knowledge**.  How cool is that?
 
 ## When We "Mess Up" 
 
-When we "mess up", and trust me, we all mess up ... all the time!!!
+When we "mess up", and trust me, we all mess up!!!
 
 :::{.callout-scripture}
 # 1 John 1:9 BSB
@@ -360,23 +387,29 @@ I suggest starting with the Gospel of John.  Thereafter, just go where the Holy 
 Following is a synopsis of the New Testament.
 
 * The 4 Gospels - 4 eye-witness accounts of the life and ministry of Jesus
-* Acts (written by Luke) - records the beginning of christian history
-* Romans through Jude - teaching and doctrine
-* Revelation - Jesus' Revelation to us about the events that will take place shortly before, during, and after His second coming.  This Book is very controversial and difficult to understand, but proclaims a blessing to **all** who read it (Revelation 1:3), and a curse upon **anyone** who adds to, or removes even one word. (Revelation 22:18-19).
+* Acts (written by Luke) - records the beginning of Christian history
+* Romans through Jude - teaching, and doctrine
+* Revelation - Jesus' Revelation to us about the events that will take place shortly before, during, and after His second coming.  This Book is very controversial and difficult to understand but proclaims a blessing to **all** who read it (Revelation 1:3), and a curse upon **anyone** who adds to, or removes even one word. (Revelation 22:18-19).
 
 After you are somewhat familiar with the New Testament, you might want to delve into the Old Testament periodically, as the Holy Spirit leads.
 
-Most of Exodus through Deuteronomy can be extremely 'dry' and hard to get through; and much of what is in the prophets can also be very difficult to understand, but it's all profitable reading (2 Timothy 3:16), and the Holy Spirit is willing and able to open these passages up to you should you but ask Him.
+Most of Exodus through Deuteronomy can be extremely 'dry' and hard to get through, and much of what is in the prophets can also be very difficult to understand, but it's all profitable reading (2 Timothy 3:16), and the Holy Spirit is willing and able to open these passages up to you should you but ask Him.
 
-The key to remember is that everything God did with Israel was intended to point them to Jesus, their Messiah / the Christ (both words mean 'Anointed One').  The New Testament Book of Hebrews explains much of this.
+The key to remember is that everything God did with Israel was 
 
-For example ...  
+* intended to point them to Jesus, their Messiah / the Christ (both words mean 'Anointed One').  
+    * For example, all the Jewish feasts point to Jesus.  He fulfilled the first 3 at His first coming.  He will fulfill the last 3 at His second coming.
+* to be an example and warning to us
 
-* All of the Jewish feasts point to Jesus.  He fulfilled the first 3 at His first coming.  He will fulfill the last 3 at His second coming.
+:::{.callout-scripture}
+# 1 Corinthians 10:11 BSB  
+
+11 Now these things happened to them as examples and were written down as warnings for us, on whom the fulfillment of the ages has come.
+:::
 
 ## 'Praying' Scripture  
 
-Since the Bible is God's Word, and has many of His promises recorded in it, I have found it beneficial to personalize them, and pray them back to Him.  For example take Ephesians 1:16-21...
+Since the Bible is God's Word and has many of His promises recorded in it, I have found it beneficial to personalize them and pray them back to Him.  For example, take Ephesians 1:16-21...
 
 :::{.callout-scripture}
 # Ephesians 1:16-21 BSB
@@ -394,14 +427,18 @@ I ask God, the glorious Father of our Lord Jesus Christ, **to give you, dear rea
 
 I pray that **your** heart will be flooded with light so that **you** can understand the confident hope He has given to **you, whom He has called -- His holy child** who is His rich and glorious inheritance.  
 
-I also pray that **you** will understand the incredible greatness of God's power for **you** who believe Him.  This is the same mighty power 
-
-that raised Christ from the dead and seated Him in the place of honor at God's right hand in the heavenly realms.
+I also pray that **you** will understand the incredible greatness of God's power for **you** who believe in Him.  This is the same mighty power that raised Christ from the dead and seated Him in the place of honor at God's right hand in the heavenly realms.
 :::
 
 ## Be Not Deceived 
 
-The sole purpose for this Bible Study Notebook is to encourage you to seek the Holy Spirit to be your Divine Teacher.  Why? So you will not be deceived by false Christs, false prophets, and false teachers.  Jesus told us that if it were possible, even His chosen people would be deceived in the end times.  
+The sole purpose of this Bible Study Notebook is to encourage you to seek the Holy Spirit to be your Divine Teacher as you study God's powerful, and living, Word.
+
+:::{.callout-question}
+Why? 
+:::
+
+So you will not be deceived by false Christs, false prophets, and false teachers.  Jesus told us that if it were possible, even His chosen people would be deceived in the end times.  
 
 :::{.callout-scripture}
 # Matthew 24:24-25 BSB
@@ -412,31 +449,32 @@ The sole purpose for this Bible Study Notebook is to encourage you to seek the H
 
 Jesus repeatedly warns us not to be deceived.  This is a command, meaning it is **our** responsibility to ensure that we are so grounded in His Word that we will immediately recognize when someone is teaching something contrary to what His Word says.  
 
-Let me be very clear:  **only the Holy Spirit can protect us from deception**; however, it is only those who take the time and effort to cultivate a personal relationship with God the Father, God the Son, and God the Holy Spirit, who will be able to discern deception and error because they will have been taught by Him; they **know** His voice, and they will **not** be led away by another.  
+Let me be very clear:  **only the Holy Spirit can protect us from deception**; however, it is only those who make the time and effort to cultivate a personal relationship with God the Father, God the Son, and God the Holy Spirit, who will be able to discern deception and error because they will have been taught by Him; they **know** His voice, and they will **not** be led away by another.  
 
 :::{.callout-scripture}
 # John 10:4-5 BSB
 
 4 When he has brought out all his own, he goes on ahead of them, and **his sheep follow him because they know his voice.  
-5 But **they will never follow a stranger; in fact, they will free from him because3 they do not recognized his voice.**
+5 But **they will never follow a stranger; in fact, they will flee from him because they do not recognize his voice.**
 :::
-
 
 :::{.callout-scripture}
 # Matthew 24:4-5, 11, 24 BSB
 
 4 Jesus answered, "**See to it that no one deceives you.**  
-5 For many will come in My name, claiming, 'I am the Christ,' and will deceive many.  
+5 For many will come in My name, claiming, 'I am the Christ,' and **will deceive many**.  
 ...
-11 and many false prophets will arise and mislead many.  
+11 and many false prophets **will arise and mislead many**.  
 ...
-24 For false Christs and false prophets will appear and perform great signs and wonders that would deceive even the elect, if that were possible." 
+24 For false Christs and false prophets will appear and perform great signs and wonders **that would deceive even the elect, if that were possible**." 
 :::
+
+My heart's cry is that none of you will be among those who will be deceived!!!
 
 ## Conclusion 
 
  This Introduction's purpose was to lay a very basic foundation for those who are brand new believers in Christ Jesus.
 
- The remaining studies in this Bible Study Notebook will cover additional fundamental teachings and doctrines required by everyone seeking to have the Holy Spirit to be their Divine Teacher.  
+ The remaining studies in this Bible Study Notebook will cover additional fundamental teachings and doctrines required by everyone seeking to have the Holy Spirit be their Divine Teacher.  
 
- **As always, don't take what I say as "gospel", prayerfully read and study the Word for yourself so that the Word becomes deeply rooted and grounded in your heart so that you will not be deceived.**  
+ **As always, don't take what I say as "gospel", prayerfully read and study the Word for yourself so that it becomes deeply rooted and grounded in your heart so that you will not be deceived.**  
