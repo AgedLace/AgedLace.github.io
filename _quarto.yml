@@ -68,7 +68,7 @@ website:
 
             - section: Bible Study Notebook
               contents:
-                - href: notebook.qmd
+                - href: notebook/introduction.qmd
 
 
     page-footer:
