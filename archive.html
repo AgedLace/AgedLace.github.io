@@ -72,9 +72,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-subtitle","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -161,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto"><div class="quarto-sidebar-header"><div class="sidebar-header-item">
-<p>Be Not Deceived</p>
+<p><a href="https::/benotdeceived.org">Be Not Deceived</a></p>
 </div></div>
       <div class="mt-2 flex-shrink-0 align-items-center">
         <div class="sidebar-search">
@@ -180,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link">Welcome to Be Not Deceived</a>
+  <a href="./index.html" class="sidebar-item-text sidebar-link">Welcome To Be Not Deceived</a>
   </div>
 </li>
       </ul>
@@ -230,22 +230,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./series.html" class="sidebar-item-text sidebar-link">Series Index</a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="https://benotdeceived.org/posts/series/jesus-end-time-timeline-part-1.html" class="sidebar-item-text sidebar-link">Jesus’ End-Time Timeline - What Sign Will Signal the End of the World</a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="https://benotdeceived.org/posts/series/jesus-end-time-timeline-part-2.html" class="sidebar-item-text sidebar-link">Jesus’ End-Time Timeline - What Sign Will Signal Your Return</a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="https://benotdeceived.org/posts/series/jesus-end-time-timeline-part-3.html" class="sidebar-item-text sidebar-link">Jesus’ End-Time Timeline - When Will All This Happen</a>
+  <a href="./series.html" class="sidebar-item-text sidebar-link">Jesus’ End Time Timeline</a>
   </div>
 </li>
       </ul>
@@ -260,9 +245,54 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-5" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./notebook.html" class="sidebar-item-text sidebar-link">Bible Study Index</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./notebook/introduction.html" class="sidebar-item-text sidebar-link">Introduction</a>
   </div>
 </li>
+          <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" aria-expanded="false">Foundations</a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-6" aria-expanded="false">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-6" class="collapse list-unstyled sidebar-section depth2 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./notebook/foundations/why.html" class="sidebar-item-text sidebar-link">The Bible - God-Breathed</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./notebook/foundations/bible.html" class="sidebar-item-text sidebar-link">The Bible - Why Study It</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./notebook/foundations/god.html" class="sidebar-item-text sidebar-link">Who Is God</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./notebook/foundations/jesus.html" class="sidebar-item-text sidebar-link">Who Is Jesus</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./notebook/foundations/holy-spirit.html" class="sidebar-item-text sidebar-link">Who Is The Holy Spirit</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./notebook/foundations/salvation.html" class="sidebar-item-text sidebar-link">Salvation</a>
+  </div>
+</li>
+      </ul>
+  </li>
       </ul>
   </li>
     </ul>
@@ -277,7 +307,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#latest-articles" id="toc-latest-articles" class="nav-link active" data-scroll-target="#latest-articles">Latest Articles</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="End of the World">End of the World <span class="quarto-category-count">(3)</span></div><div class="category" data-category="End-Times Timeline">End-Times Timeline <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Jesus' Return">Jesus' Return <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Matthew 24">Matthew 24 <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Signs">Signs <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Welcome">Welcome <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="End of the World">End of the World <span class="quarto-category-count">(3)</span></div><div class="category" data-category="End-Times Timeline">End-Times Timeline <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Jesus' Return">Jesus' Return <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Matthew 24">Matthew 24 <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Signs">Signs <span class="quarto-category-count">(3)</span></div></div></div>
 <!-- main -->
 <main class="content column-body" id="quarto-document-content">
 
@@ -307,30 +337,76 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="End-Times Timeline,End of the World,Jesus" return,matthew="" 24,signs'="" data-listing-date-sort="1508803200000" data-listing-file-modified-sort="1671279871318" data-listing-reading-time-sort="4.305">
+<div class="quarto-post image-right" data-index="0" data-categories="End-Times Timeline,End of the World,Jesus" return,matthew="" 24,signs'="" data-listing-date-sort="1508803200000" data-listing-file-modified-sort="1672416550119" data-listing-reading-time-sort="4.14">
 <div class="body"><a href="./posts/series/jesus-end-time-timeline-part-1.html">
-<h3 class="no-anchor listing-title">Jesus' End-Time Timeline - What Sign Will Signal the End of the World</h3>
-<div class="listing-subtitle"></div>
+<h3 class="no-anchor listing-title">What Sign Will Signal The End Of The World</h3>
+<div class="listing-subtitle">Jesus Responds to the Disciples' 3rd Question</div>
 </a></div>
 <div class="metadata"><a href="./posts/series/jesus-end-time-timeline-part-1.html">
-<div class="listing-date">Tuesday October-24-2017</div>
+<div class="listing-date">Tue, October 24, 2017</div>
+ <div class="listing-reading-time">4 min</div> 
 </a></div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="End-Times Timeline,End of the World,Jesus" return,matthew="" 24,signs'="" data-listing-date-sort="1508803200000" data-listing-file-modified-sort="1671279871318" data-listing-reading-time-sort="4.715">
+<div class="quarto-post image-right" data-index="1" data-categories="End-Times Timeline,End of the World,Jesus" return,matthew="" 24,signs'="" data-listing-date-sort="1508803200000" data-listing-file-modified-sort="1672416550119" data-listing-reading-time-sort="4.525">
 <div class="body"><a href="./posts/series/jesus-end-time-timeline-part-2.html">
-<h3 class="no-anchor listing-title">Jesus' End-Time Timeline - What Sign Will Signal Your Return</h3>
-<div class="listing-subtitle"></div>
+<h3 class="no-anchor listing-title">What Sign Will Signal Your Return</h3>
+<div class="listing-subtitle">Jesus Responds To The Disciples' 2nd Question</div>
 </a></div>
 <div class="metadata"><a href="./posts/series/jesus-end-time-timeline-part-2.html">
-<div class="listing-date">Tuesday October-24-2017</div>
+<div class="listing-date">Tue, October 24, 2017</div>
+ <div class="listing-reading-time">4 min</div> 
 </a></div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="End-Times Timeline,End of the World,Matthew 24,Signs" data-listing-date-sort="1508803200000" data-listing-file-modified-sort="1671279871318" data-listing-reading-time-sort="3.73">
+<div class="quarto-post image-right" data-index="2" data-categories="End-Times Timeline,End of the World,Matthew 24,Signs" data-listing-date-sort="1508803200000" data-listing-file-modified-sort="1672416550119" data-listing-reading-time-sort="3.57">
 <div class="body">
 <a href="./posts/series/jesus-end-time-timeline-part-3.html">
 <h3 class="no-anchor listing-title">
-Jesus’ End-Time Timeline - When Will All This Happen ?
+When Will All This Happen
+</h3>
+<div class="listing-subtitle">
+Jesus Responds to the Disciples’ 1st Question
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="./posts/series/jesus-end-time-timeline-part-3.html">
+<div class="listing-date">
+Tue, October 24, 2017
+</div>
+<div class="listing-reading-time">
+3 min
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1508025600000" data-listing-file-modified-sort="1672416550119" data-listing-reading-time-sort="0.305">
+<div class="body">
+<a href="./posts/2017/10/welcome-to-be-not-deceived.html">
+<h3 class="no-anchor listing-title">
+Welcome To The Be Not Deceived Blog
 </h3>
 <div class="listing-subtitle">
 
@@ -338,28 +414,12 @@ Jesus’ End-Time Timeline - When Will All This Happen ?
 </a>
 </div>
 <div class="metadata">
-<a href="./posts/series/jesus-end-time-timeline-part-3.html">
-<div class="listing-date">
-Tuesday October-24-2017
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-categories="Welcome" data-listing-date-sort="1508025600000" data-listing-file-modified-sort="1671279871318" data-listing-reading-time-sort="0.285">
-<div class="body">
-<a href="./posts/2017/10/welcome-to-be-not-deceived.html">
-<h3 class="no-anchor listing-title">
-Welcome to Be Not Deceived
-</h3>
-<div class="listing-subtitle">
-
-</div>
-</a>
-</div>
-<div class="metadata">
 <a href="./posts/2017/10/welcome-to-be-not-deceived.html">
 <div class="listing-date">
-Sunday October-15-2017
+Sun, October 15, 2017
+</div>
+<div class="listing-reading-time">
+0 min
 </div>
 </a>
 </div>
@@ -526,7 +586,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   </div>
   <div class="nav-page nav-page-next">
       <a href="./series.html" class="pagination-link">
-        <span class="nav-page-text">Series Index</span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text">Jesus’ End Time Timeline</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

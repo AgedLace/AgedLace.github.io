@@ -11,7 +11,13 @@
   {
     "listing": "/notebook.html",
     "items": [
-      "/notebook/introduction.html"
+      "/notebook/introduction.html",
+      "/notebook/foundations/salvation.html",
+      "/notebook/foundations/why.html",
+      "/notebook/foundations/bible.html",
+      "/notebook/foundations/god.html",
+      "/notebook/foundations/jesus.html",
+      "/notebook/foundations/holy-spirit.html"
     ]
   },
   {
