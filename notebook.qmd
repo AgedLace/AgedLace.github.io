@@ -1,14 +1,17 @@
 ---
+title: Bible Study Index
 listing:
     contents: notebook/**/*.qmd
-    date-format: dddd MMMM-DD-YYYY
+    date-format: ddd, MMMM DD, YYYY
     type: default
     categories: numbered
-    sort-ui: false
-    filter-ui: false
-    fields: [date, title, reading-time, description, categories]
+    sort-ui: true
+    filter-ui: true
+    fields: [date, title, reading-time]
     feed: true
 page-layout: full
 title-block-banner: false
+---
+
 ---
 

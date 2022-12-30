@@ -1,9 +1,6 @@
 ---
-date: 2022-11-25
-categories: [Site License]
+title: Be Not Deceived Site License
 ---
-
-# BeNotDeceived Site License
 
 ---
 
@@ -13,6 +10,4 @@ Copyright &copy; 2022
 [Be Not Deceived](https://BeNotDeceived.org)
 [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 ![Creative Commons License](80x15.png)
-
-
 

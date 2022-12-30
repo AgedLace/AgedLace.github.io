@@ -1,14 +1,14 @@
 ---
-title: "Jesus' End Time Timeline" 
+title: Jesus' End Time Timeline
 listing:
   contents: posts/series/**/*.qmd 
-  date-format: dddd MMMM-DD-YYYY
+  date-format: ddd, MMMM DD, YYYY
   sort: "date asc"
   type: default
   categories: numbered
-  sort-ui: false
-  filter-ui: false 
-  fields: [date, title, reading-time, description, categories]
+  sort-ui: true
+  filter-ui: true
+  fields: [date, title, reading-time, description]
 page-layout: full
 title-block-banner: false 
 ---

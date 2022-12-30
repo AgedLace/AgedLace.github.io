@@ -1,10 +1,10 @@
-# Welcome to Be Not Deceived
-
-:::{.callout-scripture}
-# Matthew 24:4
-
-4 Jesus answered, "**See to it that no one deceives you**."
-:::
+---
+title: Welcome To Be Not Deceived
+subtitle: Jesus answered,"See to it that no one deceives you. - Matthew 24:4
+author: Be Not Deceived
+date: 2022-12-12
+categories: [Bible Study Notebook Introduction, New Believer Information]
+---
 
 ---
 

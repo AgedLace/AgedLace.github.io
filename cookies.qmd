@@ -1,22 +1,18 @@
 ---
-title: Cookies Policy
-date: 2022-11-25
-categories: [Cookies Policy]
+title: Be Not Deceived Cookies Policy
 ---
 
 ---
 
-## Cookies policy
-
-### 1.	Introduction
+## 1.	Introduction
 
 1.1	**BE NOT DECEIVED DOES NOT USE COOKIES OF ANY SORT.**
 
 ## 2.	Credit
 
-2.1	This document is based upon a template from Docular (https://seqlegal.com).
+2.1	This document is based on a template from Docular (https://seqlegal.com).
 
-## 3.	About cookies 
+## 3.	What Is A Cookie  
 
 3.1	A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server.
 
@@ -26,21 +22,21 @@ categories: [Cookies Policy]
 
 ## 4.	Types of Cookies 
 
-4.1	BE NOT DECEIVED DOES NOT USE COOKIES FOR ANY PURPOSE, INCLUDING ANY OF THE FOLLOWING PURPOSES:
+4.1	***BE NOT DECEIVED DOES NOT USE COOKIES FOR ANY PURPOSE, INCLUDING ANY OF THE FOLLOWING PURPOSES***
 
-	(a)	authentication and status - may be used to identify you when you visit a website and as you navigate said website, and to determine if you are logged into said website (cookies used for this purpose are: identify cookies);
+(a) authentication and status - may be used to identify you when you visit a website and as you navigate said website, and to determine if you are logged into said website (cookies used for this purpose are: identify cookies);
 
-	(b)	shopping cart - use cookies to maintain the state of your shopping cart as you navigate websites (cookies used for this purpose are: identify cookies);
+(b) shopping cart - use cookies to maintain the state of your shopping cart as you navigate websites (cookies used for this purpose are: identify cookies);
 
-	(c)	personalization - cookies may be used to store information about your preferences and to personalize a website for you (cookies used for this purpose are: identify cookies);
+(c) personalization - cookies may be used to store information about your preferences and to personalize a website for you (cookies used for this purpose are: identify cookies);
 
-	(d)	security - cookies used as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect a website and services generally (cookies used for this purpose are: identify cookies);
+(d) security - cookies used as an element of the security measures used to protect user accounts, including preventing fraudulent use of login credentials, and to protect a website and services generally (cookies used for this purpose are: identify cookies);
 
-	(e)	advertising - cookies used to help a website to display advertisements that will be relevant to you (cookies used for this purpose are: identify cookies);
+(e) advertising - cookies used to help a website to display advertisements that will be relevant to you (cookies used for this purpose are: identify cookies);
 
-	(f)	analysis - cookies used to help a website analyze the use and performance of their website and services (cookies used for this purpose are: identify cookies); and
+(f) analysis - cookies used to help a website analyze the use and performance of their website and services (cookies used for this purpose are: identify cookies); and
 
-	(g)	cookie consent - cookies used to store your preferences in relation to the use of cookies more generally (cookies used for this purpose are: identify cookies).
+(g) cookie consent - cookies used to store your preferences in relation to the use of cookies more generally (cookies used for this purpose are: identify cookies).
 
 ## 5.	Cookies used by service providers
 
@@ -58,17 +54,17 @@ categories: [Cookies Policy]
 
 6.1	Most browsers allow you to refuse to accept cookies and to delete cookies. The methods for doing so vary from browser to browser, and from version to version. You can however obtain up-to-date information about blocking and deleting cookies via these links:
 
-	(a)	https://support.google.com/chrome/answer/95647 (Chrome);
+(a)	https://support.google.com/chrome/answer/95647 (Chrome);
 
-	(b)	https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox);
+(b)	https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences (Firefox);
 
-	(c)	https://help.opera.com/en/latest/security-and-privacy/ (Opera);
+(c)	https://help.opera.com/en/latest/security-and-privacy/ (Opera);
 
-	(d)	https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies (Internet Explorer);
+(d)	https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies (Internet Explorer);
 
-	(e)	https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac (Safari); and
+(e)	https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac (Safari); and
 
-	(f)	https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge).
+(f)	https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy (Edge).
 
 6.2	Blocking all cookies will have a negative impact upon the usability of many websites.
 
@@ -78,7 +74,7 @@ categories: [Cookies Policy]
 
 7.1	BE NOT DECEIVED HAS NO COOKIES FOR A USER TO MANAGE.
 
-# 8.	Our details 
+## 8.	Our details 
 
 8.1	This website is owned and operated by Be Not Deceived.
 

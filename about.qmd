@@ -1,10 +1,11 @@
 ---
-title: "Bible Translations Used and Their Copyrights"
+title: Bible Translations Used and Their Copyrights
 page-layout: full
 title-block-banner: false
 ---
 
 ---
+
 
 ## Default Translation Used By 'Be Not Deceived'
 

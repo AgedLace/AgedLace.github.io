@@ -1,7 +1,8 @@
 ---
-title: "Jesus' End-Time Timeline - What Sign Will Signal the End of the World"
+title: What Sign Will Signal The End Of The World
 date: 2017-10-24
-description: "Jesus' Response to the Disciples' 3rd Question - What Will Signal the End of the World?"  
+date-modified: last-modified
+subtitle: "Jesus Responds to the Disciples' 3rd Question"  
 categories: [End-Times Timeline, End of the World, Jesus' Return, Matthew 24, Signs]
 ---
 
@@ -11,7 +12,7 @@ categories: [End-Times Timeline, End of the World, Jesus' Return, Matthew 24, Si
 
 This is part 1 of Jesus' End-Time Timeline series as documented in Matthew 24. This article covers Jesus' response to the disciples' third question in Matthew 24:3 - **"What Sign Will Signal The End Of The World?"**
 
-At the end of part 3 of this series, is a pdf of my side-by-side comparison of Jesus' End-Time Timeline as recorded in Matthew 24, Mark 13, and Luke 21.  If you would like the actual spreadsheet, send me an [e-mail](mailto:admin@benotdeceived.org).  Let me know if you need it in .xlsx or .ods format.
+I have created a spreadsheet of my side-by-side comparison of Jesus' End-Time Timeline as recorded in Matthew 24, Mark 13, and Luke 21.  If you would like the actual spreadsheet, send me an [e-mail](mailto:benotdeceived@yandex.com).  Let me know if you need it in .xlsx or .ods format.
 
 NOTE - **I am intentionally keeping my comments, opinions, interpretations, etc., to a bare minimum.  The whole point is to determine what the Word of God actually says, not what I, or anyone else, think it says.**
 
@@ -19,9 +20,18 @@ NOTE - **I am intentionally keeping my comments, opinions, interpretations, etc.
 
 ### Discussion Prompted By Disciples
 
-> Mat 24:1 NLT - As Jesus was leaving the Temple grounds, his disciples pointed out to him the various Temple buildings.
-> 
-> Mat 24:2 NLT - But he responded, "Do you see all these buildings? I tell you the truth, they will be completely demolished. Not one stone will be left on top of another!"
+:::{.callout-scripture}
+# Mat 24:1 NLT  
+
+1 As Jesus was leaving the Temple grounds, his disciples pointed out to him the various Temple buildings.  
+:::
+
+:::{.callout-scripture}
+# Mat 24:2 NLT
+
+2 But he responded, "Do you see all these buildings? I tell you the truth, they will be completely demolished. Not one stone will be left on top of another!"  
+:::
+
 
 ### The Disciples' Three Questions
 
@@ -31,7 +41,11 @@ NOTE - **I am intentionally keeping my comments, opinions, interpretations, etc.
 
 NOTE - Jesus answers these questions in the reverse order they are listed in Matthew 24:3.
 
-> Mat 24:3 NLT - Later, Jesus sat on the Mount of Olives. His disciples came to him privately and said, "**Tell us, when will all this happen?** **What sign will signal your return and the end of the world?"**
+:::{.callout-scripture}
+# Mat 24:3 NLT  
+
+3 Later, Jesus sat on the Mount of Olives. His disciples came to him privately and said, "**Tell us, when will all this happen?** **What sign will signal your return and the end of the world?"**  
+:::
 
 ### What Sign Will Signal The End Of The World?
 
@@ -41,11 +55,13 @@ NOTE - Jesus answers these questions in the reverse order they are listed in Mat
 
 #### The End Is Not Yet
 
-> Mat 24:4 NLT - Jesus told them, "Don't let anyone mislead you,
-> 
-> Mat 24:5 NLT - for many will come in my name, claiming, 'I am the Messiah.' They will deceive many.
-> 
-> Mat 24:6 NLT - And you will hear of wars and threats of wars, but don't panic. Yes, these things must take place, **but the end won't follow immediately.**
+:::{.callout-scripture}
+# Mat 24:4-6 NLT  
+
+4 Jesus told them, "Don't let anyone mislead you,  
+5 for many will come in my name, claiming, 'I am the Messiah.' They will deceive many.  
+6 And you will hear of wars and threats of wars, but don't panic. Yes, these things must take place, **but the end won't follow immediately.**  
+:::
 
 #### The Beginning of Birth Pains
 
@@ -53,9 +69,12 @@ NOTE - Jesus answers these questions in the reverse order they are listed in Mat
 - Global Famines
 - Global Earthquakes
 
-> Mat 24:7 NLT - Nation will go to war against nation, and kingdom against kingdom. There will be famines and earthquakes in many parts of the world.
-> 
-> Mat 24:8 NLT - But **all this is only the first of the birth pains, with more to come**.
+:::{.callout-scripture}
+# Mat 24:7-8 NLT  
+
+7 Nation will go to war against nation, and kingdom against kingdom. There will be famines and earthquakes in many parts of the world.  
+8 But **all this is only the first of the birth pains, with more to come**.  
+:::
 
 Luke 21:11 adds ...
 
@@ -63,7 +82,11 @@ Luke 21:11 adds ...
 - Terrifying Things
 - Great Miraculous Signs From Heaven
 
-> Luk 21:11 NLT - There will be great earthquakes, and there will be famines and plagues in many lands, and there will be terrifying things and great miraculous signs from heaven.
+:::{.callout-scripture}
+# Luk 21:11 NLT  
+
+11 There will be great earthquakes, and there will be famines and plagues in many lands, and there will be terrifying things and great miraculous signs from heaven.
+:::
 
 #### The More To Come
 
@@ -77,17 +100,16 @@ Luke 21:11 adds ...
 - Love Of Many Grows Cold
 - Gospel Preached To The Whole World
 
-> Mat 24:9 NLT - "**Then** you will be arrested, persecuted, and killed. You will be hated all over the world because you are my followers.
-> 
-> Mat 24:10 NLT - And many will turn away from me and betray and hate each other.
-> 
-> Mat 24:11 NLT - And many false prophets will appear and will deceive many people.
-> 
-> Mat 24:12 NLT - Sin will be rampant everywhere, and the love of many will grow cold.
-> 
-> Mat 24:13 NLT - But the one who endures to the end will be saved.
-> 
-> Mat 24:14 NLT - And the Good News about the Kingdom will be preached throughout the whole world, so that all nations will hear it; and **then the end will come**.
+:::{.callout-scripture}
+# Mat 24:9-14 NLT  
+
+9 "**Then** you will be arrested, persecuted, and killed. You will be hated all over the world because you are my followers.  
+10 And many will turn away from me and betray and hate each other.  
+11 And many false prophets will appear and will deceive many people.  
+12 Sin will be rampant everywhere, and the love of many will grow cold.  
+13 But the one who endures to the end will be saved.  
+14 And the Good News about the Kingdom will be preached throughout the whole world, so that all nations will hear it; and **then the end will come**.  
+:::
 
 Luke 21:12-19 expands on these signs.
 
@@ -99,21 +121,18 @@ Luke 21:12-19 expands on these signs.
 - Martyrdom
 - Worldwide Hatred Of Christians
 
-> Luk 21:12 NLT - "But **before all this occurs**, there will be a time of great persecution. You will be dragged into synagogues and prisons, and you will stand trial before kings and governors because you are my followers**.**
-> 
-> Luk 21:13 NLT - But this will be your opportunity to tell them about me.
-> 
-> Luk 21:14 NLT - So don't worry in advance about how to answer the charges against you,
-> 
-> Luk 21:15 NLT - for I will give you the right words and such wisdom that none of your opponents will be able to reply or refute you!
-> 
-> Luk 21:16 NLT - Even those closest to you--your parents, brothers, relatives, and friends--will betray you. They will even kill some of you.
-> 
-> Luk 21:17 NLT - And everyone will hate you because you are my followers.
-> 
-> Luk 21:18 NLT - But not a hair of your head will perish!
-> 
-> Luk 21:19 NLT - By standing firm, you will win your souls.
+:::{.callout-scripture}
+# Luk 21:12-19 NLT  
+
+12 "But **before all this occurs**, there will be a time of great persecution. You will be dragged into synagogues and prisons, and you will stand trial before kings and governors because you are my followers**.**  
+13 But this will be your opportunity to tell them about me.  
+14 So don't worry in advance about how to answer the charges against you,  
+15 for I will give you the right words and such wisdom that none of your opponents will be able to reply or refute you!  
+16 Even those closest to you--your parents, brothers, relatives, and friends--will betray you. They will even kill some of you.  
+17 And everyone will hate you because you are my followers.  
+18 But not a hair of your head will perish!  
+19 By standing firm, you will win your souls.  
+:::
 
 [Part 2 - Jesus' End-Time Timeline - "What Sign Will Signal Your Return?"](https://benotdeceived.org/posts/series/jesus-end-time-timeline-part-2.html)
 

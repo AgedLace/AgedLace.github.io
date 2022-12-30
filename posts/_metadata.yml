@@ -4,14 +4,13 @@
 # (see https://quarto.org/docs/projects/code-execution.html#freeze)
 freeze: true
 
-date-format: dddd MMMM-DD-YYYY
-last-modified:
+date-format: ddd, MMMM DD, YYYY
 
 # Enable banner style title blocks
 title-block-banner: false
 
 # Author name of all blog posts
-author: 'Admin - Be Not Deceived'
+# author: 'Be Not Deceived'
 
 
 

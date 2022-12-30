@@ -1,11 +1,13 @@
 ---
-title: "Blog Archive"
+title: Blog Archive
 page-layout: full
 listing:
-  date-format: dddd MMMM-DD-YYYY
+  date-format: ddd, MMMM DD, YYYY
   contents: posts/**/*.qmd
+  sort-ui: true
+  filter-ui: true
   type: default
-  fields: [date, title]
+  fields: [date, title, reading-time]
   sort: 'date desc'
   categories: numbered
 ---

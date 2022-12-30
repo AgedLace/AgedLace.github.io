@@ -1,6 +1,8 @@
 ---
-title: Introduction
+title: Introduction 
+subtitle: Bible Study Notebook - Introduction For New Believers
 date: 2022-12-12
+categories: [Bible Study Notebook Introduction, New Believer Information]
 ---
 
 ---
@@ -45,6 +47,8 @@ For example ...
 * BSB = Berean Standard Bible (the default translation used on this site)
 
 ## The Bible - God's Word to Us  
+
+This topic is more fully developed in the first [Bible Study Notebook Foundations](https://benotdeceived.org/notebook/foundations/why.html) study.
 
 ### Is God-Breathed  
 
