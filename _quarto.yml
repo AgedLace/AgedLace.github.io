@@ -52,8 +52,8 @@ website:
                     
             - section: Blog
               contents:
-                - href: blog.qmd
-                -  href: archive.qmd
+#                - href: blog.qmd
+#                -  href: archive.qmd
                     
                 - section: Jesus' Endtime Timeline
                   contents:
@@ -69,7 +69,7 @@ website:
 
             - section: Bible Study Notebook
               contents:
-                  - href: notebook.qmd
+#                  - href: notebook.qmd
 
                   - section: New Believer Introduction
                     contents:
