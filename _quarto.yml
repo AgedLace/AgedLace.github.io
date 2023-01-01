@@ -54,7 +54,11 @@ website:
               contents:
 #                - href: blog.qmd
 #                -  href: archive.qmd
-                    
+
+                - section: Welcome
+                  contents:
+                      - href: posts/2017/10/welcome-to-be-not-deceived.qmd
+
                 - section: Jesus' Endtime Timeline
                   contents:
                       - href: series.qmd
