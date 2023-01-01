@@ -36,7 +36,7 @@ website:
 
 
     sidebar:
-        header: "[Be Not Deceived](https://benotdeceived.org)"
+        header: "[Be Not Deceived](https://benotdeceived.org/)"
         collapse-level: 1
         align: left
         pinned: true
