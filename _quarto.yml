@@ -55,7 +55,7 @@ website:
                 - href: blog.qmd
                 -  href: archive.qmd
                     
-                - section: Jesus' Entime Timeline
+                - section: Jesus' Endtime Timeline
                   contents:
                       - href: series.qmd
                       - href: posts/series/jesus-end-time-timeline-part-1.qmd
@@ -65,7 +65,7 @@ website:
                 - section: Gospel of John
                   contents:
                       - href: john.qmd
-                      - href: posts/john/john-1.1-5.qmd  
+                      - href: posts/john/john.1.1-5.qmd  
 
             - section: Bible Study Notebook
               contents:
