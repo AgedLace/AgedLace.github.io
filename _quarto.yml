@@ -58,10 +58,14 @@ website:
                 - section: Jesus' Entime Timeline
                   contents:
                       - href: series.qmd
+                      - href: posts/series/jesus-end-time-timeline-part-1.qmd
+                      - href: posts/series/jesus-end-time-timeline-part-2.qmd
+                      - href: posts/series/jesus-end-time-timeline-part-3.qmd
 
                 - section: Gospel of John
                   contents:
                       - href: john.qmd
+                      - href: posts/john/john-1.1-5.qmd  
 
             - section: Bible Study Notebook
               contents:
