@@ -37,34 +37,40 @@ website:
 
     sidebar:
         header: "[Be Not Deceived](https::/benotdeceived.org)"
-        pinned: true
-        align: left
-        border: true
         collapse-level: 1
+        align: left
+        pinned: true
+        border: true
         contents:
-            
             - section: Home
               contents:
-                  - href: index.qmd
+                - index.qmd
 
             - section: About
               contents:
-                  - href: about.qmd
+                - href: about.qmd
                     
             - section: Blog
               contents:
-                  - href: blog.qmd
-                  -  href: archive.qmd
+                - href: blog.qmd
+                -  href: archive.qmd
                     
-            - section: Series
-              contents:
-                  - href: series.qmd
+                - section: Jesus' Entime Timeline
+                  contents:
+                      - href: series.qmd
+
+                - section: Gospel of John
+                  contents:
+                      - href: john.qmd
 
             - section: Bible Study Notebook
               contents:
-                  - text: ""
                   - href: notebook.qmd
-                  - href: notebook/introduction.qmd
+
+                  - section: New Believer Introduction
+                    contents:
+                        - href: notebook/introduction.qmd
+                          
                   - section: Foundations
                     contents:
                         - href: notebook/foundations/why.qmd
