@@ -36,7 +36,7 @@ website:
 
 
     sidebar:
-        header: "[Be Not Deceived](https::/benotdeceived.org)"
+        header: "[Be Not Deceived](https://benotdeceived.org)"
         collapse-level: 1
         align: left
         pinned: true
@@ -53,7 +53,7 @@ website:
             - section: Blog
               contents:
 #                - href: blog.qmd
-#                -  href: archive.qmd
+#                - href: archive.qmd
 
                 - section: Welcome
                   contents:
