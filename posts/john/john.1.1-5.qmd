@@ -1,10 +1,18 @@
 ---
-title: Gospel of John 1:1-5
-date: 01/01/2023
+title: Gospel of John 1:1-5, 1:14-18
+date: 01/06/2023
 date-modified: last-modified
-subtitle: "The Beginning"  
-categories: [John 1:1-5, The Word, Jesus The Word, Jesus Man and God]
+subtitle: "The Beginning Was The Word"  
+categories: [John 1:1-5, John 1:14-18, Jesus - The Word, Jesus - Both Man and God, Preeminence of Christ]
 ---
+
+---
+
+## Jesus - The Word  
+
+:::{.callout-note}  
+Jesus is '*The Word*' referred to in this portion of Scripture.  *See verses 6-18*.  
+:::
 
 ---
 
@@ -13,9 +21,140 @@ categories: [John 1:1-5, The Word, Jesus The Word, Jesus Man and God]
 
 1 In the beginning was the Word, and the Word was with God, and the Word was God.   
 2 He was with God in the beginning.  
-3 Through Him all things were made, and without Him nothing was made that has been made.  
-4 In Him was life, and that life was the light of men. 
-5 The Light shines in the darkness, and the darkness has not overcome it.
 :::
 
+### *arché*
+
+*   Jesus existed in the beginning with God, at the creation of the world. (Genesis 1:1)
+*   Jesus was with God
+*   Jesus was God
+
+The Greek word for *in the beginning* is G746 *arché*.  
+
+:::{.callout-word-study}
+# G746 - *arché*  
+
+**Strong's Concordance**  
+
+- rule (kingly or magisterial)  
+- plur: in a quasi-personal sense, almost: rulers, magistrates  
+- beginning  
+
+**Strong's Exhaustive Concordance**  
+
+magistrate, power, principality, principle, rule  
+
+From *archomai*; (properly abstract) **a commencement, or (concretely) chief** (in various applications of order, time, place, or rank) -- beginning, corner, (at the, the) first (estate), magistrate, power, principality, principle, rule.
+
+**HELPS Word-Studies**  
+
+746 *arxḗ* – **properly, from the beginning** (temporal sense), i.e. **"the initial (starting) point"**; (figuratively) **what comes first and therefore is chief (foremost)**, i.e. **has the priority because ahead of the rest ("preeminent")**.
+:::
+
+*   As God, Jesus has preeminence over all creation.
+
+### *Logos*
+
+*   Jesus is the expression of the Father's thoughts through the Spirit.  
+*   He was with God
+*   He was God
+
+The Greek word for *Word* is G3056 *logos*.
+
+:::{.callout-word-study}
+# G3056 - *logos*  
+
+**Strong's Concordance**  
+
+- a word (as embodying an idea)
+- a statement
+- a speech
+- a word, speech, **divine utterance**, analogy
+
+**HELPS Word-studies**  
+
+3056 *lógos* (from 3004 */légō*, "speaking to a conclusion") – a word, being the expression of a thought; a saying. 3056 */lógos* ("word") **is preeminently used of Christ (Jn 1:1), expressing the thoughts of the Father through the Spirit**.
+
+[3056 (*lógos*) is a common term (used 330 times in the NT) with regards to a person sharing a message (discourse, "communication-speech"). 3056 (*lógos*) is a broad term meaning "reasoning expressed by words."]
+:::
+
+## Jesus - The Creator Of All Things
+
+:::{.callout-scripture}
+# John 1:3-5  
+
+3 **Through Him all things were made, and without Him nothing was made that has been made**.  
+4 In Him was life, and that life was the light of men.  
+5 The Light shines in the darkness, and the darkness has not overcome it.  
+:::
+
+*   As Creator of all things, Jesus has preeminence over all He has made.
+
+## Jesus Became Flesh
+
+Verses 1 and 18 tell us that Jesus was God.  Now in verse 14, we are told that He became flesh; meaning He was born into His own creation as a man.
+
+:::{.callout-scripture}
+# John 1:14-16
+
+14 **The Word became flesh and made His dwelling among us**. We have seen His glory, the glory of the one and only Son from the Father, full of grace and truth.  
+15 John testified concerning Him. He cried out, saying, “This is He of whom I said, ‘He who comes after me has surpassed me because He was before me.’”  
+:::
+
+### Jesus Is The One And Only Son
+
+:::{.callout-scripture}
+# John 1:14-16
+
+14 The Word became flesh and made His dwelling among us. We have seen His glory, the glory of **the one and only Son from the Father**, full of grace and truth.  
+15 John testified concerning Him. He cried out, saying, “This is He of whom I said, ‘**He who comes after me has surpassed me because He was before me**.’”  
+:::
+
+:::{.callout-scripture}
+# John 1:16-18
+16 From His fullness we have all received grace upon grace.  
+17 For the law was given through Moses; grace and truth came through Jesus Christ.  
+18 No one has ever seen God, but **the one and only Son**, **who is Himself God** and is at the Father’s side, has made Him known.  
+:::
+
+*   John the Baptist testifies to Jesus' preexistence as God
+*   John the Baptist testifies to the deity of Jesus
+*   Jesus is unique in that He is the *one and only* one who is both God and Man.
+
+The Greek word for *one and only Son* is G3439 *monogenés*.
+
+:::{.callout-word-study}
+# G3439 - *monogenés*  
+
+**Strong's Concordance**
+
+* only
+* only begotten
+* unique
+
+**HELPS Word-Studies**  
+
+3439 *monogenḗs* (from 3411 */misthōtós*, "one-and-only" and 1085 */génos*, "offspring, stock") – **properly, one-and-only; "one of a kind" – literally, "one (monos) of a class, genos" (the only of its kind**).
+:::
+
+In verse 17, John the Baptist also contrasts the Old and New Covenants. 
+
+* The Law was given through Moses
+* Grace and  Truth came through Jesus Christ
+
+In verse 18, the Greek for *at the Father's side* means *in the Father's bosom*.
+
+:::{.callout-word-study}
+# G2859 - *kolpos*  
+
+**Strong's Concordance**  
+
+* sing. and plur: bosom
+* (sinus) the overhanging fold of the garment used as a pocket
+* a bay, gulf
+
+**HELPS Word-studies**  
+
+2859 *kólpos* – properly, the upper part of the chest where a garment naturally folded to form a "pocket" – called the "bosom," the position synonymous with intimacy (union).
+:::
 
