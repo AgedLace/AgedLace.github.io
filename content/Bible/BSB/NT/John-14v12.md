@@ -1,7 +1,8 @@
 ---
-Title: John-14v12
+title: John-14v12
 Type: Scripture Quote
-tags: [Bible/BSB/NT/John-14v12]
+tags:
+  - Bible/BSB/NT/John-14v12
 Date-Created: 2024-February-22, 6:08:18 am
 Date-Modified: 2024-February-22, 6:10:52 am
 ---

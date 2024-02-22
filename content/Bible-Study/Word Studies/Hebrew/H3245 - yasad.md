@@ -1,5 +1,5 @@
 ---
-Title: H3245 - yasad
+title: H3245 - yasad
 Type: Bible Study - Word Study
 Date-Created: 2023 September 20, 02:37:21 pm
 Date-Modified: 2023 September 20, 02:42:43 pm

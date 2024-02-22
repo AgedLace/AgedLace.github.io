@@ -1,7 +1,8 @@
 ---
-Title: Ephesians-1v3
+title: Ephesians-1v3
 Type: Scripture Quote
-tags: [Bible/BSB/NT/Ephesians-1v3]
+tags:
+  - Bible/BSB/NT/Ephesians-1v3
 Date-Created: 2024-February-22, 6:44:57 am
 Date-Modified: 2024-February-22, 6:46:29 am
 ---

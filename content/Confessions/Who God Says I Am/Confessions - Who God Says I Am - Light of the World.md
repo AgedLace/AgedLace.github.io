@@ -1,5 +1,5 @@
 ---
-Title: Confessions - Who God Says _ Am - Light of the World
+title: Confessions - Who God Says _ Am - Light of the World
 Type: Confession
 Date-Created: 2023 September 04, 01:56:44 pm
 Date-Modified: 2023 October 10, 02:49:20 pm

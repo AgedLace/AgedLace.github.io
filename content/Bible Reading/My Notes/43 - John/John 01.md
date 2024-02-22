@@ -1,5 +1,5 @@
 ---
-Title: John 01
+title: John 01
 Type: Bible Reading Note
 Date-Created: 2006 November 23, 06:44:23 am
 Date-Modified: 2023 November 06, 07:09:01 am

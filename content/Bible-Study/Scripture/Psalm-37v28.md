@@ -1,5 +1,5 @@
 ---
-Title: Psalm-37v28
+title: Psalm-37v28
 Type: Scripture Note
 Date-Created: 2023 October 12, 06:01:01 pm
 Date-Modified: 2023 October 12, 06:05:25 pm

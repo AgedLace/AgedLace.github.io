@@ -1,5 +1,5 @@
 ---
-Title: Isaiah-30v18
+title: Isaiah-30v18
 Type: Scripture Note
 Date-Created: 2023 October 12, 06:50:42 pm
 Date-Modified: 2023 November 11, 06:54:46 am

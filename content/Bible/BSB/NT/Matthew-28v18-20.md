@@ -1,7 +1,8 @@
 ---
-Title: Matthew-28v18-20
+title: Matthew-28v18-20
 Type: Scripture Quote
-tags: [Bible/BSB/NT/Matthew-28v18-20]
+tags:
+  - Bible/BSB/NT/Matthew-28v18-20
 Date-Created: 2024-February-22, 7:57:51 am
 Date-Modified: 2024-February-22, 8:00:25 am
 ---

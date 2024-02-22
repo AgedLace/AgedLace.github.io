@@ -1,5 +1,5 @@
 ---
-Title: H6666 - tsedaqah
+title: H6666 - tsedaqah
 Type: Bible Study - Word Study
 Date-Created: 2012 October 23, 06:29:39 pm
 Date-Modified: 2023 October 12, 06:35:24 pm

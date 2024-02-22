@@ -1,6 +1,6 @@
 ---
-Type:
-Title: Romans-12v1-3
+Type: 
+title: Romans-12v1-3
 tags: []
 Date-Created: 2024-February-21, 7:47:38 am
 Date-Modified: 2024-February-22, 6:24:27 am

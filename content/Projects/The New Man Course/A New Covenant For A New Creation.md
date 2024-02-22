@@ -1,7 +1,10 @@
 ---
-Title: A New Covenant For A New Creation
+title: A New Covenant For A New Creation
 Type: Book Note
-tags: [Book/Curry-Blake/A-New-Covenant-For-A-New-Creation, Bible-Study/New-Man/New-Covenant, Bible-Study/New-Man/New-Creation]
+tags:
+  - Book/Curry-Blake/A-New-Covenant-For-A-New-Creation
+  - Bible-Study/New-Man/New-Covenant
+  - Bible-Study/New-Man/New-Creation
 Date-Created: 2024-February-22, 6:03:21 am
 Date-Modified: 2024-February-22, 7:23:35 am
 Author: Curry Blake

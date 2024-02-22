@@ -1,5 +1,5 @@
 ---
-Title: Discipleship Course
+title: Discipleship Course
 Type: Project Note
 Date-Created: 2031 August 23, 06:51:09 pm
 Date-Modified: 2023 November 05, 04:45:57 am

@@ -1,5 +1,5 @@
 ---
-Title: G2919 - krinó
+title: G2919 - krinó
 Type: Word Study
 Date-Created: 2031 August 23, 06:51:09 pm
 Date-Modified: 2023 November 06, 07:13:51 am

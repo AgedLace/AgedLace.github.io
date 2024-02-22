@@ -1,5 +1,5 @@
 ---
-Title: Authority of Believers
+title: Authority of Believers
 Type: Affirmation
 Date-Created: 2023 September 21, 05:32:48 am
 Date-Modified: 2023 October 01, 01:15:59 pm

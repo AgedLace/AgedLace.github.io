@@ -1,5 +1,5 @@
 ---
-Title: G0727 - harpax
+title: G0727 - harpax
 Type: Word Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 19, 04:22:43 pm

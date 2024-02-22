@@ -1,5 +1,5 @@
 ---
-Title: G3056 - lógos
+title: G3056 - lógos
 Type: Bible Study - Word Study
 tags:
   - Bible-Study/Greek/3056-logos

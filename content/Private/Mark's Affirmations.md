@@ -1,6 +1,6 @@
 ---
 Date-Modified: 2023 October 01, 01:16:33 pm
-Title: Mark's Affirmations
+title: Mark's Affirmations
 Type: Affirmation
 Date-Created: 2024-February-20, 9:38:43 am
 tags:

@@ -1,5 +1,5 @@
 ---
-Title: Confessions - Kept By God
+title: Confessions - Kept By God
 Type: Confession
 Date-Created: 2023 September 07, 10:35:01 am
 Date-Modified: 2023 September 09, 04:10:14 pm

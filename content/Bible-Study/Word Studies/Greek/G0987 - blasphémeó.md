@@ -1,5 +1,5 @@
 ---
-Title: G987 - blasphémeó
+title: G987 - blasphémeó
 Type: Word Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 08, 06:47:27 pm

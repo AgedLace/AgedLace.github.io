@@ -1,5 +1,5 @@
 ---
-Title: H3407 - yeriah
+title: H3407 - yeriah
 Type: Word Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 08, 06:44:51 pm

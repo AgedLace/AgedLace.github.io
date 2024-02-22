@@ -1,5 +1,5 @@
 ---
-Title: Divine Healing Technician
+title: Divine Healing Technician
 Type: YouTube Video Note
 Date-Created: 2023 September 14, 03:28:03 pm
 Date-Modified: 2023 September 14, 10:03:29 pm

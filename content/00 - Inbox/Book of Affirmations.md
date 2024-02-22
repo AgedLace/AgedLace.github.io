@@ -1,6 +1,6 @@
 ---
 Date-Modified: 2023 October 01, 12:18:30 pm
-Title: Book of Affirmations
+title: Book of Affirmations
 Type: Project Note
 Date-Created: 2024-February-20, 9:38:40 am
 tags:

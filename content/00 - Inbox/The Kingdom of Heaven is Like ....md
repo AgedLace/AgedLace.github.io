@@ -1,5 +1,5 @@
 ---
-Title: The Kingdom of Heaven is Like
+title: The Kingdom of Heaven is Like
 Type: Project Note
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 21, 05:31:47 am

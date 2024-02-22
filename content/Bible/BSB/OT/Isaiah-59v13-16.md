@@ -1,9 +1,10 @@
 ---
-Title: Isaiah-59v13-16
+title: Isaiah-59v13-16
 Type: Scripture Note
 Date-Created: 2024-February-20, 10:27:10 am
 Date-Modified: 2024-February-22, 6:29:11 am
-tags: [Bible/BSB/OT/Isaiah-59v13-16]
+tags:
+  - Bible/BSB/OT/Isaiah-59v13-16
 ---
 
 > [!example] **Isaiah 59:13-16**

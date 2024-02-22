@@ -1,5 +1,5 @@
 ---
-Title: Keys of The Kingdom
+title: Keys of The Kingdom
 Type: Bible Study - Topical Study
 Date-Created: 2023 October 08, 09:34:30 am
 Date-Modified: 2023 October 10, 01:34:44 pm

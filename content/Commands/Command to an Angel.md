@@ -1,7 +1,7 @@
 ---
 Date-Created: 2024-February-19, 11:21:22 am
 Date-Modified: 2024-February-19, 1:20:55 pm
-Title: Command to an Angel
+title: Command to an Angel
 tags:
   - Commands
 ---

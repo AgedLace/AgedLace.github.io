@@ -1,5 +1,5 @@
 ---
-Title: Divine Health
+title: Divine Health
 Type: Affirmation
 Date-Created: 2023 September 21, 05:52:39 am
 Date-Modified: 2023 October 01, 01:16:15 pm

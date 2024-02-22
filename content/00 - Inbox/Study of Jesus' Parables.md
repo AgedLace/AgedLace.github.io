@@ -1,5 +1,5 @@
 ---
-Title: "Study of Jesus' Parables"
+title: Study of Jesus' Parables
 Type: Project
 tags: []
 Date-Created: 2024-February-22, 6:01:55 am

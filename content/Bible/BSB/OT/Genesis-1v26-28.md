@@ -1,7 +1,8 @@
 ---
-Title: Genesis-1v26-28
+title: Genesis-1v26-28
 Type: Scripture Quote
-tags: [Bible/BSB/OT/Genesis-1v26-28]
+tags:
+  - Bible/BSB/OT/Genesis-1v26-28
 Date-Created: 2024-February-22, 6:28:57 am
 Date-Modified: 2024-February-22, 6:35:12 am
 ---

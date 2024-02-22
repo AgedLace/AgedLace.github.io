@@ -1,6 +1,6 @@
 ---
 Date-Modified: 2023 October 10, 02:50:15 pm
-Title: God's Word Final Authority
+title: God's Word Final Authority
 Type: Quote
 Date-Created: 2024-February-20, 9:38:43 am
 tags:

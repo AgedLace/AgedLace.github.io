@@ -1,7 +1,7 @@
 ---
 tags: 
 Date-Modified: 2023 September 09, 12:37:23 am
-Title: How To Walk In The Power of God
+title: How To Walk In The Power of God
 Type: YouTube Bible Study
 Date-Created: 2024-February-20, 9:38:42 am
 Instructor: Curry Blake

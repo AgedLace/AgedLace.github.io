@@ -1,5 +1,5 @@
 ---
-Title: G1843 - exomologeó
+title: G1843 - exomologeó
 Type: Word Study
 Date-Created: 2023 September 08, 05:19:17 pm
 Date-Modified: 2023 September 08, 06:41:25 pm

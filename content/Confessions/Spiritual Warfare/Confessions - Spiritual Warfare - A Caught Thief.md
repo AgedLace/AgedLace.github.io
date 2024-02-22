@@ -1,5 +1,5 @@
 ---
-Title: Confessions - Spiritual Warfare - A Caught Thief
+title: Confessions - Spiritual Warfare - A Caught Thief
 Type: Confession
 Date-Created: 2007 September 23, 05:47:21 am
 Date-Modified: 2023 October 10, 02:49:38 pm

@@ -1,5 +1,5 @@
 ---
-Title: Psalm-33v5
+title: Psalm-33v5
 Type: Scripture Note
 Date-Created: 2023 October 12, 07:29:00 pm
 Date-Modified: 2023 November 05, 04:50:28 am

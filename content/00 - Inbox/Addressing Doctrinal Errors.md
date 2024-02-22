@@ -1,5 +1,5 @@
 ---
-Title: Addressing Doctrinal Errors
+title: Addressing Doctrinal Errors
 tags:
   - Bible-Study/Doctrinal-Errors
 Date-Created: 2024-February-20, 3:03:38 pm

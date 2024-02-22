@@ -1,5 +1,5 @@
 ---
-Title: Matthew-13v18-23
+title: Matthew-13v18-23
 Type: Scripture Note
 Date-Created: 2023 November 11, 06:54:16 am
 Date-Modified: 2023 November 11, 06:54:41 am

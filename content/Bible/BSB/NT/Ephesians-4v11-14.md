@@ -1,7 +1,8 @@
 ---
-Title: Ephesians-4v11-14
+title: Ephesians-4v11-14
 Type: Scripture Quote
-tags: [BIble/BSB/NT/Ephesians-4v11-14]
+tags:
+  - BIble/BSB/NT/Ephesians-4v11-14
 Date-Created: 2024-February-22, 8:03:05 am
 Date-Modified: 2024-February-22, 8:05:59 am
 ---

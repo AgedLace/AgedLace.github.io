@@ -1,5 +1,5 @@
 ---
-Title: Psalm-103v6
+title: Psalm-103v6
 Type: Scripture Note
 Date-Created: 2012 October 23, 06:24:42 pm
 Date-Modified: 2023 October 12, 08:35:37 pm

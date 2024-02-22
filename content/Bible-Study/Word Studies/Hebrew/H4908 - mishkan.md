@@ -1,5 +1,5 @@
 ---
-Title: H4908 - mishkan
+title: H4908 - mishkan
 Type: Word Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 08, 06:44:27 pm

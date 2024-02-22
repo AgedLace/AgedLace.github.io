@@ -1,5 +1,5 @@
 ---
-Title: Confessions - Inheritance - Lasts Forever
+title: Confessions - Inheritance - Lasts Forever
 Type: Confession
 Date-Created: 2023 September 07, 10:38:30 am
 Date-Modified: 2023 September 09, 04:09:28 pm

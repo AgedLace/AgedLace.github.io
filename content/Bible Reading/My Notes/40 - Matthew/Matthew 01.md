@@ -1,5 +1,5 @@
 ---
-Title: Matthew 01
+title: Matthew 01
 Type: Bible Reading Note
 tags:
   - Bible-Reading/40-Matthew-01

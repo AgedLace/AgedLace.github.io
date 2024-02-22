@@ -1,6 +1,6 @@
 ---
 Date-Modified: 2023 October 01, 01:18:43 pm
-Title: New Man - Who I am IN CHRIST
+title: New Man - Who I am IN CHRIST
 Type: Affirmation
 Date-Created: 2024-February-20, 9:38:43 am
 tags:

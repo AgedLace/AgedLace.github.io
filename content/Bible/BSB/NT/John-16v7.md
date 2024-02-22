@@ -1,9 +1,10 @@
 ---
-Title: John-16v7
+title: John-16v7
 Type: Scripture Quote
 Date-Created: 2024-February-22, 6:18:05 am
 Date-Modified: 2024-February-22, 6:20:41 am
-tags: [Bible/BSB/NT/John-16v7]
+tags:
+  - Bible/BSB/NT/John-16v7
 ---
 
 > [!example] **John 16:7**  

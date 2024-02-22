@@ -1,5 +1,5 @@
 ---
-Title: G3860 - paradidomi
+title: G3860 - paradidomi
 Type: Word Study
 Date-Created: 2023 September 07, 08:05:05 am
 Date-Modified: 2023 September 08, 06:46:01 pm

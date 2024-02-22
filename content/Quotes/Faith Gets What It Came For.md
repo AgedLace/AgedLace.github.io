@@ -1,5 +1,5 @@
 ---
-Title: Faith Gets What It Came For
+title: Faith Gets What It Came For
 Date-Created: 2024-February-19, 11:33:00 am
 Date-Modified: 2024-February-20, 3:03:04 pm
 tags:

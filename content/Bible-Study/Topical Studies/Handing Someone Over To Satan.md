@@ -1,5 +1,5 @@
 ---
-Title: Handing Someone Over To Satan
+title: Handing Someone Over To Satan
 Type: Bible Study - Topical Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 08, 09:19:24 pm

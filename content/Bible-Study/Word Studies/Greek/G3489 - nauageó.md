@@ -1,5 +1,5 @@
 ---
-Title: G3489 - nauageó
+title: G3489 - nauageó
 Type: Word Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 08, 06:46:24 pm

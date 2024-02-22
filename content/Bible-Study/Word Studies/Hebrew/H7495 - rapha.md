@@ -1,5 +1,5 @@
 ---
-Title: H7495 - rapha
+title: H7495 - rapha
 Type: Word Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 14, 04:11:30 am

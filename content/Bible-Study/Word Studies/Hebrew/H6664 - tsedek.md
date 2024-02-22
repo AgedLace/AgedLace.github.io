@@ -1,5 +1,5 @@
 ---
-Title: H6664-tsedek
+title: H6664-tsedek
 Type: Bible Study - Word Study
 Date-Created: 2023 October 12, 05:35:41 pm
 Date-Modified: 2023 October 12, 08:34:49 pm

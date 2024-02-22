@@ -1,5 +1,5 @@
 ---
-Title: H4941-mishpat
+title: H4941-mishpat
 Type: Bible Study - Word Study
 Date-Created: 2023 October 12, 05:39:43 pm
 Date-Modified: 2023 October 12, 08:35:09 pm

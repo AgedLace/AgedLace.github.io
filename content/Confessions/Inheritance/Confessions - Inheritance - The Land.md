@@ -1,5 +1,5 @@
 ---
-Title: Confessions - Inheritance - The Land
+title: Confessions - Inheritance - The Land
 Type: Confession
 Date-Created: 2023 September 07, 10:20:25 am
 Date-Modified: 2023 September 09, 04:09:54 pm

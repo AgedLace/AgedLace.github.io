@@ -1,5 +1,5 @@
 ---
-Title: Bible Study
+title: Bible Study
 Type: MOC
 Date-Created: 2008 September 23, 04:07:46 pm
 Date-Modified: 2023 November 05, 05:01:07 am

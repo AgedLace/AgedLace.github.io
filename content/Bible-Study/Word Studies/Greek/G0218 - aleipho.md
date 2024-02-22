@@ -1,9 +1,10 @@
 ---
-Title: G0218 - aleipho
+title: G0218 - aleipho
 Type: Bible Study - Word Study
 Date-Created: 2024-February-20, 10:27:09 am
 Date-Modified: 2024-February-22, 7:15:48 am
-tags: [Bible-Study/Greek/0218-aleipho]
+tags:
+  - Bible-Study/Greek/0218-aleipho
 ---
 
 ## G0218 - Aleipho

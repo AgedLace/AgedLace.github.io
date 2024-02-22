@@ -1,5 +1,5 @@
 ---
-Title: H6738 - tsel
+title: H6738 - tsel
 Type: Word Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 08, 06:44:02 pm

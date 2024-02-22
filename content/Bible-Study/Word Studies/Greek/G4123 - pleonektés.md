@@ -1,5 +1,5 @@
 ---
-Title: G4123 - pleonektés
+title: G4123 - pleonektés
 Type: Word Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 08, 06:45:22 pm

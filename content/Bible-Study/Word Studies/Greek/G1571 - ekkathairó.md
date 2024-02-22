@@ -1,5 +1,5 @@
 ---
-Title: G1571 - ekkathairó
+title: G1571 - ekkathairó
 Type: Word Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 08, 06:47:07 pm

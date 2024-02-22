@@ -1,5 +1,5 @@
 ---
-Title: 6 Basic Affirmations
+title: 6 Basic Affirmations
 Type: Affirmation
 Date-Created: 2023 September 21, 05:05:13 am
 Date-Modified: 2023 October 01, 01:15:20 pm

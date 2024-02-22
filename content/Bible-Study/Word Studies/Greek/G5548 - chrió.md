@@ -1,5 +1,5 @@
 ---
-Title: G5548 - chrió
+title: G5548 - chrió
 Type: Bible Study - Word Study
 Date-Created: 2023 September 19, 04:34:25 pm
 Date-Modified: 2023 September 19, 04:39:19 pm

@@ -1,5 +1,5 @@
 ---
-Title: Repentance
+title: Repentance
 Type: Bible Study - Topical Study
 Date-Created: 2023 September 18, 06:14:13 am
 Date-Modified: 2023 September 18, 06:26:47 am

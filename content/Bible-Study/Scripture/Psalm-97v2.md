@@ -1,5 +1,5 @@
 ---
-Title: Psalm-97v2
+title: Psalm-97v2
 Type: Scripture Note
 Date-Created: 2012 October 23, 05:16:42 pm
 Date-Modified: 2023 October 12, 08:35:12 pm

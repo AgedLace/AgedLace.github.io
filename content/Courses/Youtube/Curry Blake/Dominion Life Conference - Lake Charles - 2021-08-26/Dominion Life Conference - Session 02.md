@@ -1,10 +1,12 @@
 ---
 Date-Modified: 2024-February-21, 2:58:09 pm
-Title: Dominion Life Conference - Session 02
+title: Dominion Life Conference - Session 02
 Type: Youtube Course Note
 Date-Created: 2024-February-20, 10:27:10 am
 Instructor: Curry Blake
-tags: [Course/Youtube/Curry-Blake/Dominion-Life-Conference/Session-02, Course/Instructor/Curry-Blake]
+tags:
+  - Course/Youtube/Curry-Blake/Dominion-Life-Conference/Session-02
+  - Course/Instructor/Curry-Blake
 ---
 
 ## Dlc - Session 02

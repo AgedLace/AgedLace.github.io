@@ -1,10 +1,12 @@
 ---
-Title: The Justice of God
+title: The Justice of God
 Type: Youtube Course Note
 Date-Created: 2024-February-20, 10:27:10 am
 Date-Modified: 2024-February-21, 3:01:42 pm
 Instructor: John Paul Jackson
-tags: [Course/Youtube/John-Paul-Jackson/The-Justice-Of-God, Course/Instructor/John-Paul-Jackson]
+tags:
+  - Course/Youtube/John-Paul-Jackson/The-Justice-Of-God
+  - Course/Instructor/John-Paul-Jackson
 ---
 
 ## The Justice of God

@@ -1,5 +1,5 @@
 ---
-Title: G3811 - paideuó
+title: G3811 - paideuó
 Type: Word Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 08, 06:46:10 pm

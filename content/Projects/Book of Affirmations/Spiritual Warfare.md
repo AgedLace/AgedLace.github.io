@@ -1,5 +1,5 @@
 ---
-Title: Spiritual Warfare
+title: Spiritual Warfare
 Type: Affirmation
 Date-Created: 2023 September 21, 05:45:45 am
 Date-Modified: 2023 October 01, 01:19:45 pm

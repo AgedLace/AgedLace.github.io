@@ -1,10 +1,12 @@
 ---
 Date-Modified: 2024-February-21, 2:59:33 pm
 Date-Created: 2024-February-20, 10:27:10 am
-Title: Dominion Life Conference - Session 01
+title: Dominion Life Conference - Session 01
 Type: Youtube Course Note
 Instructor: Curry Blake
-tags: [Course/Youtube/Curry-Blake/Dominion-Life-Conference/Session-01, Course/Instructor/Curry-Blake]
+tags:
+  - Course/Youtube/Curry-Blake/Dominion-Life-Conference/Session-01
+  - Course/Instructor/Curry-Blake
 ---
 
 ## Dlc - Session 01

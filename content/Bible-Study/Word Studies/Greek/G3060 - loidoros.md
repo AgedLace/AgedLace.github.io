@@ -1,5 +1,5 @@
 ---
-Title: G3060 - loidoros
+title: G3060 - loidoros
 Type: Word Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 08, 06:46:37 pm

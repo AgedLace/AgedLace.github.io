@@ -1,5 +1,5 @@
 ---
-Title: Ask
+title: Ask
 Type: Bible Study - Topical Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 08, 06:39:18 pm

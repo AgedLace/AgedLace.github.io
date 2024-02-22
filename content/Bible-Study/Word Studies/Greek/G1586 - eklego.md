@@ -1,5 +1,5 @@
 ---
-Title: G1586 - eklego
+title: G1586 - eklego
 Type: Word Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 08, 06:47:00 pm

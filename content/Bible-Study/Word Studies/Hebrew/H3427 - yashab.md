@@ -1,5 +1,5 @@
 ---
-Title: H3427 - yashab
+title: H3427 - yashab
 Type: Word Study
 Date-Created: 2023 August 31, 06:51:09 pm
 Date-Modified: 2023 September 08, 06:44:45 pm

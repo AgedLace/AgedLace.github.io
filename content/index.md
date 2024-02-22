@@ -1,16 +1,14 @@
 ---
+title: Welcome to Be Not Deceived
 tags: []
-Date-Modified: 2024-February-22, 8:45:15 am
-Title: index
-Type: Notebook Home Page
-Date-Created: 2024-February-20, 9:38:51 am
+Type: Home Page
+Date-Created: 2024-February-22, 8:49:54 am
+Date-Modified: 2024-February-22, 1:34:08 pm
 aliases:
-  - Bible Study Notebook
+Title: index
 ---
 
-***NOTE** - Hover over the Scripture Links to bring up a pop-up box for that Scripture.*
-
-## Purpose
+## Notebook Purpose
 
 There are a few reasons for this Bible Study Notebook
 
@@ -41,3 +39,19 @@ There are a few reasons for this Bible Study Notebook
 	* Equip others for their works of ministry, to build them up in Christ, and to teach them not be deceived.
 
 		* [[Ephesians-4v11-14]]
+
+## Notebook Index
+
+* [[MOCS/Bibles|Bibles]]
+
+* [[MOCs/Bible Study|Bible Study]]
+
+* [[MOCs/Confessions|Confessions]]
+
+* [[MOCs/Courses|Courses]]
+
+* [[MOCs/My Annotated-Amplified Bible|My Annotated Amplified BIble]]
+
+* [[MOCs/Projects|Projects]]
+
+* [[MOCs/Quotes|Quotes]]
