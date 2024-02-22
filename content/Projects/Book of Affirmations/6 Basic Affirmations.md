@@ -8,7 +8,7 @@ tags:
   - Project/Book-of-Affirmations/6-Basics
 ---
 
-## [[6 Basic Affirmations]]
+## 6 Basic Affirmations
 
 * Jesus is Lord; He's Lord over me, He's Lord over my family; He's Lord over nation; my finances, my home, my health …
 * I do go into all the world, I do preach the gospel, I do cast out devils, I do lay hands on the sick; as I preach the gospel, they DO get saved and as I lay hands on the sick they DO get healed.

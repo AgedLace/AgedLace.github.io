@@ -7,5 +7,4 @@ tags:
   - Affirmation/Salvation
   - Project/Book-of-Affirmations/Salvation
 ---
-
 ## Salvation Affirmations

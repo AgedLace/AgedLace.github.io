@@ -7,5 +7,6 @@ tags:
   - Affirmation/Prosperity/of-Body
   - Project/Book-of-Affirmations/Prosperity-and-Abundance/of-Body
 ---
+## Prosperity and Abundance
 
 * In every way, I am prosperous and I enjoy good health even as my soul also prospers. - III John 2

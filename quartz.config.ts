@@ -10,8 +10,8 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "github.com/AgedLace/Quartz-Test",
-    ignorePatterns: ["Private", "Templates", ".obsidian"],
+    baseUrl: "benotdeceived.org",
+    ignorePatterns: ["Private", "Templates", ".obsidian", ".trash"],
     defaultDateType: "modified",
     theme: {
       cdnCaching: true,
