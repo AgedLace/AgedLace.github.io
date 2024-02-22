@@ -1,8 +1,8 @@
 ---
 Title: Matthew-13v18-23
 Type: Scripture Note
-date created: 2023 November 11, 06:54:16 am
-date modified: 2023 November 11, 06:54:41 am
+Date-Created: 2023 November 11, 06:54:16 am
+Date-Modified: 2023 November 11, 06:54:41 am
 tags:
   - Bible-Study/Parable/Of-The-Sower/Explained
 ---

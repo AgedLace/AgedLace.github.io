@@ -1,12 +1,10 @@
 ---
-title: Book of Affirmations
-date-created: 2024-February-20, 9:38:40 am
-date-modified: 2024-February-20, 9:59:16 am
+Date-Modified: 2023 October 01, 12:18:30 pm
 Title: Book of Affirmations
 Type: Project Note
-Created: 2023 September 20, 02:22:15 pm
-Modified: 2023 October 01, 12:18:30 pm
-tags: [Project/Book-of-Affirmations]
+Date-Created: 2024-February-20, 9:38:40 am
+tags:
+  - Project/Book-of-Affirmations
 ---
 
 The more you do this, the stronger it gets and the faster you renew your mind.

@@ -1,8 +1,8 @@
 ---
 Title: Discipleship Course
 Type: Project Note
-Created: 2031 August 23, 06:51:09 pm
-Modified:  2023 November 05, 04:45:57 am
+Date-Created: 2031 August 23, 06:51:09 pm
+Date-Modified: 2023 November 05, 04:45:57 am
 tags:
   - Project/Discipleship-Course
   - Project/Discipleship-Course/Repentance
@@ -18,7 +18,8 @@ tags:
   - Project/Discipleship-Course/Confession
   - Project/Discipleship-Course/Salvation
   - Project/Discipleship-Course/Divine-Healing
-Tags: {{VALUE: Tags}}
+Tags:
+  "{ VALUE: Tags }":
 ---
 
 ## Discipleship Course

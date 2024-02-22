@@ -1,29 +1,29 @@
 ---
 Title: Ask
 Type: Bible Study - Topical Study
-Created: 2023 August 31, 06:51:09 pm
-Modified: 2023 September 08, 06:39:18 pm
+Date-Created: 2023 August 31, 06:51:09 pm
+Date-Modified: 2023 September 08, 06:39:18 pm
 Tags:
-- Bible-Study/Ask
-- Bible-Study/Ask/Persistence
-- Bible-Study/Seek
-- Bible-Study/Knock
-- Bible-Study/Hypocrites
-- Bible-Study/Hypocrites/Love-to-be-Seen
-- Bible-Study/Reward
-- Bible-Study/People/God/Father/Unseen
-- Bible-Study/People/God/Father/Sees
-- Bible-Study/People/God/Father/Rewards
-- Bible-Study/People/God/Father/Oniscience
-- Bible-Study/Pagans
-- Bible-Study/Pagans/Babble-in-Prayer
-- Bible-Study/Prayer/Is-Asking
-- Bible-Study/Prayer/In-Secret
-- Bible-Study/Prayer/Dont-Babble
-- Bible-Study/Prayer/To-God/Father
-- Bible/BSB/NT/Matthew-6v5-8 
-- Bible/BSB/NT/Matthew-7v12
-- Bible/BSB/NT/Luke-11v5-13
+  - Bible-Study/Ask
+  - Bible-Study/Ask/Persistence
+  - Bible-Study/Seek
+  - Bible-Study/Knock
+  - Bible-Study/Hypocrites
+  - Bible-Study/Hypocrites/Love-to-be-Seen
+  - Bible-Study/Reward
+  - Bible-Study/People/God/Father/Unseen
+  - Bible-Study/People/God/Father/Sees
+  - Bible-Study/People/God/Father/Rewards
+  - Bible-Study/People/God/Father/Oniscience
+  - Bible-Study/Pagans
+  - Bible-Study/Pagans/Babble-in-Prayer
+  - Bible-Study/Prayer/Is-Asking
+  - Bible-Study/Prayer/In-Secret
+  - Bible-Study/Prayer/Dont-Babble
+  - Bible-Study/Prayer/To-God/Father
+  - Bible/BSB/NT/Matthew-6v5-8
+  - Bible/BSB/NT/Matthew-7v12
+  - Bible/BSB/NT/Luke-11v5-13
 ---
 
 ## Ask

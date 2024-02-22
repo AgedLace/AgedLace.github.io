@@ -1,12 +1,10 @@
 ---
 Title: Isaiah-30v18
 Type: Scripture Note
-Created: 2012 October 23, 06:50:42 pm
-Modified: 2023 October 12, 06:55:17 pm
+Date-Created: 2023 October 12, 06:50:42 pm
+Date-Modified: 2023 November 11, 06:54:46 am
 tags:
   - Bible/BSB/OT/Isaiah-30v18
-date created: 2023 October 12, 06:50:42 pm
-date modified:  2023 November 11, 06:54:46 am
 ---
 
 > [!example] **Isaiah 30:18**  

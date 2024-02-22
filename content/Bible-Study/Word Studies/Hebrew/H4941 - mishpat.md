@@ -1,8 +1,8 @@
 ---
 Title: H4941-mishpat
 Type: Bible Study - Word Study
-Created: 2023 October 12, 05:39:43 pm
-Modified:  2023 October 12, 08:35:09 pm
+Date-Created: 2023 October 12, 05:39:43 pm
+Date-Modified: 2023 October 12, 08:35:09 pm
 tags:
   - Bible-Study/Hebrew/4941-mishpat
 ---

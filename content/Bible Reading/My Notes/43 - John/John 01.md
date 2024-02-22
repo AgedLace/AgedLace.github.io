@@ -1,8 +1,8 @@
 ---
 Title: John 01
 Type: Bible Reading Note
-date created: 2006 November 23, 06:44:23 am
-date modified: 2023 November 06, 07:09:01 am
+Date-Created: 2006 November 23, 06:44:23 am
+Date-Modified: 2023 November 06, 07:09:01 am
 tags:
   - Bible-Reading/43-John-01
 ---

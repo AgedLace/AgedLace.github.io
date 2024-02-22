@@ -1,8 +1,8 @@
 ---
 Title: H6664-tsedek
 Type: Bible Study - Word Study
-Created: 2023 October 12, 05:35:41 pm
-Modified:  2023 October 12, 08:34:49 pm
+Date-Created: 2023 October 12, 05:35:41 pm
+Date-Modified: 2023 October 12, 08:34:49 pm
 tags:
   - Bible-Study/Hebrew/6664-tsedek
 ---

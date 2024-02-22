@@ -1,10 +1,8 @@
 ---
 Title: G2919 - krinó
 Type: Word Study
-Created: 2023 August 31, 06:51:09 pm
-Modified: 2023 September 08, 06:46:42 pm
-date created: 2031 August 23, 06:51:09 pm
-date modified:  2023 November 06, 07:13:51 am
+Date-Created: 2031 August 23, 06:51:09 pm
+Date-Modified: 2023 November 06, 07:13:51 am
 Tags: Bible-Study/Greek/2919-krinó
 ---
 

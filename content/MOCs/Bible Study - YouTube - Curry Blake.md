@@ -1,11 +1,11 @@
 ---
 Title: Bible Study - YouTube - Curry Blake
 Type: MOC
-Created: 2023 September 04, 03:34:56 pm
-Modified: 2023 September 08, 11:44:49 pm
+Date-Created: 2023 September 04, 03:34:56 pm
+Date-Modified: 2023 September 08, 11:44:49 pm
 Links:
-- [[Home]]
-- [[Bible Study]]
+  - - - Home
+  - - - Bible Study
 ---
 
 ```dataview

@@ -1,8 +1,8 @@
 ---
 Title: G3860 - paradidomi
 Type: Word Study
-Created: 2023 September 07, 08:05:05 am
-Modified: 2023 September 08, 06:46:01 pm
+Date-Created: 2023 September 07, 08:05:05 am
+Date-Modified: 2023 September 08, 06:46:01 pm
 Tags: Bible-Study/Greek/3860-paradidómi
 ---
 

@@ -1,28 +1,28 @@
 ---
 Title: Handing Someone Over To Satan
 Type: Bible Study - Topical Study
-Created: 2023 August 31, 06:51:09 pm
-Modified: 2023 September 08, 09:19:24 pm
+Date-Created: 2023 August 31, 06:51:09 pm
+Date-Modified: 2023 September 08, 09:19:24 pm
 Tags:
-- Bible-Study/Handing-Over-To-Satan
-- Bible/BSB/NT/1-Corinthians-5
-- Bible-Study/Hebrew/2919-krinó
-- Bible-Study/Greek/3860-paradidómi
-- Bible-Study/Greek/3639-olethros
-- Bible-Study/Greek/4982-sózó
-- Bible-Study/Greek/1571-ekkathairó
-- Bible-Study/Greek/4205-pornos
-- Bible-Study/Greek/4123-pleonektés
-- Bible-Study/Greek/1496-eidólolatrés
-- Bible-Study/Greek/3060-loidoros
-- Bible-Study/Greek/0727-harpax
-- Bible-Study/Greek/1808-exairó
-- Bible/BSB/NT/1-Timothy-1v3-11
-- Bible/BSB/NT/1-Timothy-1v18-20
-- Bible-Study/Greek/3489-nauageó
-- Bible-Study/Greek/3860-paradidómi
-- Bible-Study/Greek/3811-paideuó
-- Bible-Study/Greek/0987-blasphémeó
+  - Bible-Study/Handing-Over-To-Satan
+  - Bible/BSB/NT/1-Corinthians-5
+  - Bible-Study/Hebrew/2919-krinó
+  - Bible-Study/Greek/3860-paradidómi
+  - Bible-Study/Greek/3639-olethros
+  - Bible-Study/Greek/4982-sózó
+  - Bible-Study/Greek/1571-ekkathairó
+  - Bible-Study/Greek/4205-pornos
+  - Bible-Study/Greek/4123-pleonektés
+  - Bible-Study/Greek/1496-eidólolatrés
+  - Bible-Study/Greek/3060-loidoros
+  - Bible-Study/Greek/0727-harpax
+  - Bible-Study/Greek/1808-exairó
+  - Bible/BSB/NT/1-Timothy-1v3-11
+  - Bible/BSB/NT/1-Timothy-1v18-20
+  - Bible-Study/Greek/3489-nauageó
+  - Bible-Study/Greek/3860-paradidómi
+  - Bible-Study/Greek/3811-paideuó
+  - Bible-Study/Greek/0987-blasphémeó
 ---
 
 ## Handing Someone Over to Satan

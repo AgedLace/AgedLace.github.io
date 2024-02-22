@@ -1,8 +1,8 @@
 ---
 Title: Psalm-97v2
 Type: Scripture Note
-Created: 2012 October 23, 05:16:42 pm
-Modified:  2023 October 12, 08:35:12 pm
+Date-Created: 2012 October 23, 05:16:42 pm
+Date-Modified: 2023 October 12, 08:35:12 pm
 tags:
   - Bible/BSB/OT/Psalm-97v2
   - Bible/KJV/OT/Psalm-97v2

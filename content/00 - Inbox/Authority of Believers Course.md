@@ -1,9 +1,10 @@
 ---
 Title: Authority of Believers Course
 Type: Project Note
-Created: 2023 August 31, 06:51:09 pm
-Modified: 2023 September 21, 05:30:51 am
-Tags: {{VALUE: Tags}}
+Date-Created: 2023 August 31, 06:51:09 pm
+Date-Modified: 2023 September 21, 05:30:51 am
+Tags:
+  "{ VALUE: Tags }": 
 tags:
   - Project/Authority-of-Believers-Course
 ---

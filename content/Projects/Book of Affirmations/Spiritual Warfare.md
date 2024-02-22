@@ -1,8 +1,8 @@
 ---
 Title: Spiritual Warfare
 Type: Affirmation
-Created: 2023 September 21, 05:45:45 am
-Modified: 2023 October 01, 01:19:45 pm
+Date-Created: 2023 September 21, 05:45:45 am
+Date-Modified: 2023 October 01, 01:19:45 pm
 tags:
   - Affirmation/Spiritual-Warfare/Get-Behind-Me-Satan
   - Affirmation/In-Christ/Power/Over/Serpents-and-Scorpions

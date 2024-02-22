@@ -1,8 +1,8 @@
 ---
 Title: Psalm-37v28
 Type: Scripture Note
-Created: 2023 October 12, 06:01:01 pm
-Modified:  2023 October 12, 06:05:25 pm
+Date-Created: 2023 October 12, 06:01:01 pm
+Date-Modified: 2023 October 12, 06:05:25 pm
 tags:
   - Bible/BSB/OT/Psalm-37v28
 ---

@@ -1,9 +1,10 @@
 ---
 Title: Bible Study
 Type: MOC
-Created: 2008 September 23, 04:07:46 pm
-Modified:  2023 November 05, 05:01:07 am
-Links: [[Home]]
+Date-Created: 2008 September 23, 04:07:46 pm
+Date-Modified: 2023 November 05, 05:01:07 am
+Links:
+  - - Home
 ---
 
 ## Bible Passages

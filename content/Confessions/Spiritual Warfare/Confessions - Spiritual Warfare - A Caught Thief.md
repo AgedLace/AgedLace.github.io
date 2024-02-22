@@ -1,8 +1,8 @@
 ---
-Title: Confessions - Spiritual Warfare - A Caught Thief  
-Type: Confession  
-Created: 2007 September 23, 05:47:21 am
-Modified:  2023 October 10, 02:49:38 pm
+Title: Confessions - Spiritual Warfare - A Caught Thief
+Type: Confession
+Date-Created: 2007 September 23, 05:47:21 am
+Date-Modified: 2023 October 10, 02:49:38 pm
 Tags:
   - Confessions/Spiritual-Warfare/Thief/Caught
   - Bible/BSB/OT/Proverbs-6v31

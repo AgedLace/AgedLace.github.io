@@ -1,12 +1,11 @@
 ---
-title: "God's Word Final Authority"
-date-created: 2024-February-20, 9:38:43 am
-date-modified: 2024-February-20, 9:59:53 am
+Date-Modified: 2023 October 10, 02:50:15 pm
 Title: God's Word Final Authority
 Type: Quote
-Created: 2031 August 23, 06:51:09 pm
-Modified:  2023 October 10, 02:50:15 pm
-tags: [Quote/Curry-Blake/Gods-Word/Final-Authority, Bible-Study/Word/of-God/Final-Authority]
+Date-Created: 2024-February-20, 9:38:43 am
+tags:
+  - Quote/Curry-Blake/Gods-Word/Final-Authority
+  - Bible-Study/Word/of-God/Final-Authority
 ---
 
 ## God's Word Final Authority

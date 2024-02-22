@@ -1,17 +1,13 @@
 ---
+Date-Modified: 2024-February-21, 2:59:33 pm
+Date-Created: 2024-February-20, 10:27:10 am
 Title: Dominion Life Conference - Session 01
 Type: Youtube Course Note
-Created: 2005 October 23, 09:20:45 pm
-Modified:  2023 October 10, 04:49:06 pm
 Instructor: Curry Blake
-tags:
-  - Course/Youtube/Curry-Blake/DLC-01
-  - Quote/Curry-Blake/Gods-Word/Settle-It-in-Your-Heart-and-Mind
-  - Quote/Curry-Blake/Decide-What-You-Are-Going-To-Believe
-  - Quote/Curry-Blake/Power/Comes-With-Certain-Lifestyle
+tags: [Course/Youtube/Curry-Blake/Dominion-Life-Conference/Session-01, Course/Instructor/Curry-Blake]
 ---
 
-## DLC - Session 01
+## Dlc - Session 01
 
 ---
 

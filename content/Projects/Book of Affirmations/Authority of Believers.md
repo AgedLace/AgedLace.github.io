@@ -1,8 +1,8 @@
 ---
 Title: Authority of Believers
 Type: Affirmation
-Created: 2023 September 21, 05:32:48 am
-Modified: 2023 October 01, 01:15:59 pm
+Date-Created: 2023 September 21, 05:32:48 am
+Date-Modified: 2023 October 01, 01:15:59 pm
 tags:
   - Affirmation/Authority-of-Believers/Over/Serpents-and-Scorpions
   - Affirmation/Authority-of-Believers/Over/ALL-Enemy-Power

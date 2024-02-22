@@ -1,8 +1,8 @@
 ---
 Title: Daily General Confessions
 Type: Confession
-Created: 2023 September 01, 08:10:47 am
-Modified: 2023 September 09, 05:16:48 pm
+Date-Created: 2023 September 01, 08:10:47 am
+Date-Modified: 2023 September 09, 05:16:48 pm
 Tags:
   - Confessions/Daily
   - Confessions/Daily

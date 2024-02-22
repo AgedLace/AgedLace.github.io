@@ -1,10 +1,8 @@
 ---
 Title: Home
 Type: Home Page
-Created: 2004 September 23, 02:02:46 pm
-Modified: 2023 November 05, 05:30:17 am
-date created: 2004 September 23, 02:02:46 pm
-date modified:  2023 November 13, 07:41:25 am
+Date-Created: 2004 September 23, 02:02:46 pm
+Date-Modified: 2023 November 13, 07:41:25 am
 ---
 
 ## Inbox

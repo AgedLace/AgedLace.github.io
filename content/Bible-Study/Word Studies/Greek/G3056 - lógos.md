@@ -3,8 +3,8 @@ Title: G3056 - lógos
 Type: Bible Study - Word Study
 tags:
   - Bible-Study/Greek/3056-logos
-date created: 2006 November 23, 07:09:01 am
-date modified:  2023 November 06, 07:24:09 am
+Date-Created: 2006 November 23, 07:09:01 am
+Date-Modified: 2023 November 06, 07:24:09 am
 ---
 
 ## G3056 - lógos

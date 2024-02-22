@@ -1,8 +1,8 @@
 ---
 Title: G987 - blasphémeó
 Type: Word Study
-Created: 2023 August 31, 06:51:09 pm
-Modified: 2023 September 08, 06:47:27 pm
+Date-Created: 2023 August 31, 06:51:09 pm
+Date-Modified: 2023 September 08, 06:47:27 pm
 Tags: Bible-Study/Greek/0987-blasphémeó
 ---
 

@@ -1,8 +1,8 @@
 ---
 Title: H3245 - yasad
 Type: Bible Study - Word Study
-Created: 2023 September 20, 02:37:21 pm
-Modified: 2023 September 20, 02:42:43 pm
+Date-Created: 2023 September 20, 02:37:21 pm
+Date-Modified: 2023 September 20, 02:42:43 pm
 tags:
   - Bible-Study/Hebrew/3245-yasad
 ---

@@ -1,8 +1,10 @@
 ---
-date-created: 2024-February-19, 11:23:38 am
-date-modified: 2024-February-19, 1:19:57 pm
-title: Develop a Reputation in Hell
-tags: [Quote]
+Date-Created: 2024-February-19, 11:23:38 am
+Date-Modified: 2024-February-20, 3:02:52 pm
+Title: Develop Reputation in Hell
+tags:
+  - Quote/Curry-Blake/Develop-Reputation-In-Hell
+Type: Quote
 ---
 
 > [!summary] **Develop A Reputation in Hell**  
@@ -10,5 +12,4 @@ tags: [Quote]
 
 Scripture Reference
 
-> [!example] **Acts 19:15 BSB**  
-> 15 Eventually, one of the evil spirits answered them (seven sons of Sceva), "Jesus I know, and I know about Paul, but who are you?"
+![[Acts-19v15]]

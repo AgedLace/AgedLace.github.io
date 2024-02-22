@@ -1,8 +1,8 @@
 ---
 Title: G3489 - nauageó
 Type: Word Study
-Created: 2023 August 31, 06:51:09 pm
-Modified: 2023 September 08, 06:46:24 pm
+Date-Created: 2023 August 31, 06:51:09 pm
+Date-Modified: 2023 September 08, 06:46:24 pm
 Tags: Bible-Study/Greek/3489-nauageó
 ---
 

@@ -1,12 +1,12 @@
 ---
 Title: Quotes
 Type: MOC
-Created: 2023 September 04, 02:57:24 pm
-Modified: 2023 September 08, 11:54:32 pm
+Date-Created: 2023 September 04, 02:57:24 pm
+Date-Modified: 2023 September 08, 11:54:32 pm
 Links:
-- [[Home]]
-- [[Confessions]]
-- [[Quotes]]
+  - - - Home
+  - - - Confessions
+  - - - Quotes
 ---
 
 ```dataview

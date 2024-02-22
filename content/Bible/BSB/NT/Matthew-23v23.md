@@ -1,10 +1,9 @@
 ---
+Date-Modified: 2024-February-22, 6:08:39 am
 Title: Matthew-23v23
 Type: Scripture Note
-Created: 2023 October 12, 07:33:12 pm
-Modified:  2023 November 05, 04:50:51 am
-tags:
-  - Bible/BSB/NT/Matthew-23v23
+Date-Created: 2024-February-20, 9:38:40 am
+tags: [Bible/BSB/NT/Matthew-23v23]
 ---
 
 > [!example] **Matthew 23:23**

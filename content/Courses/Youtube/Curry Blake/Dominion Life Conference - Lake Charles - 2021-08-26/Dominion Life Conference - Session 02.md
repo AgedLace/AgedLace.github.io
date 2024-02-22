@@ -1,17 +1,13 @@
 ---
+Date-Modified: 2024-February-21, 2:58:09 pm
 Title: Dominion Life Conference - Session 02
 Type: Youtube Course Note
-Created: 2023 October 05, 10:49:09 pm
-Modified: 2023 October 06, 12:21:24 am
+Date-Created: 2024-February-20, 10:27:10 am
 Instructor: Curry Blake
-tags:
-  - Course/Youtube/Curry-Blake/DLC-02
-  - Quote/Curry-Blake/Man-Created-to-Have-Dominion
-  - Quote/Curry-Blake/You-Are-Servant-Of-Whoever-You-Serve
-  - Question/Who-Are-You-Obeying
+tags: [Course/Youtube/Curry-Blake/Dominion-Life-Conference/Session-02, Course/Instructor/Curry-Blake]
 ---
 
-## DLC - Session 02
+## Dlc - Session 02
 
 ---
 

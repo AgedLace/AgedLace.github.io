@@ -1,12 +1,12 @@
 ---
-title: "Mark's Affirmations"
-date-created: 2024-February-20, 9:38:43 am
-date-modified: 2024-February-20, 10:03:54 am
+Date-Modified: 2023 October 01, 01:16:33 pm
 Title: Mark's Affirmations
 Type: Affirmation
-Created: 2023 October 01, 12:09:03 pm
-Modified: 2023 October 01, 01:16:33 pm
-tags: [Affirmation/Mark, Project/Book-of-Affirmations, Project/Book-of-Affirmations/Mark]
+Date-Created: 2024-February-20, 9:38:43 am
+tags:
+  - Affirmation/Mark
+  - Project/Book-of-Affirmations
+  - Project/Book-of-Affirmations/Mark
 ---
 
 ## Zechariah 5:1-4

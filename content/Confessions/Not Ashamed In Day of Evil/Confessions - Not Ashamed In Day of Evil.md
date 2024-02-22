@@ -1,8 +1,8 @@
 ---
 Title: Confessions - Not Ashamed
 Type: Confession
-Created: 2023 September 07, 10:44:05 am
-Modified: 2023 September 09, 04:10:24 pm
+Date-Created: 2023 September 07, 10:44:05 am
+Date-Modified: 2023 September 09, 04:10:24 pm
 Tags:
   - Confessions/Not-Ashamed
   - Bible/BSB/OT/Psalm-37v19

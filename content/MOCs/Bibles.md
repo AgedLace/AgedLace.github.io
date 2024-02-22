@@ -1,9 +1,10 @@
 ---
 Title: Bibles
 Type: MOC
-Created: 2008 September 23, 03:53:39 pm
-Modified:  2023 November 05, 05:01:50 am
-Links: [[Home]]
+Date-Created: 2008 September 23, 03:53:39 pm
+Date-Modified: 2023 November 05, 05:01:50 am
+Links:
+  - - Home
 ---
 
 ## Bibles

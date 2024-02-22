@@ -1,14 +1,10 @@
 ---
 Title: The Justice of God
 Type: Youtube Course Note
-Created: 2023 October 12, 05:07:43 pm
-Modified:  2023 October 12, 08:38:50 pm
+Date-Created: 2024-February-20, 10:27:10 am
+Date-Modified: 2024-February-21, 3:01:42 pm
 Instructor: John Paul Jackson
-tags:
-  - Course/Youtube/John-Paul-Jackson/The-Justice-of-God
-  - Bible-Study/Justice-of-God
-  - Instructors/John-Paul-Jackson
-  - Quote/John-Paul-Jackson/Justice
+tags: [Course/Youtube/John-Paul-Jackson/The-Justice-Of-God, Course/Instructor/John-Paul-Jackson]
 ---
 
 ## The Justice of God
@@ -28,7 +24,7 @@ tags:
 
 ![[../../../Bible-Study/Scripture/Psalm-103v6]]
 
-## Steps Needed To Obtain Justice In The World
+## Steps Needed to Obtain Justice in the World
 
 * Recognize eligibility
 * Fill out proper paperwork
@@ -89,7 +85,7 @@ tags:
 * Justice isn't just due to you, it is also due to your bloodline
 * Justice doesn't necessarily come in the form that was taken against you, but rather in the form that is going to advance His kingdom the furthest. (Solomon)
 
-## How Do We Pray For Justice
+## How Do We Pray for Justice
 
 * don't ask for long life
 * don't ask God to harm the one you hurt

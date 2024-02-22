@@ -1,8 +1,8 @@
 ---
 Title: Divine Health
 Type: Affirmation
-Created: 2023 September 21, 05:52:39 am
-Modified: 2023 October 01, 01:16:15 pm
+Date-Created: 2023 September 21, 05:52:39 am
+Date-Modified: 2023 October 01, 01:16:15 pm
 tags:
   - Affirmation/Divine-Health/Bodily-Prosperity
   - Affirmation/Divine-Health/Commanded/to-Be-Continually-Healed

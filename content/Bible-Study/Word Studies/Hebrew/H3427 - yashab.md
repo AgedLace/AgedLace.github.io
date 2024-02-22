@@ -1,8 +1,8 @@
 ---
 Title: H3427 - yashab
 Type: Word Study
-Created: 2023 August 31, 06:51:09 pm
-Modified: 2023 September 08, 06:44:45 pm
+Date-Created: 2023 August 31, 06:51:09 pm
+Date-Modified: 2023 September 08, 06:44:45 pm
 Tags: Bible-Study/Hebrew/3427-yashab
 ---
 

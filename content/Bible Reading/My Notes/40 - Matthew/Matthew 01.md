@@ -6,8 +6,8 @@ tags:
   - Bible-Study/People/Jesus/The-Christ
   - Bible-Study/People/Jesus/The-Son-of-David
   - Bible-Study/People/Jesus/The-Son-of-Abraham
-date created: 2003 October 23, 12:31:54 am
-date modified:  2023 November 06, 07:10:04 am
+Date-Created: 2003 October 23, 12:31:54 am
+Date-Modified: 2023 November 06, 07:10:04 am
 ---
 
 ## Matthew Chapter 01

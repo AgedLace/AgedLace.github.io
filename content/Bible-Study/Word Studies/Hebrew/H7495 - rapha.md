@@ -1,8 +1,8 @@
 ---
 Title: H7495 - rapha
 Type: Word Study
-Created: 2023 August 31, 06:51:09 pm
-Modified: 2023 September 14, 04:11:30 am
+Date-Created: 2023 August 31, 06:51:09 pm
+Date-Modified: 2023 September 14, 04:11:30 am
 Tags: Bible-Study/Hebrew/7495-rapha
 ---
 
