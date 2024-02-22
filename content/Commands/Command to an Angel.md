@@ -1,9 +1,10 @@
 ---
+Type:
 Date-Created: 2024-February-19, 11:21:22 am
-Date-Modified: 2024-February-19, 1:20:55 pm
+Date-Modified: 2024-February-22, 2:54:52 pm
 title: Command to an Angel
-tags:
-  - Commands
+tags: [Commands]
+Title: Command to an Angel
 ---
 
 > [!Summary] **To an Angel**  

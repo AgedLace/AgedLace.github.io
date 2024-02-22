@@ -7,7 +7,9 @@ Date-Modified: 2024-February-22, 1:34:08 pm
 aliases:
 Title: index
 ---
-
+**NOTE**  
+- **HOVER OVER LINK TO SEE POP-UP WINDOW**
+- **CLICK ON LINKS TO GO TO LINK'S PAGE**
 ## Notebook Purpose
 
 There are a few reasons for this Bible Study Notebook
