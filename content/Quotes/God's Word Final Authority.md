@@ -4,7 +4,7 @@ title: God's Word Final Authority
 Type: Quote
 Date-Created: 2024-February-20, 9:38:43 am
 tags:
-  - Quote/Curry-Blake/Gods-Word/Final-Authority
+  - Quotes/Curry-Blake/Gods-Word/Final-Authority
   - Bible-Study/Word/of-God/Final-Authority
 ---
 

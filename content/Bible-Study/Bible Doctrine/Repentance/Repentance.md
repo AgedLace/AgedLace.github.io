@@ -1,10 +1,10 @@
 ---
 title: Repentance
 Type: Bible Study - Topical Study
-Date-Created: 2023 September 18, 06:14:13 am
-Date-Modified: 2023 September 18, 06:26:47 am
+Date-Created: 2024-February-22, 5:02:30 pm
+Date-Modified: 2024-February-23, 4:34:26 am
 tags:
-  - Bible-Study/Repentance Project/Discipleship-Course/Repentance
+  - Bible-Study/Repentance Bible-Study/Discipleship/Repentance
 ---
 
 * Repentance

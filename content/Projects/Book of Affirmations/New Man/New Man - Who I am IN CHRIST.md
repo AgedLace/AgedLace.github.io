@@ -4,14 +4,14 @@ title: New Man - Who I am IN CHRIST
 Type: Affirmation
 Date-Created: 2024-February-20, 9:38:43 am
 tags:
-  - Affirmation/In-Christ/Freedom
-  - Affirmation/Spiritual-Warfare/Stand-Firm
-  - Affirmation/Spiritual-Warfare/Refuse-Yoke-of-Bondage
-  - Affirmation/Faith/Partnership/Effective
-  - Affirmation/In-Christ/Acknowledge/What-Is-Mine
-  - Project/Book-of-Affirmations/New-Man
-  - Project/Book-of-Affirmations/Who-I-Am-In-Christ
-  - Project/Book-of-Affirmations/Mind-Renewal
+  - Affirmations/In-Christ/Freedom
+  - Affirmations/Spiritual-Warfare/Stand-Firm
+  - Affirmations/Spiritual-Warfare/Refuse-Yoke-of-Bondage
+  - Affirmations/Faith/Partnership/Effective
+  - Affirmations/In-Christ/Acknowledge/What-Is-Mine
+  - Affirmations/New-Man
+  - Affirmations/Who-I-Am-In-Christ
+  - Affirmations/Mind-Renewal
 ---
 ## New Man - Who I Am ***In Christ***
 

@@ -1,12 +1,12 @@
 ---
 title: Baptism In Water
 Type: Bible Study - Topical Study
-Date-Created: 2023 September 18, 06:41:42 am
-Date-Modified: 2023 September 18, 06:48:49 am
+Date-Created: 2024-February-22, 5:02:30 pm
+Date-Modified: 2024-February-23, 4:36:22 am
 tags:
-  - Bible-Study/Baptism/in-Water
-  - Project/Discipleship-Course/Baptism-in-Water
+  - Bible-Study/Baptism/Water
   - Bible-Study/Greek/1843-exomologeó
+  - Bible-Study/Discipleship/Baptism/Water
 ---
 
 * [[Baptism in Water]]

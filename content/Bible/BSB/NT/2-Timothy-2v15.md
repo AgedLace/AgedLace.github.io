@@ -1,10 +1,10 @@
 ---
-title: 2-Timothy-2v15
+title: 2 Timothy 2:15
 Type: Scripture Quote
 tags:
-  - Bible/BSB/NT/2-Timothy-2v15
+  - Bible/BSB/NT/2-Timothy/2v15
 Date-Created: 2024-February-22, 7:28:16 am
-Date-Modified: 2024-February-22, 7:30:38 am
+Date-Modified: 2024-February-23, 3:32:46 am
 ---
 
 > [!example] **2 Timothy 2:15**  

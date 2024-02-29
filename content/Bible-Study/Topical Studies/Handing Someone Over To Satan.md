@@ -1,11 +1,10 @@
 ---
 title: Handing Someone Over To Satan
 Type: Bible Study - Topical Study
-Date-Created: 2023 August 31, 06:51:09 pm
-Date-Modified: 2023 September 08, 09:19:24 pm
-Tags:
+Date-Created: 2024-February-22, 5:02:30 pm
+Date-Modified: 2024-February-23, 4:10:25 am
+tags:
   - Bible-Study/Handing-Over-To-Satan
-  - Bible/BSB/NT/1-Corinthians-5
   - Bible-Study/Hebrew/2919-krinó
   - Bible-Study/Greek/3860-paradidómi
   - Bible-Study/Greek/3639-olethros
@@ -17,14 +16,13 @@ Tags:
   - Bible-Study/Greek/3060-loidoros
   - Bible-Study/Greek/0727-harpax
   - Bible-Study/Greek/1808-exairó
-  - Bible/BSB/NT/1-Timothy-1v3-11
-  - Bible/BSB/NT/1-Timothy-1v18-20
   - Bible-Study/Greek/3489-nauageó
   - Bible-Study/Greek/3860-paradidómi
   - Bible-Study/Greek/3811-paideuó
   - Bible-Study/Greek/0987-blasphémeó
+  - Bible/BSB/NT/1-Corinthians/5
+  - Bible/BSB/NT/1-Timothy/1v3-11
 ---
-
 ## Handing Someone Over to Satan
 
 ### **Passage**

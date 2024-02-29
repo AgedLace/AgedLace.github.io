@@ -1,10 +1,9 @@
 ---
 title: Welcome to Be Not Deceived
-tags: []
+tags: 
 Type: Home Page
 Date-Created: 2024-February-22, 8:49:54 am
-Date-Modified: 2024-February-22, 3:48:49 pm
-aliases:
+Date-Modified: 2024-February-23, 3:35:56 am
 Title: index
 ---
 

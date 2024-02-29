@@ -4,9 +4,8 @@ title: Mark's Affirmations
 Type: Affirmation
 Date-Created: 2024-February-20, 9:38:43 am
 tags:
-  - Affirmation/Mark
-  - Project/Book-of-Affirmations
-  - Project/Book-of-Affirmations/Mark
+  - Affirmations/Mark
+  - Affirmations
 ---
 
 ## Zechariah 5:1-4

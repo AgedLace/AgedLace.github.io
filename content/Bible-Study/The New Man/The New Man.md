@@ -60,3 +60,6 @@ Sonship / Adoption
 * Galatians 4:6
 	* BECAUSE YOU ARE SONS - GOD HAS SENT THE SPIRIT INTO YOUR HEARTS … YOU ARE NO LONGER A SERVANT BUT A SON, AND IF A SON, AN HEIR OF GOD THROUGH CHRIST
 	* Maturity = doing what needs to be done without waiting to be told to do it
+
+***
+[[A New Covenant For A New Creation]]

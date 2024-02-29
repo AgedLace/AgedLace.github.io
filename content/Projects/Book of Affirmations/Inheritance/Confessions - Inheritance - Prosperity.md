@@ -1,15 +1,14 @@
 ---
 title: Confessions - Inheritance - Prosperity
 Type: Confession
-Date-Created: 2023 September 07, 06:27:37 am
-Date-Modified: 2023 September 09, 04:09:37 pm
-Tags:
-  - Confessions/Inheritance/Prosperity
-  - Bible/BSB/OT/Proverbs-13v21
-  - Bible/BSB/OT/Psalm-37v11
-  - Confessions/Inheritance/Prosperity
+Date-Created: 2024-February-22, 5:02:31 pm
+Date-Modified: 2024-February-23, 4:16:19 am
+tags:
+  - Affirmations/Inheritance/Prosperity
+  - Affirmations/Inheritance/Prosperity
+  - Bible/BSB/OT/Proverbs/13v21
+  - Bible/BSB/OT/Psalm/37v11
 ---
-
 ## Confessions - Inheritance - Prosperity
 
 ![[Bible/BSB/OT/Proverbs-13v21]]

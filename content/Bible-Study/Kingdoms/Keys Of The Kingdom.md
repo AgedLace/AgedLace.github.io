@@ -1,38 +1,38 @@
 ---
 title: Keys of The Kingdom
 Type: Bible Study - Topical Study
-Date-Created: 2023 October 08, 09:34:30 am
-Date-Modified: 2023 October 10, 01:34:44 pm
+Date-Created: 2024-February-22, 5:02:30 pm
+Date-Modified: 2024-February-23, 5:00:38 am
 tags:
   - Bible-Study/Keys/of-the-Kingdom
   - Bible-Study/Binding
   - Bible-Study/Loosing
   - Bible-Study/Gates/Power-and-Authority
   - Bible-Study/Keys/Power-and-Authority
+  - Bible-Study/Kingdom/Keys
 ---
-
 ## [[Matthew-16v13-20]]
 
 > [!example] **Matthew 16: 13-20**
-> 
+>
 > <sup>***13***</sup> When Jesus came to the region of Caesarea Philippi, He questioned His disciples: "Who do people say the Son of Man is?"
-> 
+>
 > <sup>***14***</sup> They replied, "Some say John the Baptist; others say Elijah; and s till others, Jeremiah or one of the prophets."
-> 
+>
 > <sup>***15***</sup> "But what about you?" Jesus asked, "Who do you say I am?"
-> 
+>
 > <sup>***16***</sup> Simon Peter answered, "You are the Christ, the Son of the living God."
-> 
+>
 > <sup>***17***</sup> Jesus replied, "Blessed are you, Simon son of Jonah!<sup>***b***</sup> For this was not revealed to you by flesh and blood, but by My Father in heaven."
-> 
+>
 > <sup>***18***</sup> And I tell you that you are Peter, and on this rock I will build My church, and the gates of Hades will not prevail against it.
-> 
+>
 > <sup>***19***</sup> I will give you the keys of the kingdom of heaven. Whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven."
-> 
+>
 > <sup>***20***</sup> Then He admonished the disciples not to tell anyone that He was the Christ.
-> 
+>
 > **Footnotes**
-> 
+>
 > <sup>***b***</sup> Greek *Simon Bar-Jonah*
 
 **Parallel Passages**

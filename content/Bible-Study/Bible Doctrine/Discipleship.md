@@ -1,27 +1,26 @@
 ---
 title: Discipleship Course
 Type: Project Note
-Date-Created: 2031 August 23, 06:51:09 pm
-Date-Modified: 2023 November 05, 04:45:57 am
+Date-Created: 2024-February-22, 5:02:30 pm
+Date-Modified: 2024-February-23, 4:53:20 am
 tags:
-  - Project/Discipleship-Course
-  - Project/Discipleship-Course/Repentance
-  - Project/Discipleship-Course/Redemption
-  - Project/Discipleship-Course/Righteousness
-  - Project/Discipleship-Course/Sanctification
-  - Project/Discipleship-Course/New-Man
-  - Project/Discipleship-Course/Mind-Renewal
-  - Project/Discipleship-Course/Justification
-  - Project/Discipleship-Course/Glorification
-  - Project/Discipleship-Course/Authority-of-Believers
-  - Project/Discipleship-Course/Baptism-in-Holy-Spirit
-  - Project/Discipleship-Course/Confession
-  - Project/Discipleship-Course/Salvation
-  - Project/Discipleship-Course/Divine-Healing
+  - Bible-Study/Discipleship
+  - Bible-Study/Discipleship/Repentance
+  - Bible-Study/Discipleship/Redemption
+  - Bible-Study/Discipleship/Righteousness
+  - Bible-Study/Discipleship/Sanctification
+  - Bible-Study/Discipleship/New-Man
+  - Bible-Study/Discipleship/Mind-Renewal
+  - Bible-Study/Discipleship/Justification
+  - Bible-Study/Discipleship/Glorification
+  - Bible-Study/Discipleship/Authority/Believers
+  - Bible-Study/Discipleship/Baptism/Holy-Spirit
+  - Bible-Study/Discipleship/Confession
+  - Bible-Study/Discipleship/Salvation
+  - Bible-Study/Discipleship/Divine-Healing
 Tags:
   "{ VALUE: Tags }":
 ---
-
 ## Discipleship Course
 
 ---

@@ -1,10 +1,10 @@
 ---
-title: Romans-8v9
+title: Romans 8:9
 Type: Scripture Quote
 tags:
-  - Bible/BSB/NT/Romans-8v9
+  - Bible/BSB/NT/Romans/8v9
 Date-Created: 2024-February-22, 6:24:17 am
-Date-Modified: 2024-February-22, 6:25:56 am
+Date-Modified: 2024-February-23, 4:06:47 am
 ---
 
 > [!example] **Romans 8:9**  

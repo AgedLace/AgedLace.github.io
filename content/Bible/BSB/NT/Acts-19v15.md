@@ -1,9 +1,9 @@
 ---
-title: Acts-19v15
+title: Acts 19:15
 tags:
-  - Bible/BSB/NT/Acts19v15
+  - Bible/BSB/NT/Acts/19v15
 Date-Created: 2024-February-20, 2:59:33 pm
-Date-Modified: 2024-February-22, 7:29:18 am
+Date-Modified: 2024-February-23, 3:32:16 am
 Type: Scripture Quote
 ---
 
