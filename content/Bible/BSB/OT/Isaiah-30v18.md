@@ -1,8 +1,8 @@
 ---
 title: Isaiah 30:18
-Type: Scripture Note
+Type: Scripture Quote
 Date-Created: 2024-February-22, 5:02:31 pm
-Date-Modified: 2024-February-23, 4:14:16 am
+Date-Modified: 2024-March-12, 8:40:09 am
 tags:
   - Bible/BSB/OT/Isaiah/30v18
 ---
