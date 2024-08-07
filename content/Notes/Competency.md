@@ -78,5 +78,5 @@ This verse was used as the Scripture for "competency" at BibleHub.com
 - [[Able - Lawgiver]]
 - [[Able - Jesus Is]]
 - [[Able - Word - Implanted]]
-- [[Able - Word - of His Grace]]
+- [[Able - Word of His Grace]]
 - [[Competent]]

@@ -1,12 +1,13 @@
 ---
-Title: Able - Word - of His Grace
+Title: Able - Word of His Grace
 Type: Note
 Date-Created: 2024 August 03, 01:13 pm
-Date-Modified: 2024 August 04, 04:56 am
+Date-Modified: 2024 August 06, 10:34 pm
 ---
-## Able - Word - of His Grace
+## Able - Word of His Grace
 
-#Word/of-His-Grace/Is-Able
+#Word/of-His-Grace/Is-Able  
+#Able/Word/of-His-Grace 
 
 #NT/Acts-20v32  
 #Word/of-His-Grace/Is-Able/To-Build-Up  

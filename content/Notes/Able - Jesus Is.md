@@ -32,6 +32,6 @@ Date-Modified: 2024 August 04, 04:53 am
 - [[Able - God Is]]
 - [[Able - Lawgiver]]
 - [[Able - Word - Implanted]]
-- [[Able - Word - of His Grace]]
+- [[Able - Word of His Grace]]
 - [[Competent]]
 - [[Competency]]

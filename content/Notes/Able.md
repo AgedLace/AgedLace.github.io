@@ -124,6 +124,6 @@ Date-Modified: 2024 August 04, 04:51 am
 * [[Able - Lawgiver]]
 * [[Able - Jesus Is]]
 * [[Able - Word - Implanted]]
-* [[Able - Word - of His Grace]]
+* [[Able - Word of His Grace]]
 * [[Competent]]
 * [[Competency]]

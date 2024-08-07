@@ -21,6 +21,6 @@ Date-Modified: 2024 August 04, 04:55 am
 - [[Able - God Is]]
 - [[Able - Jesus Is]]
 - [[Able - Word - Lawgiver]]
-- [[Able - Word - of His Grace]]
+- [[Able - Word of His Grace]]
 - [[Competent]]
 - [[Competency]]
