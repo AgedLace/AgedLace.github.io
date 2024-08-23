@@ -2,7 +2,7 @@
 Title: 2 Thessalonians 1
 Type: Bible Passage
 Date-Created: 2024-08-22 02:18:08
-Date-Modified: 2024-08-22 03:33:54
+Date-Modified: 2024-08-23 11:04:46
 tags: []
 ---
 ---> [[2 Thessalonians 2]] ---> [[2 Thessalonians 3]]
