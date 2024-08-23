@@ -16,7 +16,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "benotdeceived",
-    ignorePatterns: ["Private", "Archives", "Intercession", "Journals", "Templates", ".obsidian", ".trash" ],
+    ignorePatterns: ["Private", "Archives", "Intercession", "Journals", "Templates", ".obsidian", ".trash"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
