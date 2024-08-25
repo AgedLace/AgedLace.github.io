@@ -2,10 +2,10 @@
 Title: 2 Thessalonians 2
 Type: Bible Passage
 Date-Created: 2024-08-22 11:17:32
-Date-Modified: 2024-08-23 10:19:59
+Date-Modified: 2024-08-23 12:38:14
 tags: []
 ---
-[[2 Thessalonians 1]] --> [[2 Thessalonians 3]]
+**< ---** [[2 Thessalonians 1]] **--- >** [[2 Thessalonians 3]]
 
 #NT/2-Thessalonians-2 
 

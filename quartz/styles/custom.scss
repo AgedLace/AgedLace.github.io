@@ -7,9 +7,14 @@ section {
   font-size: 1.25em;
 }
 
-h1, h2, h3, h4, a, .tag-links, .internal-alias {
-  color: orchid;
+h1, a, a.internal, a.internal-alias {
+  color: blue;
 }
+
+.content-meta {
+  color: black;
+}
+
 
 #toc-content>h3,
 .backlinks>h3,
@@ -33,5 +38,5 @@ ul.overflow>li:last-of-type,
 
 hr {
   height: 3px;
-  background-color: orchid;
+  background-color: blue;
 }

@@ -2,10 +2,10 @@
 Title: 2 Thessalonians 3
 Type: 
 Date-Created: 2024-08-22 03:33:59
-Date-Modified: 2024-08-22 03:57:43
+Date-Modified: 2024-08-23 12:40:18
 tags: []
 ---
-[[2 Thessalonians 1]] --> [[2 Thessalonians 2]]  
+**< ---** [[2 Thessalonians 1]] **< ---** [[2 Thessalonians 2]]  
 #NT/2-Thessalonians-3 
 
 **Request for Prayer**  

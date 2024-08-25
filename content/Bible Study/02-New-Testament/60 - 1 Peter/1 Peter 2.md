@@ -2,10 +2,10 @@
 Title: 1 Peter 2
 Type: Bible Passage
 Date-Created: 2024-08-16 03:16:55
-Date-Modified: 2024-08-18 04:08:39
+Date-Modified: 2024-08-23 12:43:14
 tags: []
 ---
-[[1 Peter 1]] --> [[1 Peter 3]] --> [[1 Peter 4]] --> [[1 Peter 5]]
+**< ---** [[1 Peter 1]] **--- >** [[1 Peter 3]] **--- >** [[1 Peter 4]] **--- >** [[1 Peter 5]]
 
 #NT/1-Peter-2
 

@@ -2,17 +2,21 @@
 Title: 1 Peter 1
 Type: Bible Passage
 Date-Created: 2024-08-16 03:16:55
-Date-Modified: 2024-08-22 04:04:26
+Date-Modified: 2024-08-23 01:15:57
 tags: []
 ---
-[[1 Peter 2]] --> [[1 Peter 3]] --> [[1 Peter 4]] --> [[1 Peter 5]]
-#NT/1-Peter-1
+**--- >** [[1 Peter 2]] **--- >**  [[1 Peter 3]] **--- >** [[1 Peter 4]] **--- >** [[1 Peter 5]]   
+
+---
+
+#NT/1-Peter-1  
 
 **A Greeting from Peter**  
-*(2 Peter 1:1–2)*
+*(2 Peter 1:1–2)*  
 
 1 Peter, *an apostle* of Jesus Christ,  
-#Bible-Character/Peter/an-apostle-of-Jesus-Christ
+
+#Bible-Character/Peter/an-apostle-of-Jesus-Christ  
 
 To *the elect* who are exiles of the Dispersion throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia, *chosen*<sup>a</sup> 2 *according to the foreknowledge of God* the Father and *sanctified* by the Spirit *for obedience* to Jesus Christ and sprinkling by His blood:  
 #Place/Pontus #Place/Galatia #Place/Cappodocia #Place/Asia #Place/Bithynia  
