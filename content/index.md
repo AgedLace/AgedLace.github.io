@@ -1,13 +1,17 @@
 ---
-Title: Welcome to Be Not Deceived
+Title: index
 Type: MOC
 Date-Created: 2024-08-16 03:16:55
-Date-Modified: 2024-08-16 06:04:37
+Date-Modified: 2024-08-26 03:58:58
 tags: []
-Description: Jesus answered, "See to it that no one deceives you.
+Description: Jesus answered, "See to it that no one deceives you." - Matthew 24:4
 ---
-# Welcome to Be Not Deceived
-## Jesus Said, "See to it that no One Deceives You." - Matthew 24:4
+
+## Welcome to Be not Deceived
+
+---
+
+### Jesus Said, "See to it that no One Deceives You." - Matthew 24:4
 
 > [!note] **Matthew 24:24**
 > 
@@ -21,6 +25,6 @@ Unless otherwise stated, all Scriptures on this site are taken from the *Berean 
 
 ---
 
-### Copyright Information
+#### Copyright Information
 
 *The Holy Bible, Berean Standard Bible, BSB* is produced in cooperation with *Bible Hub*, *Discovery Bible*, *OpenBible.com*, and the *Berean Bible Translation Committee*. **This text of God's Word has been dedicated to the public domain. Free resources and databases are available at *BereanBible.com***.

@@ -2,9 +2,13 @@
 Title: Matthew 10v16-25
 Type: Bible Passage
 Date-Created: 2024-08-16 05:40:14
-Date-Modified: 2024-08-16 06:04:53
+Date-Modified: 2024-08-25 04:02:34
 tags: []
 ---
+
+
+---
+
 #NT/Matthew-10v16-26
 
 > [!NOTE] **Matthew 10:16-25**

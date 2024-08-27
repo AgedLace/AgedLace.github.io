@@ -2,10 +2,13 @@
 Title: ToDos
 Type: ToDos
 Date-Created: 2024-08-16 03:16:55
-Date-Modified: 2024-08-17 08:13:35
+Date-Modified: 2024-08-25 05:37:11
 tags: []
 ---
+
 ## Current Project Todos
+
+---
 
 #Projects
 
@@ -16,6 +19,8 @@ tags: []
 	- Inheritance
 
 ## Other Projects
+
+---
 
 - Study whether the "temple" the Antichrist attempts to destroy is actually the Body of Christ just as the body (the true temple of God) of Jesus was destroyed instead of the actual Temple on the Temple mount.
 	- so what is the daily sacrifice

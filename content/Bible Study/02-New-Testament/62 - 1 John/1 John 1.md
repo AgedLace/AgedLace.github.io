@@ -2,10 +2,13 @@
 Title: 1 John 1
 Type: Bible Passage
 Date-Created: 2024-08-18 04:08:39
-Date-Modified: 2024-08-23 04:18:37
+Date-Modified: 2024-08-25 04:03:58
 tags: []
 ---
-[[1 John 2]] --> [[1 John 3]] --> [[1 John 4 --> ]][[1 John 5]]
+[[1 John 2]] --> [[1 John 3]] --> [[1 John 4 --> ]][[1 John 5]]  
+
+---
+
 #NT/1-John-1 
 #Bible-Character/John-the-Apostle 
 

@@ -2,9 +2,11 @@
 Title: Philemon  1
 Type: Bible Passage
 Date-Created: 2024-08-16 03:16:55
-Date-Modified: 2024-08-23 04:18:15
+Date-Modified: 2024-08-25 04:03:20
 tags: []
 ---
+---
+
 #NT/Philemon-1
 
 **Greetings from Paul and Timothy**  

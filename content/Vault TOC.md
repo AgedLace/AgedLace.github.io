@@ -1,11 +1,14 @@
 ---
-Title: Home
+Title: Vault TOC
 Type: MOC
 Date-Created: 2024-08-16 03:16:55
-Date-Modified: 2024-08-16 05:16:22
+Date-Modified: 2024-08-25 05:36:20
 tags: []
 ---
+
 ## Be Not Deceived Index
+
+---
 
 - [[Assets]]
 - [[Bible Study]]

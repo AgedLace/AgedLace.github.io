@@ -2,10 +2,13 @@
 Title: 1 John 2
 Type: Bible Passage
 Date-Created: 2024-08-19 06:05:03
-Date-Modified: 2024-08-23 04:18:56
+Date-Modified: 2024-08-25 05:32:34
 tags: []
 ---
-[[1 John 2]] --> [[1 John 3]] --> [[1 John 4 --> ]][[1 John 5]]
+[[1 John 2]] --> [[1 John 3]] --> [[1 John 4 --> ]][[1 John 5]]  
+
+---
+
 #NT/1-John-1 
 #Bible-Character/John-the-Apostle 
 
