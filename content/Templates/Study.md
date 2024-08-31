@@ -1,10 +1,8 @@
+
+## Bible Passage / Topic
+
+
 ## Newsletters
-
-
-## Devotions
-
-
-## Music
 
 
 ## YouTube Videos
@@ -12,7 +10,7 @@
 
 ## Other
 
-### Quotes
+
 
 
 
