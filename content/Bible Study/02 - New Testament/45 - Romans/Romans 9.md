@@ -2,12 +2,13 @@
 Title: Romans 9
 Type: Bible Passage
 Date-Created: 2024-08-31 12:59:22
-Date-Modified: 2024-08-31 02:18:54
+Date-Modified: 2024-08-31 07:38:10
 tags: [Hard-Sayings, NT/Romans-9]
 ---
-**Paul's Concern for the Jews**
 
 > [!NOTE] **Romans 9:1-5**
+> 
+> **Paul's Concern for the Jews**
 > 
 > 1 I speak the truth in Christ; I am not lying, as confirmed by my conscience in the Holy Spirit. 2 I have deep sorrow and unceasing anguish in my heart. 3 For I could wish that I myself were cursed and cut off from Christ for the sake of my brothers, my own flesh and blood, 4 the people of Israel. Theirs is the adoption as sons; theirs the divine glory and the covenants; theirs the giving of the law, the temple worship, and the promises. 5 Theirs are the patriarchs, and from them proceeds the human descent of Christ, who is God over all, forever worthy of praise!<sup>a</sup> Amen.
 
@@ -46,7 +47,8 @@ Paul says of Israel: theirs is ...
 
 > [!NOTE] **Romans 9:14-15**
 > 
-> 14 What then shall we say? Is God unjust? Certainly not! 15 For He says to Moses:\
+> 14 What then shall we say? Is God unjust? Certainly not! 15 For He says to Moses:
+> 
 > "I will have mercy on whom I have mercy,\
 > and I will have compassion on whom I have compassion."<sup>f</sup>
 
@@ -80,7 +82,8 @@ Paul says of Israel: theirs is ...
 
 > [!NOTE] **Romans 9:26**
 > 
-> 26 and,\
+> 26 and,
+> 
 > "It will happen that in the very place where it was said to them,\
 > 'You are not My people,'\
 > they will be called\
@@ -90,7 +93,8 @@ Paul says of Israel: theirs is ...
 
 > [!NOTE] **Romans 9:27**
 > 
-> 27 Isaiah cries out concerning Israel:\
+> 27 Isaiah cries out concerning Israel:
+> 
 > "Though the number of the Israelites is like the sand of the sea,\
 > only the remnant will be saved.
 
@@ -104,7 +108,8 @@ Paul says of Israel: theirs is ...
 
 > [!NOTE] **Romans 9:29**
 > 
-> 29 It is just as Isaiah foretold:\
+> 29 It is just as Isaiah foretold:
+> 
 > "Unless the Lord of Hosts had left us descendants,\
 > we would have become like Sodom,\
 > we would have resembled Gomorrah."<sup>l</sup>
@@ -116,6 +121,7 @@ Paul says of Israel: theirs is ...
 > **Israel's Unbelief**
 > 
 > 30 What then will we say? That the Gentiles, who did not pursue righteousness, have obtained it, a righteousness that is by faith; 31 but Israel, who pursued a law of righteousness, has not attained it. 32 Why not? Because their pursuit was not by faith, but as if it were by works. They stumbled over the stumbling stone, 33 as it is written:\
+> 
 > "See, I lay in Zion a stone of stumbling\
 > and a rock of offense;<sup>m</sup>\
 > and the one who believes in Him\

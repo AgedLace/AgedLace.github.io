@@ -2,7 +2,7 @@
 Title: Hebrews 3
 Type: Bible Passage
 Date-Created: 2024-08-31 02:07:41
-Date-Modified: 2024-08-31 02:57:03
+Date-Modified: 2024-08-31 07:39:09
 tags: [Hardened/Hearts, Hearts/Hardened, NT/Hebrews-3]
 ---
 
@@ -15,6 +15,12 @@ tags: [Hardened/Hearts, Hearts/Hardened, NT/Hebrews-3]
 - #Jesus/Apostle  
 - #Jesus/High-Priest  
 - #Jesus/Appointed  
+
+- *calling - G2821 -klésis* #Greek/G2821-klésis  
+	- **Strong's Concordance**
+		- a calling, invitation; in the NT, always of a divine call
+	- **HELPS Word-studies**
+		- **2821** _klḗsis_ (from [2564](https://biblehub.com/greek/2564.htm) _/kaléō_, "to call, summon") – _calling_; used of _God inviting all people_ to receive His gift of salvation – with all His blessings that go with it (Ro 11:29; Eph 4:4; 2 Pet 1:10).
 
 > [!NOTE] **Hebrews 3:3-4**
 > 
@@ -40,6 +46,7 @@ tags: [Hardened/Hearts, Hearts/Hardened, NT/Hebrews-3]
 > *(Psalm 95:1–11)*
 > 
 > 7 Therefore, as the Holy Spirit says:\
+> 
 > "Today, if you hear His voice,
 > 
 > 8 do not harden your hearts,\
@@ -51,6 +58,7 @@ tags: [Hardened/Hearts, Hearts/Hardened, NT/Hebrews-3]
 > 
 > 10 Therefore I was angry with that generation,\
 > and I said,\
+> 
 > 'Their hearts are always going astray,\
 > and they have not known My ways.'
 > 
@@ -64,6 +72,12 @@ tags: [Hardened/Hearts, Hearts/Hardened, NT/Hebrews-3]
 - #40/Years/in-the-Wilderness    
 - #Hearts/Going-Astray  
 - #Gods/Rest  
+
+- *harden - G4645 - sklérunó* #Greek/G4645-sklérunó  
+	- **Strong's Concordance**
+		- to hraden, make hard, make stubborn
+	- **HELPS Word-studies**
+		- **Cognate: 4645** _sklērýnō_ – properly, to harden; become inflexible (literally "dried out"); (figuratively) obstinately stubborn, resisting what God says is right. [See 4642](https://biblehub.com/greek/4642.htm) (_sklēros_).
 
 > [!NOTE] **Hebrews 3:12-13**
 > 
@@ -82,6 +96,7 @@ tags: [Hardened/Hearts, Hearts/Hardened, NT/Hebrews-3]
 > [!NOTE] **Hebrews 3:14-15**
 > 
 > 14 We have come to share in Christ if we hold firmly to the end the assurance we had at first. 15 As it has been said:\
+> 
 > "Today, if you hear His voice,\
 > do not harden your hearts,\
 > as you did in the rebellion."<sup>e</sup>
