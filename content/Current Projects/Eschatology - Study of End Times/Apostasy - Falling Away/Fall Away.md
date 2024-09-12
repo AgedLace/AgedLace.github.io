@@ -39,7 +39,7 @@ However, the remaining definitions do not necessarily hold this connotation.
 > 
 > The seeds on rocky ground are those who hear the word and receive it with joy, but they have no root. They believe for a season, but in the time of testing, they **fall away**.
 
-- This clearly refutes the 'once saved always saved' doctrine. #False-Doctrine/Once-Saved-Always-Saved  
+- This clearly refutes the 'once saved always saved' doctrine. #Doctrines-of-Devils/Once-Saved-Always-Saved  
 - They **HEARD** the word  
 - They **RECEIVED** the word with Joy  
 - They had no root  
@@ -73,7 +73,7 @@ Jesus clearly says that at the end of the age, **MANY** will try to enter the Ki
 > 
 > 4 It is impossible for those who have once been enlightened, who have tasted the heavenly gift, who have shared in the Holy Spirit, 5 who have tasted the goodness of the word of God and the powers of the coming age— 6 **and then have fallen away**—to be restored to repentance, because they themselves are crucifying the Son of God all over again and subjecting Him to open shame.
 
-There would be no reason for Paul to have written these words if it was impossible for people who were once saved to loose their salvation. #False-Doctrine/Once-Saved-Always-Saved .   
+There would be no reason for Paul to have written these words if it was impossible for people who were once saved to loose their salvation. #Doctrines-of-Devils/Once-Saved-Always-Saved .   
 
 - Those who have 
 	- **ONCE BEEN ENLIGHTENED**
@@ -93,7 +93,7 @@ These words can ONLY apply to Christians. They cannot be applied to unsaved peop
 			- **3895** _parapíptō_ (from [3844](https://biblehub.com/greek/3844.htm) _/pará_, "from close-beside" and [4098](https://biblehub.com/greek/4098.htm) _/píptō_, "to fall") – **properly, _fall_ away, after being _close-beside_; to _defect_ (abandon)**.
 			- [3895](https://biblehub.com/greek/3895.htm) _/parapíptō_ (**"fallen from a close position") refers to a _close-follower_ of Christ who becomes a defector**. I**t suggests this person (at least at one time) was a believer** (note the _para_). [3895](https://biblehub.com/greek/3895.htm) (_parapíptō_) is only used in Heb 6:6.
 
-The Greek word here clearly refutes the false doctrine of *once-saved-always-saved*. #False-Doctrine/Once-Saved-Always-Saved   
+The Greek word here clearly refutes the false doctrine of *once-saved-always-saved*. #Doctrines-of-Devils/Once-Saved-Always-Saved   
 
 #Nt/Hebrews-10v26-29  
 

@@ -19,7 +19,7 @@ tags: [Greek/G646-apostasia]
 
 #Question/Apostasia/Does-the-Greek/Invalidate/OSAS    
 
-If one is leaving / departing / forsaking from a previous standing, then were these not professing Christians at one time? Would this not refute the *once saved always saved* doctrine? #False-Doctrine/Once-Saved-Always-Saved   
+If one is leaving / departing / forsaking from a previous standing, then were these not professing Christians at one time? Would this not refute the *once saved always saved* doctrine? #Doctrines-of-Devils/Once-Saved-Always-Saved   
 
 ## 2 Occurrences in the New Testament
 
