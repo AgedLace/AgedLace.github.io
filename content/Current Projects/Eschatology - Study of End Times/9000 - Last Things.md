@@ -1,9 +1,9 @@
 ---
 Title: 9000 - Last Things
-Type: 
+Type: MOC
 Date-Created: 2024-09-09 12:07:53
-Date-Modified: 2024-09-09 12:51:49
-tags: []
+Date-Modified: 2024-09-15 08:19:54
+tags: [Resources/Dictionary/of/Bible-Themes/9000-Last-Things]
 ---
 **SOURCE** - [Dictionary of Bible Themes: 9000 Last things](https://biblehub.com/topical/dbt/9000.htm)
 

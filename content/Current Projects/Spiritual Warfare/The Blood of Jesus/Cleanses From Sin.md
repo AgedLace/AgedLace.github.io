@@ -3,7 +3,7 @@ Title: Cleanses From Sin
 Type: Note
 Date-Created: 2024-09-09 03:42:47
 Date-Modified: 2024-09-09 06:41:32
-tags: [Jesus/Blood/Cleanses/From-Sin, Spiritual-Warfare/Jesus/Blood/Cleanses/From-Sin]
+tags: [Jesus/Blood/Cleanses/From/All-Sin, Spiritual-Warfare/Jesus/Blood/Cleanses/From-Sin]
 ---
 #NT/1-John-1v7  
 
