@@ -1,0 +1,181 @@
+---
+Title: Different Kinds of Demonic Spirits
+Type: Note
+Date-Created: 2024-09-23 08:26:29
+Date-Modified: 2024-09-23 08:53:42
+tags: [Spirits/Types-of]
+---
+**SOURCE** - [Different Kinds of Demonic Spirits - Bible Knowledge](https://www.bible-knowledge.com/different-kinds-of-demonic-spirits/)
+
+- Demons usually travel in groups, with one being the 'chief' demon and the rest being his underlings under his direct control and direction.
+
+## Function Group Types
+
+- Murder
+	- Murder
+	- Hate
+	- Rage
+	- Anger
+	- Violence
+	- Death
+	- Revenge
+	- Destruction
+	- Darkness
+	- Suicide
+	- Jealousy 
+	- Sadism
+	- Fighting
+
+- Occult - **EACH OF THE FOLLOWING ACTIVITIES HAVE SPECIFIC DEMONS ASSIGNED TO THEM; THEY WILL COME DIRECTLY AFTER YOU IF YOU ATTEMPT TO TRY ANY OF THESE ACTIVITIES.
+	- Fortunetelling of any kind, i.e.
+		- palm reading
+		- crystal ball gazing
+		- numerology
+		- visiting psychics
+	- Tarot Cards
+	- Ouija Boards and Automatic Writing
+	- Seances and any involvement with mediums or spiritists
+	- Astrology and any form of horoscopes
+	- I Ching
+	- Hypnotism
+	- Transcendental Meditation or any type of Far Eastern Meditation
+	- Crystals
+	- Witchcraft
+	- Satanism
+	- Voodoo
+	- Channeling
+	- Reincarnation
+	- Astral Project
+	- ESP
+	- Dungeons and Dragons - any role-playing games
+	- New Age Movement techniques and activities
+	- Necromancy
+
+- Lust
+	- Lust
+	- Fornication
+	- Adultery
+	- Pornography
+	- Transvestism
+	- Prostitution
+
+- Pride
+	- Pride
+	- Arrogance
+	- Haughtiness
+	- Rebellion
+	- Blasphemy
+	- Control, Domination
+	- Possessiveness
+	- Contention
+	- Quarreling
+	- Critical, Judgmental
+	- Selfish
+	- Narcissistic
+	- Unbelief
+	- Skepticism
+	- Greed
+	- Paranoia
+	- Deceit
+	- Mockery
+
+- Mental Health - 2 Timothy 1:7 - God has given us a spirit or power, love and a **sound mind.**
+	- Fear
+	- Depression
+	- Torment
+	- Dread
+	- Hopelessness
+	- Despair
+	- Insecurity
+	- Paranoia
+	- Suspicion
+	- Distrust
+	- Insecurity
+	- Loneliness
+	- Shyness
+	- Discouragement
+	- Passivity
+	- Lying
+	- Deceit
+	- Antisocial
+	- Compulsive neurotic behavior
+	- Phobias
+	- Madness
+	- Insanity
+	- Schizophrenia
+	- MPD / DID
+	- Hearing Voices
+	- Mind Control
+	
+- Unforgiveness - Mark 11:25 - if you do not forgive, neither will your Father forgive you
+	- Unforgiveness
+	- Bitterness
+	- Jealousy
+	- Resentment
+	- Anger
+	- Stubborness
+	- Envy
+	- Hard-heartedness
+
+- Sickness, aka "spirits of infirmity"
+	- Spirit of infirmity (any kind of disease or illness)
+	- Death
+	- Anorexia
+	- Bulimia
+	- Insomnia
+	- Abnormal amounts of lethargy, sleepiness
+	- Epilepsy
+	- Gluttony
+
+- Different Kinds of Vices
+	- Alcohol
+	- Cocaine
+	- Heroin
+	- Meth
+	- Marijuana
+	- LSD
+	- Anti-prescription drugs
+
+- False Religions
+	- Jesus is the **ONLY** way to receive eternal salvation with God the Father
+		- Acts 4:12
+		- 1 Timothy 2:5
+		- Ephesians 4:4
+		- John 14:6
+		- John 10:9
+		- John 11:25
+		- John 8:12
+		- John 6:35
+		- John 6:51
+		- John 3:15-16
+		- John 3:36
+		- John 8:24
+		- John 5:24
+		- 1 John 5:11
+		- 1 John 4:14
+	- Islam
+	- Jehovah's Witnesses
+	- Mormonism
+	- Hinduism
+	- Buddhism
+	- Conficianism
+	- Shintoism
+	- Sikhism
+	- Jainism
+	- Zoroastrianism
+	- Spiritualism
+	- Christian Science
+	- Hare Krishna
+	- Scientology
+	- Kabbalah
+	- Unification Church
+	- Freemasonry
+	- The Children of God
+	- EST
+	- Eckanar
+	- The Forum
+	- The Way International
+	- Theosophy
+	- Rosicrucianism
+	- Atheism
+	- Legalism

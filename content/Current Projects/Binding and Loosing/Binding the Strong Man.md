@@ -2,8 +2,8 @@
 Title: Binding the Strong Man
 Type: Note
 Date-Created: 2024-09-12 08:31:26
-Date-Modified: 2024-09-12 08:47:52
-tags: [Spiritual-Warfare/Weapons/Binding-the-Strong-Man]
+Date-Modified: 2024-09-19 08:19:47
+tags: [Jesus/Bound/the-Strong-Man]
 ---
 #NT/Matthew-12v29  
 
@@ -34,4 +34,3 @@ tags: [Spiritual-Warfare/Weapons/Binding-the-Strong-Man]
 	- Or else … - The Saviour makes use of a new illustration to confute the Pharisees, drawn from breaking into a house.
 	- A man could not break into the house of a strong man and take his property unless he had rendered the man himself helpless. If he had taken his goods, it would therefore be sufficient proof that he had bound the man. So I, says he, have taken this "property - this possessed person" - from the dominion of Satan. It is clear proof that I have subdued "Satan himself," the "strong" being that had him in possession. The words "or else" mean "or how:" "How, or in what way, can one, etc."
 	- Spoil his goods - The word "spoil" commonly means, now, to corrupt, injure, or destroy. Here it means "to plunder," to take with violence, as it commonly does in the Bible. See [Colossians 2:8](http://biblehub.com/colossians/2-8.htm), [Colossians 2:15](https://biblehub.com/colossians/2-15.htm); [Exodus 3:22](https://biblehub.com/exodus/3-22.htm).
-

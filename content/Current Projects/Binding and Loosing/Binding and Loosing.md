@@ -2,8 +2,8 @@
 Title: Binding and Loosing
 Type: Note
 Date-Created: 2024-09-12 05:31:49
-Date-Modified: 2024-09-12 08:06:05
-tags: [Spiritual-Warfare/Weapons/Binding-and-Loosing]
+Date-Modified: 2024-09-19 08:19:02
+tags: [Binding-and-Loosing]
 ---
 #NT/Matthew-16v18-19  
 

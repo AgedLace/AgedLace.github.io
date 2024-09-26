@@ -2,8 +2,8 @@
 Title: 2 Corinthians 10v3-5
 Type: Bible Passage
 Date-Created: 2024-09-09 03:25:13
-Date-Modified: 2024-09-09 03:42:47
-tags: [Spiritual-Warfare/Divine-Weapons, Spiritual-Warfare/Scripture/2-Corinthians-10v3-5]
+Date-Modified: 2024-09-19 06:50:03
+tags: [Spiritual-Warfare/Divine-Weapons, Spiritual-Warfare/Divine-Weapons/2-Corinthians-10v3-5]
 ---
 #NT/2-Corinthians-10v3-5  
 

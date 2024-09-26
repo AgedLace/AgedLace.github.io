@@ -2,8 +2,8 @@
 Title: Luke 9.1-2
 Type: Bible Passage
 Date-Created: 2024-09-09 02:49:51
-Date-Modified: 2024-09-10 11:17:12
-tags: [Spiritual-Warfare/Jesus/Delegated/Power-and-Authority/Over/All-Demons, Spiritual-Warfare/Jesus/Delegated/Power/to/Cure/Diseases, Spiritual-Warfare/Scripture/Luke-9v1-2]
+Date-Modified: 2024-09-19 06:52:09
+tags: [Spiritual-Warfare/Jesus/Delegated/Power-and-Authority/Luke-9v1-2, Spiritual-Warfare/Jesus/Delegated/Power-and-Authority/Over/All-Demons, Spiritual-Warfare/Jesus/Delegated/Power/to/Cure/Diseases]
 ---
 #NT/Luke-9v1-2
 

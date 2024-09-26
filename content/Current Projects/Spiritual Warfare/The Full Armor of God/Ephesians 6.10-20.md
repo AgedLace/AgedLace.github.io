@@ -2,8 +2,8 @@
 Title: Ephesians 6.10-20
 Type: Bible Passage
 Date-Created: 2024-09-09 03:14:51
-Date-Modified: 2024-09-09 03:33:54
-tags: [Spiritual-Warfare/Armor-of-God, Spiritual-Warfare/Scripture/Ephesians-6v10-20]
+Date-Modified: 2024-09-19 06:50:42
+tags: [Spiritual-Warfare/Armor-of-God, Spiritual-Warfare/Armor-of-God/Ephesians-6v10-20]
 ---
 #NT/Ephesians-6v10-20  
 
