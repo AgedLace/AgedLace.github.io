@@ -2,7 +2,7 @@
 Title: Pleading the Blood of Jesus
 Type: Note
 Date-Created: 2024-09-19 07:52:06
-Date-Modified: 2024-09-23 07:42:17
+Date-Modified: 2024-10-04 06:39:24
 tags: [Prayer/Offensive/Pleading-the-Blood/of-Jesus, Spiritual-Warfare/Weapons/Pleading-the-Blood/of-Jesus]
 ---
 **BASED UPON** - <https://www.bible-knowledge.com/blood-of-jesus-how-to-plead-for-protection-and-deliverance/>
@@ -110,6 +110,7 @@ tags: [Prayer/Offensive/Pleading-the-Blood/of-Jesus, Spiritual-Warfare/Weapons/P
 
 - Preventively 
 	- Pleading the Blood for protection **BEFORE** attacks or adversity comes against you.
+
 - For Deliverance
 	- When you need God to deliver and/or heal you in order to set you free.
 
@@ -156,9 +157,7 @@ tags: [Prayer/Offensive/Pleading-the-Blood/of-Jesus, Spiritual-Warfare/Weapons/P
 
 ## How To Plead the Blood of Jesus 
 
- 
-
-### Preventively
+ ### Preventively
 
 - What do you want God's protection for? Below are a list of the basics / minimums you should pray over.
 	- your person
@@ -307,7 +306,7 @@ tags: [Prayer/Offensive/Pleading-the-Blood/of-Jesus, Spiritual-Warfare/Weapons/P
 
 #NT/Philippians-2v5-11  
 
-The 4 Key Phrases
+###### The 4 Key Phrases
 
 - Jesus full destroyed the devil and all of his works through His death on the cross
 - Jesus has fully delivered us from the power of darkness
@@ -503,6 +502,6 @@ The 4 Key Phrases
 
 ### Applying a Bloodline
 
-- Example - 
+- Example
 	- if you own a house with property surrounding it
 		- walk around the entire property Pleading the Blood of Jesus as you walk completely around it in a circle. This applies a Bloodline around the property.

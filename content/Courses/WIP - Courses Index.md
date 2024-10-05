@@ -1,8 +1,8 @@
 ---
-Title: index
+Title: WIP - Courses Index
 Type: MOC
 Date-Created: 2024-08-16 03:16:55
-Date-Modified: 2024-08-31 12:54:43
+Date-Modified: 2024-10-03 02:26:43
 tags: [Courses]
 ---
 **NOTE - THIS IS AN ONGOING WORK IN PROGRESS.**\
@@ -42,20 +42,23 @@ Right now, it's merely an index of potential courses.
 
 #Courses/Discipleship/Basic-Bible-Doctrines  
 
-- Salvation #Courses/Basic-Bible-Doctrines/Salvation  
-- Adoption - Sonship #Courses/Discipleship/Basic-Bible-Doctrines/Adoption-Sonship  
-- Sanctification #Courses/Discipleship/Basic-Bible-Doctrines/Sanctification  
-- Justification #Courses/Discipleship/Basic-Bible-Doctrines/Justification  
-- Glorification #Courses/Discipleship/Basic-Bible-Doctrines/Glorification  
-
-- Holiness
-- Righteousness
-- Self-Denial / Take Up Your Cross Daily
-- Repentance
-- Prayer
-- Suffering
-- Seek Ye First the Kingdom of God
-- The Fear of the Lord
+- The Doctrine of God
+- The Doctrine of Jesus Christ
+- The Doctrine of the Holy Spirit
+- The Doctrine of Man
+- The Doctrines of Salvation
+	- Repentance
+	- Faith
+	- Regeneration
+	- Justification
+	- Adoption
+	- Sanctification
+	- Prayer
+- The Doctrine of the Church
+- The Doctrine of the Scriptures
+- The Doctrine of Angels
+- The Doctrine of Satan
+- The Doctrine of the Last Things
 
 ## Praise and Worship
 
@@ -73,4 +76,5 @@ Right now, it's merely an index of potential courses.
 
 ## Spiritual Warfare
 
-#Courses/Spiritual-Warfare  
+#Courses/Spiritual-Warfare\
+[[Courses/Spiritual Warfare/Spiritual Warfare Index | Spiritual Warfare Course Index]]
