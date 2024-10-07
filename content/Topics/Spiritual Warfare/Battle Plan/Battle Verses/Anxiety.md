@@ -3,7 +3,7 @@ Title: Anxiety
 Type: Note
 Date-Created: 2024-09-19 06:46:20
 Date-Modified: 2024-09-19 07:08:02
-tags: [Spiritual-Warfare/Battle-Plan/Verses/For/Anxiety]
+tags: [Spiritual-Warfare/Battle-Plan/Battle-Verses/For/Anxiety]
 ---
 #NT/Philippians-4v6  
 

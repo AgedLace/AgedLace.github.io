@@ -325,7 +325,7 @@ tags: [Prayer/Offensive/Pleading-the-Blood/of-Jesus, Spiritual-Warfare/Weapons/P
 
 #NT/Luke-9v1  
 
-#Luke-4v14-18  
+#NT/Luke-4v14-18  
 
 #NT/1-John-2v27  
 

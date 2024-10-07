@@ -3,7 +3,7 @@ Title: Battle Prayer to Break Generational Curse Line
 Type: Note
 Date-Created: 2024-09-23 09:00:06
 Date-Modified: 2024-09-23 10:36:13
-tags: [Spiritual-Warfare/Battle-Plan/Verses/For/Generational-Curse-Line]
+tags: [Spiritual-Warfare/Battle-Plan/Battle-Verses/For/Generational-Curse-Line]
 ---
 **SOURCE** - [How to Break a Generational Curse](https://www.bible-knowledge.com/prayer-generational-curse/)
 

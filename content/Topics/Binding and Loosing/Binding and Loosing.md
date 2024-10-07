@@ -2,7 +2,7 @@
 Title: Binding and Loosing
 Type: Note
 Date-Created: 2024-09-12 05:31:49
-Date-Modified: 2024-09-19 08:19:02
+Date-Modified: 2024-10-06 12:45:02
 tags: [Binding-and-Loosing]
 ---
 #NT/Matthew-16v18-19  
@@ -91,7 +91,9 @@ tags: [Binding-and-Loosing]
 	- **NAS Exhaustive Concordance**
 		- **NASB Translation**
 			- bind (7), binding (1), binds (2), bound (23), imprisoned (4), prisoners (1), put…in chains (1), tied (4).
-	- **Thayer's Greek Lexicon**
+	- **Thayer's Greek Lexicon
+		- b. to bind, i. e. **put under obligation, namely, of law, duty**, etc.: δεδεμένος τῷ πνεύματι, bound or constrained in my spirit, i.e. compelled by my convictions, [Acts 20:22](https://biblehub.com/interlinear/acts/20-22.htm) (so not infrequent in Greek authors as Plato, rep. 8, p. 567 d. ἀνάγκη δέδεται ἡ προσταττει αὐτῷ); with the dative of person δεδέσθαι τίνι, to be bound to one: ἀνδρί, of a wife, [Romans 7:2](https://biblehub.com/interlinear/romans/7-2.htm); γυναικί, of a husband, [1 Corinthians 7:27](https://biblehub.com/interlinear/1_corinthians/7-27.htm); δέδεται absolutely, opposed to ἐλευθέρα ἐστι, [1 Corinthians 7:39](https://biblehub.com/interlinear/1_corinthians/7-39.htm); (Achilles Tatius 1, 11, p. 41 ἄλλη δέδεμαι παρθένῳ, Jamblichus, vit. Pythagoras 11, 56 τήν μέν ἀγαμον, … τήν δέ πρός ἄνδρα δεδεμένην).
+		- **NOTE** - David Wilkerson used this definition in his sermon "[[Binding God to His Word]]"
 		- c. by a Chaldean and rabbinical idiom (equivalent to אֲסַר), **to forbid, prohibit, declare to be illicit:** [Matthew 16:19](https://biblehub.com/interlinear/matthew/16-19.htm); [Matthew 18:18](https://biblehub.com/interlinear/matthew/18-18.htm). (Compare: καταδέω, περιδέω, συνδέω, ὑποδέω.)
 	- **Strong's Exhaustive Concordance**
 		- bind, be in bonds, knit, tie, wind.

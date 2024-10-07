@@ -3,7 +3,7 @@ Title: Burdens
 Type: Note
 Date-Created: 2024-09-19 06:34:55
 Date-Modified: 2024-09-19 08:05:03
-tags: [Spiritual-Warfare/Battle-Plan/Verses/For/Burdens]
+tags: [Spiritual-Warfare/Battle-Plan/Battle-Verses/For/Burdens]
 ---
 #OT/Psalm-55v22  
 

@@ -2,7 +2,7 @@
 Title: WIP - Courses Index
 Type: MOC
 Date-Created: 2024-08-16 03:16:55
-Date-Modified: 2024-10-03 02:26:43
+Date-Modified: 2024-10-06 01:09:36
 tags: [Courses]
 ---
 **NOTE - THIS IS AN ONGOING WORK IN PROGRESS.**\
@@ -54,6 +54,7 @@ Right now, it's merely an index of potential courses.
 	- Adoption
 	- Sanctification
 	- Prayer
+		- Use *EM Bounds' - Weapon of Prayer* as a blueprint
 - The Doctrine of the Church
 - The Doctrine of the Scriptures
 - The Doctrine of Angels

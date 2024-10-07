@@ -2,8 +2,8 @@
 Title: Let Go of the Past
 Type: Note
 Date-Created: 2024-09-19 07:42:17
-Date-Modified: 2024-09-19 08:05:35
-tags: [Spiritual-Warfare/Battle-Plan/Verses/For/Let-Go/of-the-Past]
+Date-Modified: 2024-10-06 12:55:09
+tags: [Spiritual-Warfare/Battle-Plan/Battle-Verses/For/Letting-Go/of-the-Past]
 ---
 
 > [!NOTE] **Luke 9:62**
