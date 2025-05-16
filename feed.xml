@@ -3,17 +3,22 @@
     <title>Test Repo</title>
     <link href="https://AgedLace.github.io/feed.xml" rel="self" >
     <link href="https://AgedLace.github.io" >
-    <updated>2025-05-16T07:04:09Z</updated>
+    <updated>2025-05-16T07:06:02Z</updated>
     <id>https://AgedLace.github.io</id>
         <entry>
             <title>
                 Home
                 
             </title>
-            <updated>2025-05-16T07:04:01Z</updated>
+            <updated>2025-05-16T07:05:55Z</updated>
             <id>https://AgedLace.github.io/</id>
             <content type="html">
                 &lt;p&gt;Home Page.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://agedlace.github.io/&quot;&gt;Home&lt;/a&gt;&lt;br /&gt;
+&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://agedlace.github.io/404&quot; target=&quot;&quot;&gt;Post1&lt;/a&gt;&lt;br /&gt;
+&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://agedlace.github.io/404&quot; target=&quot;&quot;&gt;Post2&lt;/a&gt;&lt;br /&gt;
+&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://agedlace.github.io/404&quot; target=&quot;&quot;&gt;Note1&lt;/a&gt;&lt;br /&gt;
+&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://agedlace.github.io/404&quot; target=&quot;&quot;&gt;Note2&lt;/a&gt;&lt;/p&gt;
 
             </content>
             <link href="https://AgedLace.github.io/" >
