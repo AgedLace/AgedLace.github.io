@@ -1,1 +1,1 @@
-{"homeAlias":"/","nodes":{},"links":[]}
+{"homeAlias":"/","nodes":{"/blog/2025/post-1/":{"id":0,"title":"post-1","url":"/blog/2025/post-1/","group":"2025","home":false,"outBound":["/home/"],"neighbors":["/home/"],"backLinks":[],"noteIcon":"","hide":false,"size":1},"/home/":{"id":1,"title":"home","url":"/home/","group":"none","home":false,"outBound":[],"neighbors":["/blog/2025/post-1/"],"backLinks":["/blog/2025/post-1/"],"noteIcon":"","hide":false,"size":1}},"links":[{"source":0,"target":1}]}

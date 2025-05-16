@@ -3,6 +3,33 @@
     <title>Be Not Deceived</title>
     <link href="https://benotdeceived.org/feed.xml" rel="self" >
     <link href="https://benotdeceived.org" >
-    <updated>2025-05-16T19:33:00Z</updated>
+    <updated>2025-05-16T19:41:58Z</updated>
     <id>https://benotdeceived.org</id>
+        <entry>
+            <title>
+                home
+                
+            </title>
+            <updated>2025-05-16T19:41:49Z</updated>
+            <id>https://benotdeceived.org/home/</id>
+            <content type="html">
+                &lt;p&gt;Welcome Page&lt;/p&gt;
+
+            </content>
+            <link href="https://benotdeceived.org/home/" >
+        </entry>
+        <entry>
+            <title>
+                post-1
+                
+            </title>
+            <updated>2025-05-16T19:41:49Z</updated>
+            <id>https://benotdeceived.org/blog/2025/post-1/</id>
+            <content type="html">
+                &lt;p&gt;This is Post 1 of the 2025 Blog section.&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://benotdeceived.org/home/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://benotdeceived.org/blog/2025/post-1/" >
+        </entry>
 </feed>
