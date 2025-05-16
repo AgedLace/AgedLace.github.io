@@ -3,14 +3,14 @@
     <title>Test Repo</title>
     <link href="https://BeNotDeceived.org/feed.xml" rel="self" >
     <link href="https://BeNotDeceived.org" >
-    <updated>2025-05-16T07:23:23Z</updated>
+    <updated>2025-05-16T13:12:04Z</updated>
     <id>https://BeNotDeceived.org</id>
         <entry>
             <title>
                 Topic 1
                 
             </title>
-            <updated>2025-05-16T07:23:14Z</updated>
+            <updated>2025-05-16T13:11:51Z</updated>
             <id>https://BeNotDeceived.org/notebook/topic1/topic-1/</id>
             <content type="html">
                 &lt;p&gt;Topic 1&lt;/p&gt;
@@ -24,7 +24,7 @@
                 Note2
                 
             </title>
-            <updated>2025-05-16T07:23:14Z</updated>
+            <updated>2025-05-16T13:11:51Z</updated>
             <id>https://BeNotDeceived.org/notebook/note2/</id>
             <content type="html">
                 &lt;p&gt;Note 3 &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#Notebook/Note-3&quot;&gt;#Notebook/Note-3&lt;/a&gt;&lt;/p&gt;
@@ -37,7 +37,7 @@
                 Note1
                 
             </title>
-            <updated>2025-05-16T07:23:14Z</updated>
+            <updated>2025-05-16T13:11:51Z</updated>
             <id>https://BeNotDeceived.org/notebook/note1/</id>
             <content type="html">
                 &lt;p&gt;Note 1&lt;/p&gt;
@@ -50,7 +50,7 @@
                 Home
                 
             </title>
-            <updated>2025-05-16T07:23:14Z</updated>
+            <updated>2025-05-16T13:11:51Z</updated>
             <id>https://BeNotDeceived.org/</id>
             <content type="html">
                 &lt;p&gt;Home Page.&lt;/p&gt;
@@ -69,7 +69,7 @@
                 Post2
                 
             </title>
-            <updated>2025-05-16T07:23:14Z</updated>
+            <updated>2025-05-16T13:11:51Z</updated>
             <id>https://BeNotDeceived.org/blog/post2/</id>
             <content type="html">
                 &lt;p&gt;Post 2&lt;/p&gt;
@@ -82,7 +82,7 @@
                 Post1
                 
             </title>
-            <updated>2025-05-16T07:23:14Z</updated>
+            <updated>2025-05-16T13:11:51Z</updated>
             <id>https://BeNotDeceived.org/blog/post1/</id>
             <content type="html">
                 &lt;p&gt;Post 1&lt;/p&gt;
