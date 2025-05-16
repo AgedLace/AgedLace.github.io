@@ -1,33 +1,33 @@
 [
 {
 		"title": "Home",
-		"date":"Fri May 16 2025 06:35:08 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri May 16 2025 06:36:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/",
-		"content": "Content",
+		"content": "This is the Home page.",
 		"tags": [ "note","home","gardenEntry"]
 },
 
 {
 		"title": "new-note",
-		"date":"Fri May 16 2025 06:35:08 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri May 16 2025 06:36:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/new-note/",
-		"content": "Content",
+		"content": "This is the new note.",
 		"tags": [ "note","new"]
 },
 
 {
 		"title": "second-note",
-		"date":"Fri May 16 2025 06:35:08 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri May 16 2025 06:36:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/second-note/",
-		"content": "Content",
+		"content": "This is the second note.",
 		"tags": [ "note","second"]
 },
 
 {
 		"title": "test-note",
-		"date":"Fri May 16 2025 06:35:08 GMT+0000 (Coordinated Universal Time)",
+		"date":"Fri May 16 2025 06:36:05 GMT+0000 (Coordinated Universal Time)",
 		"url":"/test-note/",
-		"content": "Content",
+		"content": "And this is the test note.",
 		"tags": [ "note","test"]
 }
 ]

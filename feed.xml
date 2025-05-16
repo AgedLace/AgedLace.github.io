@@ -3,17 +3,17 @@
     <title>Test Repo</title>
     <link href="https://AgedLace.github.io/feed.xml" rel="self" >
     <link href="https://AgedLace.github.io" >
-    <updated>2025-05-16T06:35:21Z</updated>
+    <updated>2025-05-16T06:36:12Z</updated>
     <id>https://AgedLace.github.io</id>
         <entry>
             <title>
                 test-note
                 
             </title>
-            <updated>2025-05-16T06:29:10.749Z</updated>
+            <updated>2025-05-16T06:36:05Z</updated>
             <id>https://AgedLace.github.io/test-note/</id>
             <content type="html">
-                &lt;p&gt;Content&lt;/p&gt;
+                &lt;p&gt;And this is the test note.&lt;/p&gt;
 
             </content>
             <link href="https://AgedLace.github.io/test-note/" >
@@ -23,10 +23,10 @@
                 second-note
                 
             </title>
-            <updated>2025-05-16T06:29:07.912Z</updated>
+            <updated>2025-05-16T06:36:05Z</updated>
             <id>https://AgedLace.github.io/second-note/</id>
             <content type="html">
-                &lt;p&gt;Content&lt;/p&gt;
+                &lt;p&gt;This is the second note.&lt;/p&gt;
 
             </content>
             <link href="https://AgedLace.github.io/second-note/" >
@@ -36,10 +36,10 @@
                 new-note
                 
             </title>
-            <updated>2025-05-16T06:29:28.165Z</updated>
+            <updated>2025-05-16T06:36:05Z</updated>
             <id>https://AgedLace.github.io/new-note/</id>
             <content type="html">
-                &lt;p&gt;Content&lt;/p&gt;
+                &lt;p&gt;This is the new note.&lt;/p&gt;
 
             </content>
             <link href="https://AgedLace.github.io/new-note/" >
@@ -49,10 +49,10 @@
                 Home
                 
             </title>
-            <updated>2025-05-16T06:29:35.629Z</updated>
+            <updated>2025-05-16T06:36:05Z</updated>
             <id>https://AgedLace.github.io/</id>
             <content type="html">
-                &lt;p&gt;Content&lt;/p&gt;
+                &lt;p&gt;This is the Home page.&lt;/p&gt;
 
             </content>
             <link href="https://AgedLace.github.io/" >
