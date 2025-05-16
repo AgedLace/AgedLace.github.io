@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["home","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"]}
 ---
 
-This is the Home page.
+Home Page.
