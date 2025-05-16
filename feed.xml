@@ -3,58 +3,6 @@
     <title>Test Repo</title>
     <link href="https://AgedLace.github.io/feed.xml" rel="self" >
     <link href="https://AgedLace.github.io" >
-    <updated>2025-05-16T06:53:14Z</updated>
+    <updated>2025-05-16T06:53:37Z</updated>
     <id>https://AgedLace.github.io</id>
-        <entry>
-            <title>
-                Note-2
-                
-            </title>
-            <updated>2025-05-16T06:53:03Z</updated>
-            <id>https://AgedLace.github.io/notebook/note-2/</id>
-            <content type="html">
-                &lt;p&gt;Note 2&lt;/p&gt;
-
-            </content>
-            <link href="https://AgedLace.github.io/notebook/note-2/" >
-        </entry>
-        <entry>
-            <title>
-                Note-1
-                
-            </title>
-            <updated>2025-05-16T06:53:03Z</updated>
-            <id>https://AgedLace.github.io/notebook/note-1/</id>
-            <content type="html">
-                &lt;p&gt;Note 1&lt;/p&gt;
-
-            </content>
-            <link href="https://AgedLace.github.io/notebook/note-1/" >
-        </entry>
-        <entry>
-            <title>
-                Home
-                
-            </title>
-            <updated>2025-05-16T06:53:03Z</updated>
-            <id>https://AgedLace.github.io/</id>
-            <content type="html">
-                &lt;p&gt;Home Page.&lt;/p&gt;
-
-            </content>
-            <link href="https://AgedLace.github.io/" >
-        </entry>
-        <entry>
-            <title>
-                Post-2
-                
-            </title>
-            <updated>2025-05-16T06:53:03Z</updated>
-            <id>https://AgedLace.github.io/blog/post-2/</id>
-            <content type="html">
-                &lt;p&gt;Post 2&lt;/p&gt;
-
-            </content>
-            <link href="https://AgedLace.github.io/blog/post-2/" >
-        </entry>
 </feed>
