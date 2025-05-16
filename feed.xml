@@ -3,27 +3,14 @@
     <title>Test Repo</title>
     <link href="https://AgedLace.github.io/feed.xml" rel="self" >
     <link href="https://AgedLace.github.io" >
-    <updated>2025-05-16T06:50:32Z</updated>
+    <updated>2025-05-16T06:50:54Z</updated>
     <id>https://AgedLace.github.io</id>
-        <entry>
-            <title>
-                test-note
-                
-            </title>
-            <updated>2025-05-16T06:50:23Z</updated>
-            <id>https://AgedLace.github.io/notebook/test-note/</id>
-            <content type="html">
-                &lt;p&gt;And this is the test note.&lt;/p&gt;
-
-            </content>
-            <link href="https://AgedLace.github.io/notebook/test-note/" >
-        </entry>
         <entry>
             <title>
                 Note-2
                 
             </title>
-            <updated>2025-05-16T06:50:23Z</updated>
+            <updated>2025-05-16T06:50:45Z</updated>
             <id>https://AgedLace.github.io/notebook/note-2/</id>
             <content type="html">
                 &lt;p&gt;Note 2&lt;/p&gt;
@@ -36,7 +23,7 @@
                 Note-1
                 
             </title>
-            <updated>2025-05-16T06:50:23Z</updated>
+            <updated>2025-05-16T06:50:45Z</updated>
             <id>https://AgedLace.github.io/notebook/note-1/</id>
             <content type="html">
                 &lt;p&gt;Note 1&lt;/p&gt;
@@ -49,7 +36,7 @@
                 Home
                 
             </title>
-            <updated>2025-05-16T06:50:23Z</updated>
+            <updated>2025-05-16T06:50:45Z</updated>
             <id>https://AgedLace.github.io/</id>
             <content type="html">
                 &lt;p&gt;Home Page.&lt;/p&gt;
@@ -59,36 +46,10 @@
         </entry>
         <entry>
             <title>
-                second-note
-                
-            </title>
-            <updated>2025-05-16T06:50:23Z</updated>
-            <id>https://AgedLace.github.io/blog/second-note/</id>
-            <content type="html">
-                &lt;p&gt;This is the second note.&lt;/p&gt;
-
-            </content>
-            <link href="https://AgedLace.github.io/blog/second-note/" >
-        </entry>
-        <entry>
-            <title>
-                new-note
-                
-            </title>
-            <updated>2025-05-16T06:50:23Z</updated>
-            <id>https://AgedLace.github.io/blog/new-note/</id>
-            <content type="html">
-                &lt;p&gt;This is the new note.&lt;/p&gt;
-
-            </content>
-            <link href="https://AgedLace.github.io/blog/new-note/" >
-        </entry>
-        <entry>
-            <title>
                 Post-2
                 
             </title>
-            <updated>2025-05-16T06:50:23Z</updated>
+            <updated>2025-05-16T06:50:45Z</updated>
             <id>https://AgedLace.github.io/blog/post-2/</id>
             <content type="html">
                 &lt;p&gt;Post 2&lt;/p&gt;
@@ -101,7 +62,7 @@
                 Post-1
                 
             </title>
-            <updated>2025-05-16T06:50:23Z</updated>
+            <updated>2025-05-16T06:50:45Z</updated>
             <id>https://AgedLace.github.io/blog/post-1/</id>
             <content type="html">
                 &lt;p&gt;Post 1.&lt;/p&gt;
