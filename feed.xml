@@ -3,53 +3,14 @@
     <title>Test Repo</title>
     <link href="https://AgedLace.github.io/feed.xml" rel="self" >
     <link href="https://AgedLace.github.io" >
-    <updated>2025-05-16T06:40:06Z</updated>
+    <updated>2025-05-16T06:40:22Z</updated>
     <id>https://AgedLace.github.io</id>
         <entry>
             <title>
                 test-note
                 
             </title>
-            <updated>2025-05-16T06:39:56Z</updated>
-            <id>https://AgedLace.github.io/test-note/</id>
-            <content type="html">
-                &lt;p&gt;And this is the test note.&lt;/p&gt;
-
-            </content>
-            <link href="https://AgedLace.github.io/test-note/" >
-        </entry>
-        <entry>
-            <title>
-                second-note
-                
-            </title>
-            <updated>2025-05-16T06:39:56Z</updated>
-            <id>https://AgedLace.github.io/second-note/</id>
-            <content type="html">
-                &lt;p&gt;This is the second note.&lt;/p&gt;
-
-            </content>
-            <link href="https://AgedLace.github.io/second-note/" >
-        </entry>
-        <entry>
-            <title>
-                new-note
-                
-            </title>
-            <updated>2025-05-16T06:39:56Z</updated>
-            <id>https://AgedLace.github.io/new-note/</id>
-            <content type="html">
-                &lt;p&gt;This is the new note.&lt;/p&gt;
-
-            </content>
-            <link href="https://AgedLace.github.io/new-note/" >
-        </entry>
-        <entry>
-            <title>
-                test-note
-                
-            </title>
-            <updated>2025-05-16T06:39:56Z</updated>
+            <updated>2025-05-16T06:40:15Z</updated>
             <id>https://AgedLace.github.io/notebook/test-note/</id>
             <content type="html">
                 &lt;p&gt;And this is the test note.&lt;/p&gt;
@@ -62,7 +23,7 @@
                 Home
                 
             </title>
-            <updated>2025-05-16T06:39:56Z</updated>
+            <updated>2025-05-16T06:40:15Z</updated>
             <id>https://AgedLace.github.io/</id>
             <content type="html">
                 &lt;p&gt;This is the Home page.&lt;/p&gt;
@@ -75,7 +36,7 @@
                 second-note
                 
             </title>
-            <updated>2025-05-16T06:39:56Z</updated>
+            <updated>2025-05-16T06:40:15Z</updated>
             <id>https://AgedLace.github.io/blog/second-note/</id>
             <content type="html">
                 &lt;p&gt;This is the second note.&lt;/p&gt;
@@ -88,7 +49,7 @@
                 new-note
                 
             </title>
-            <updated>2025-05-16T06:39:56Z</updated>
+            <updated>2025-05-16T06:40:15Z</updated>
             <id>https://AgedLace.github.io/blog/new-note/</id>
             <content type="html">
                 &lt;p&gt;This is the new note.&lt;/p&gt;
