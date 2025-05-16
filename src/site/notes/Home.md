@@ -3,3 +3,9 @@
 ---
 
 Home Page.
+
+[[Home\|Home]]
+[[Blog/Post1\|Post1]]
+[[Blog/Post2\|Post2]]
+[[Notebook/Note1\|Note1]]
+[[Notebook/Note2\|Note2]]
