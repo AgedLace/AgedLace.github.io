@@ -3,58 +3,19 @@
     <title>Test Repo</title>
     <link href="https://AgedLace.github.io/feed.xml" rel="self" >
     <link href="https://AgedLace.github.io" >
-    <updated>2025-05-16T07:03:50Z</updated>
+    <updated>2025-05-16T07:04:09Z</updated>
     <id>https://AgedLace.github.io</id>
-        <entry>
-            <title>
-                Note 2
-                
-            </title>
-            <updated>2025-05-16T07:03:41Z</updated>
-            <id>https://AgedLace.github.io/notebook/note-2/</id>
-            <content type="html">
-                &lt;p&gt;Note 3 &lt;a class=&quot;tag&quot; onclick=&quot;toggleTagSearch(this)&quot; data-content=&quot;#Notebook/Note-3&quot;&gt;#Notebook/Note-3&lt;/a&gt;&lt;/p&gt;
-
-            </content>
-            <link href="https://AgedLace.github.io/notebook/note-2/" >
-        </entry>
-        <entry>
-            <title>
-                Note 1
-                
-            </title>
-            <updated>2025-05-16T07:03:41Z</updated>
-            <id>https://AgedLace.github.io/notebook/note-1/</id>
-            <content type="html">
-                &lt;p&gt;Note 1&lt;/p&gt;
-
-            </content>
-            <link href="https://AgedLace.github.io/notebook/note-1/" >
-        </entry>
         <entry>
             <title>
                 Home
                 
             </title>
-            <updated>2025-05-16T07:03:41Z</updated>
+            <updated>2025-05-16T07:04:01Z</updated>
             <id>https://AgedLace.github.io/</id>
             <content type="html">
                 &lt;p&gt;Home Page.&lt;/p&gt;
 
             </content>
             <link href="https://AgedLace.github.io/" >
-        </entry>
-        <entry>
-            <title>
-                Post 2
-                
-            </title>
-            <updated>2025-05-16T07:03:41Z</updated>
-            <id>https://AgedLace.github.io/blog/post-2/</id>
-            <content type="html">
-                &lt;p&gt;Post 2&lt;/p&gt;
-
-            </content>
-            <link href="https://AgedLace.github.io/blog/post-2/" >
         </entry>
 </feed>
