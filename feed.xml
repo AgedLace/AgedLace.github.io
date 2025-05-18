@@ -3,14 +3,28 @@
     <title>Be Not Deceived</title>
     <link href="https://benotdeceived.org/feed.xml" rel="self" >
     <link href="https://benotdeceived.org" >
-    <updated>2025-05-18T00:47:12Z</updated>
+    <updated>2025-05-18T00:53:16Z</updated>
     <id>https://benotdeceived.org</id>
+        <entry>
+            <title>
+                test2
+                
+            </title>
+            <updated>2025-05-18T00:53:09Z</updated>
+            <id>https://benotdeceived.org/test2/</id>
+            <content type="html">
+                &lt;p&gt;test2&lt;/p&gt;
+&lt;p&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://benotdeceived.org/&quot;&gt;Home&lt;/a&gt;&lt;/p&gt;
+
+            </content>
+            <link href="https://benotdeceived.org/test2/" >
+        </entry>
         <entry>
             <title>
                 test
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/test/</id>
             <content type="html">
                 &lt;p&gt;test&lt;/p&gt;
@@ -24,7 +38,7 @@
                 G5083-téreó
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g5083-tereo/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -42,7 +56,7 @@
                 G5048-teleioó
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g5048-teleioo/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -61,7 +75,7 @@
                 G4991-sótéria
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g4991-soteria/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -79,7 +93,7 @@
                 G4791-sugkoinónos
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g4791-sugkoinonos/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -97,7 +111,7 @@
                 G4129-pléthunó
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g4129-plethuno/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -115,7 +129,7 @@
                 G4102-pistis
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g4102-pistis/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -202,7 +216,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G4052-perisseuó
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g4052-perisseuo/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -220,7 +234,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G37-hagiazó
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g37-hagiazo/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -239,7 +253,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G2842-koinónia
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g2842-koinonia/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -257,7 +271,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G2822-klétos
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g2822-kletos/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -333,7 +347,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G27-agapétos
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g27-agapetos/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -353,7 +367,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G26-agapé
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g26-agape/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -371,7 +385,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G2005-epiteleó
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g2005-epiteleo/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -387,7 +401,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G1922-epignósis
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g1922-epignosis/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -405,7 +419,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G1864-epagónizomai
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g1864-epagonizomai/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -423,7 +437,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G1656-eleos
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g1656-eleos/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -441,7 +455,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G1515-eiréné
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g1515-eirene/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -459,7 +473,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G144-aisthésis
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g144-aisthesis/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -477,7 +491,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G1401-doulos
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g1401-doulos/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -495,7 +509,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 G1381-dokimazo
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/notebook/lexicons/greek/g1381-dokimazo/</id>
             <content type="html">
                 &lt;h2 id=&quot;strong-s-concordance&quot; tabindex=&quot;-1&quot;&gt;Strong&#39;s Concordance&lt;/h2&gt;
@@ -514,7 +528,7 @@ But the righteous will live in his &lt;em&gt;faith&lt;/em&gt;&amp;quot; (= 4102
                 home
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/</id>
             <content type="html">
                 &lt;h2 id=&quot;a-name-top-a-markdown-test-page&quot; tabindex=&quot;-1&quot;&gt;&lt;a name=&quot;top&quot;&gt;&lt;/a&gt;Markdown Test Page&lt;/h2&gt;
@@ -703,7 +717,7 @@ func main() {
                 post-1
                 
             </title>
-            <updated>2025-05-18T00:47:01Z</updated>
+            <updated>2025-05-18T00:53:09Z</updated>
             <id>https://benotdeceived.org/blog/2025/post-1/</id>
             <content type="html">
                 &lt;p&gt;This is Post 1 of the 2025 Blog section.&lt;/p&gt;
