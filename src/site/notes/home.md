@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","pinned":true,"tags":["BND/Purpose","BND/Welcome","gardenEntry"],"created":"May 25, 2025 05:10  am","updated":"May 25, 2025 10:09  am"}
+{"dg-publish":true,"permalink":"/home/","tags":["BND/Purpose","BND/Welcome","gardenEntry"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 07:29 pm"}
 ---
 
 ## Welcome To Be Not Deceived
