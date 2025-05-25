@@ -100,4 +100,4 @@ Unless otherwise stated, all Scripture references quoted on this website are tak
 >
 > [Bible Hub](https://biblehub.com/)
 
-#Copyrights/BSB
+
