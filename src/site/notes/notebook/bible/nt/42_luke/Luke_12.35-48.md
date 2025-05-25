@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/bible/nt/42-luke/luke-12-35-48/","tags":["NT/42-Luke-12v35-48"],"created":"2025-05-17 05:05:00","updated":"2025-05-25 06:05:45"}
+{"dg-publish":true,"permalink":"/notebook/bible/nt/42-luke/luke-12-35-48/","tags":["NT/42-Luke-12v35-48"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 07:53 pm"}
 ---
 
 **Readiness at Any Hour**  

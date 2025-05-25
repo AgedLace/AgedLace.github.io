@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/bible/nt/40-matthew/matthew-24-15-25/","tags":["NT/40-Matthew-24v15-25"],"created":"2025-05-17 05:05:00","updated":"2025-05-25 06:05:60"}
+{"dg-publish":true,"permalink":"/notebook/bible/nt/40-matthew/matthew-24-15-25/","tags":["NT/40-Matthew-24v15-25"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 07:51 pm"}
 ---
 
 **The Abomination of Desolation** 

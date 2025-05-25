@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g2005-epiteleo/","tags":["Greek/G2005-epiteleó"],"created":"2025-05-16 15:05:00","updated":"2025-05-16 15:05:78"}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g2005-epiteleo/","tags":["Greek/G2005-epiteleó"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 19:55 pm"}
 ---
 
 ## Strong's Concordance

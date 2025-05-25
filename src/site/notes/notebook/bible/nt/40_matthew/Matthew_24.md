@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/bible/nt/40-matthew/matthew-24/","tags":["NT/40-Matthew-24v4"],"created":"2025-05-24 05:05:00","updated":"2025-05-25 06:05:58"}
+{"dg-publish":true,"permalink":"/notebook/bible/nt/40-matthew/matthew-24/","tags":["NT/40-Matthew-24v4"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 07:51 pm"}
 ---
 
 ## **Berean Standard Bible - Matthew 24**
@@ -39,9 +39,13 @@
 [**26**](https://biblehub.com/matthew/24-26.htm) So if they tell you, 'There He is, in the wilderness,' do not go out, or, 'Here He is, in the inner rooms,' do not believe it. [**27**](https://biblehub.com/matthew/24-27.htm) For just as the lightning comes from the east and flashes as far as the west, so will be the coming of the Son of Man. [**28**](https://biblehub.com/matthew/24-28.htm) Wherever there is a carcass, there the vultures will gather.
 
 [**29**](https://biblehub.com/matthew/24-29.htm) Immediately after the tribulation of those days:
+
 'The sun will be darkened,
+
 and the moon will not give its light;
+
 the stars will fall from the sky,
+
 and the powers of the heavens will be shaken.[b](https://biblehub.com/bsb/matthew/24.htm#fn)'
 
 [**30**](https://biblehub.com/matthew/24-30.htm) At that time the sign of the Son of Man will appear in heaven,[c](https://biblehub.com/bsb/matthew/24.htm#fn) and all the tribes of the earth will mourn. They will see the Son of Man coming on the clouds of heaven with power and great glory.[d](https://biblehub.com/bsb/matthew/24.htm#fn) [**31**](https://biblehub.com/matthew/24-31.htm) And He will send out His angels with a loud trumpet call, and they will gather His elect from the four winds, from one end of the heavens to the other.

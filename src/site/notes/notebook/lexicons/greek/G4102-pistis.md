@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g4102-pistis/","tags":["Greek/G4102-pistis"],"created":"2025-05-16 15:05:00","updated":"2025-05-16 15:05:57"}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g4102-pistis/","tags":["Greek/G4102-pistis"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 19:55 pm"}
 ---
 
 ## Strong's Concordance
@@ -29,7 +29,9 @@ Ro 12:3: "For through the grace given to me I say to everyone among you not to t
 Eph 2:8,9: " For by grace you have been saved through *faith* (4102_/pistis_); and that not of yourselves, it is *the gift of God*; 9not as a result of works, so that no one may boast" (*NASU*).
 
 Gal 5:22,23: "22But the fruit of the Spirit is love, joy, peace,
+
 patience, kindness, goodness, *faith* (4102_/pistis_), 23gentleness,
+
 self-control; against such things there is no law."
 
 2 Thes 1:11: "To this end (glorification) – indeed each time we pray about (*peri*) you for the purpose (*hin*) of our God counting you worthy of the call – even that He may fulfill (His) every good-pleasure that comes from (His) goodness *and work of faith*, in (His) ability."
@@ -43,6 +45,7 @@ self-control; against such things there is no law."
 5 2 Cor 8:5,7: " And this, not as we had expected, but they first gave themselves to the Lord and to us by the *will* (2307_/thel__ç__ma_) of God" (*NASU*).
 
 7" But just as you abound in everything, in *faith* (4102_/pistis_)
+
 and utterance and knowledge and in all earnestness and in the love we inspired in you, see that you abound in this gracious work also" (*NASU*).
 
 Heb 10:36,38: "36 For you have need of endurance, so that when you have done the *will* (2307_/thel__ç__ma_) of God, you may receive what was promised" (*NASU*).
@@ -56,6 +59,7 @@ Heb 10:36,38: "36 For you have need of endurance, so that when you have done the
 1 Hab 2:1: " I will stand on my guard post And station myself on the rampart; And I will keep watch to see *what He will speak in* (Heb *b* ) *me*" (*NASU*).
 
 Hab 2:4: "Behold, as for the proud one, His soul is not right within him;
+
 But the righteous will live in his *faith*" (= 4102_/pistis_, "faith *from* the Lord").
 
 ### ***More On What Faith Is … And isn't***
