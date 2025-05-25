@@ -47,7 +47,7 @@
 		- Why?
 			- **Many will come in My name, claiming, 'I am the Christ, and will deceive many.' - Matthew 24:5** #False/Christs
 			- And another **'see to it that …'** warning - Matthew 24:6
-			- **You will hear of wars and rumors of wars, *but see to it that you are not alarmed*** #Signs/Wars/and/Rumors/of/Wars #Believers/are/Commanded/Not/to/be/Alarmed  
+				- **You will hear of wars and rumors of wars, *but see to it that you are not alarmed*** #Signs/Wars/and/Rumors/of/Wars #Believers/are/Commanded/Not/to/be/Alarmed  
 	- **Birth pains are not *'the end' - Matthew 24:6** #Birth-Pain/are/Not/the-End  
 		- Jesus says, **These things *must* happen, *but the end is still to come.***
 	- **World-wide military conflicts and natural disasters - Matthew 24:7** #Birth-Pains/Beginning/Signs/Wars/and/Rumors/of/Wars
