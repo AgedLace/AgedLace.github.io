@@ -1,189 +1,121 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["Home","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["BND/purpose","Welcome","gardenEntry"]}
 ---
 
-## <a name="top"></a>Markdown Test Page
+## Welcome To Be Not Deceived
 
- [Source](https://github.com/fullpipe/markdown-test-page/blob/master/test-page.md)
+### Primary Purpose
 
-* [Headings](#Headings)
-* [Paragraphs](#Paragraphs)
-* [Blockquotes](#Blockquotes)
-* [Lists](#Lists)
-* [Horizontal rule](#Horizontal)
-* [Table](#Table)
-* [Code](#Code)
-* [Inline elements](#Inline)
+The primary purpose of [Be Not Deceived](https://benotdeceived.org) is to warn believers to fulfill Jesus' commands in Matthew 24:4-5, Luke 21:8, and Mark 13:5-6 ***"to see to it that no one deceives"*** them. #Believers/are/Commanded/to/Be-Not-Deceived #Believers/are/Commanded/to/See-to-It/No/One/Deceives/Them  
 
-***
+> [!NOTE] **Matthew 24:4-5** <br><br>
+>
+> [4](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-4.htm)Jesus answered, "**See to it that no one deceives you.** [5](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-5.htm)For many will come in My name, claiming, 'I am the Christ,' and will deceive many.
 
-## <a name="Headings"></a>Headings
+#NT/40-Matthew-24v4 #False/Christs #Believers/are/Commanded/to/See-to-It/No/One/Deceives/Them ****
 
-## Heading One
+> [!NOTE] **Luke 21:8** <br><br>
+>
+> [8](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fluke%2F21-8.htm)Jesus answered, "**See to it that you are not deceived**. For many will come in My name, claiming, 'I am He,' and, 'The time is near.' Do not follow them.
 
-Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat commodo id sunt. Nostrud enim ad commodo incididunt cupidatat in ullamco ullamco Lorem cupidatat velit enim et Lorem. Ut laborum cillum laboris fugiat culpa sint irure do reprehenderit culpa occaecat. Exercitation esse mollit tempor magna aliqua in occaecat aliquip veniam reprehenderit nisi dolor in laboris dolore velit.
+********
 
-### Heading Two
+#NT/42-Luke-21v8 #Believers/are/Commanded/to/Be-Not-Deceived #Believers/are/Commanded/to/See-to-It/No/One/Deceives/Them #False/Christs  
 
-Aute officia nulla deserunt do deserunt cillum velit magna. Officia veniam culpa anim minim dolore labore pariatur voluptate id ad est duis quis velit dolor pariatur enim. Incididunt enim excepteur do veniam consequat culpa do voluptate dolor fugiat ad adipisicing sit. Labore officia est adipisicing dolore proident eiusmod exercitation deserunt ullamco anim do occaecat velit. Elit dolor consectetur proident sunt aliquip est do tempor quis aliqua culpa aute. Duis in tempor exercitation pariatur et adipisicing mollit irure tempor ut enim esse commodo laboris proident. Do excepteur laborum anim esse aliquip eu sit id Lorem incididunt elit irure ea nulla dolor et. Nulla amet fugiat qui minim deserunt enim eu cupidatat aute officia do velit ea reprehenderit.
+> [!NOTE] **Mark 13:5-6** <br><br>
+>
+> [5](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmark%2F13-5.htm)Jesus began by telling them, "**See to it that no one deceives you**. [6](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmark%2F13-6.htm)Many will come in My name, claiming, 'I am He,' and will deceive many.
 
-#### Heading Three
+#NT/41-Mark-13v5-6 #Believers/are/Commanded/to/See-to-It/No/One/Deceives/Them #Believers/are/Commanded/to/Be-Not-Deceived #False/Christs
 
-Voluptate cupidatat cillum elit quis ipsum eu voluptate fugiat consectetur enim. Quis ut voluptate culpa ex anim aute consectetur dolore proident voluptate exercitation eiusmod. Esse in do anim magna minim culpa sint. Adipisicing ipsum consectetur proident ullamco magna sit amet aliqua aute fugiat laborum exercitation duis et.
+One of the main reasons this is so important is Jesus said the end time deception would be so great that, if possible, would even deceive the elect.
 
-##### Heading Four
+> [!NOTE] **Matthew 24:23-24** <br><br>  
+>
+> 23 At that time, if anyone says to you, 'Look, here is the Christ!' or 'There He is!' do not believe it. <br><br> 24 For false Christs and false prophets will appear and perform great signs and wonders **that would deceive even the elect, if that were possible**.
 
-Commodo fugiat aliqua minim quis pariatur mollit id tempor. Non occaecat minim esse enim aliqua adipisicing nostrud duis consequat eu adipisicing qui. Minim aliquip sit excepteur ipsum consequat laborum pariatur excepteur. Veniam fugiat et amet ad elit anim laborum duis mollit occaecat et et ipsum et reprehenderit. Occaecat aliquip dolore adipisicing sint labore occaecat officia fugiat. Quis adipisicing exercitation exercitation eu amet est laboris sunt nostrud ipsum reprehenderit ullamco. Enim sint ut consectetur id anim aute voluptate exercitation mollit dolore magna magna est Lorem. Ut adipisicing adipisicing aliqua ullamco voluptate labore nisi tempor esse magna incididunt.
+#NT/40-Matthew-24v23-24 #At-That-Time #False/Christs #False/Prophets #False/Signs-and-Wonders #Signs-and-Wonders #Believers/are/Commanded/to/Be-Not-Deceived #Elect  
 
-###### Heading Five
+### Secondary Purpose
 
-Veniam enim esse amet veniam deserunt laboris amet enim consequat. Minim nostrud deserunt cillum consectetur commodo eu enim nostrud ullamco occaecat excepteur. Aliquip et ut est commodo enim dolor amet sint excepteur. Amet ad laboris laborum deserunt sint sunt aliqua commodo ex duis deserunt enim est ex labore ut. Duis incididunt velit adipisicing non incididunt adipisicing adipisicing. Ad irure duis nisi tempor eu dolor fugiat magna et consequat tempor eu ex dolore. Mollit esse nisi qui culpa ut nisi ex proident culpa cupidatat cillum culpa occaecat anim. Ut officia sit ea nisi ea excepteur nostrud ipsum et nulla.
+The secondary purpose of [Be Not Deceived](https://benotdeceived.org) is to prepare, equip, and build up believers so that they are able tofulfill Jesus' Command to '[Be Not Deceived](https://benotdeceived.org)'.
 
-###### Heading Six
+Only when believers are grounded in the Word will they not be deceived by the false prophets, false teachers, and false christs, and false signs and wonders Jesus repeatedly warned of. They will know the truth, and, as Jesus said in John 8:31-32, ***"If you continue in My word, you are truly My disciples. Then you will know the truth, and the truth will set you free"***, including deception.***
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## How To Be Built Up So As To Not Deceived
 
+### The Holy Spirit Is Our Teacher
 
-[[Top\|Top]](#top)
+> [!NOTE] **John 14:26** <br><br>
+>
+>  [**26**](https://biblehub.com/john/14-26.htm) But the Advocate, the Holy Spirit, whom the Father will send in My name, **will teach you all things and will remind you of everything I have told you**.
 
-## <a name="Paragraphs"></a>Paragraphs
+#Holy-Spirit/Teaches/Us/All/Things #Holy-Spirit/Reminds/Us/of/Everything/Jesus/Said  
 
-Incididunt ex adipisicing ea ullamco consectetur in voluptate proident fugiat tempor deserunt reprehenderit ullamco id dolore laborum. Do laboris laboris minim incididunt qui consectetur exercitation adipisicing dolore et magna consequat magna anim sunt. Officia fugiat Lorem sunt pariatur incididunt Lorem reprehenderit proident irure. Dolore ipsum aliqua mollit ad officia fugiat sit eu aliquip cupidatat ipsum duis laborum laborum fugiat esse. Voluptate anim ex dolore deserunt ea ex eiusmod irure. Occaecat excepteur aliqua exercitation aliquip dolor esse eu eu.
+All we need to do before reading the Holy Scriptures is ask the Holy Spirit to grant us His revelation, illumination, inspiration, insight and understanding of what the Word really says and means.
 
-Officia dolore laborum aute incididunt commodo nisi velit est est elit et dolore elit exercitation. Enim aliquip magna id ipsum aliquip consectetur ad nulla quis. Incididunt pariatur dolor consectetur cillum enim velit cupidatat laborum quis ex.
+### The Word Is God-breathed
 
-Officia irure in non voluptate adipisicing sit amet tempor duis dolore deserunt enim ut. Reprehenderit incididunt in ad anim et deserunt deserunt Lorem laborum quis. Enim aute anim labore proident laboris voluptate elit excepteur in. Ex labore nulla velit officia ullamco Lorem Lorem id do. Dolore ullamco ipsum magna dolor pariatur voluptate ipsum id occaecat ipsum. Dolore tempor quis duis commodo quis quis enim.
+> [!NOTE] **2 Timothy 3:16-17** <br><br>
+>
+> [**16**](https://biblehub.com/2_timothy/3-16.htm) **All Scripture is God-breathed and is useful for instruction, for conviction, for correction, and for training in righteousness**, <br><br> [**17**](https://biblehub.com/2_timothy/3-17.htm) **so that the man of God may be complete, fully equipped for every good work.**
 
-[[Top\|Top]](#top)
+#NT/55-2-Timothy-3v16-17 #Word/God-Breathed #Word/Useful/for/Instruction #Word/Useful/for/Conviction #Word/Useful/for/Training/in/Righteousness #Word/Able/to/Make/Believer/Complete #Word/Able/to/Make/Believer/Fully/Equipped
 
-## <a name="Blockquotes"></a>Blockquotes
+The Holy Scriptures are able to keep us from being deceived if we diligently apply ourselves to learning what they say. We can only be obedient to what Jesus has commanded us if we know what He has commanded us.  
 
-Ad nisi laborum aute cupidatat magna deserunt eu id laboris id. Aliquip nulla cupidatat sint ex Lorem mollit laborum dolor amet est ut esse aute. Nostrud ex consequat id incididunt proident ipsum minim duis aliqua ut ex et ad quis. Laborum sint esse cillum anim nulla cillum consectetur aliqua sit. Nisi excepteur cillum labore amet excepteur commodo enim occaecat consequat ipsum proident exercitation duis id in.
+### God's Word Make Wise
 
-> Ipsum et cupidatat mollit exercitation enim duis sunt irure aliqua reprehenderit mollit. Pariatur Lorem pariatur laboris do culpa do elit irure. Eiusmod amet nulla voluptate velit culpa et aliqua ad reprehenderit sit ut.
+> [!NOTE] **2 Timothy 3:15** <br><br>
+>
+> [**15**](https://biblehub.com/2_timothy/3-15.htm) From infancy you have known **the Holy Scriptures, which are able to make you wise** for salvation through faith in Christ Jesus.
 
-Labore ea magna Lorem consequat aliquip consectetur cillum duis dolore. Et veniam dolor qui incididunt minim amet laboris sit. Dolore ad esse commodo et dolore amet est velit ut nisi ea. Excepteur ea nulla commodo dolore anim dolore adipisicing eiusmod labore id enim esse quis mollit deserunt est. Minim ea culpa voluptate nostrud commodo proident in duis aliquip minim.
+#NT/55-2-Timothy-3v15 #Word/Able/to/Make/Wise
 
-> Qui est sit et reprehenderit aute est esse enim aliqua id aliquip ea anim. Pariatur sint reprehenderit mollit velit voluptate enim consectetur sint enim. Quis exercitation proident elit non id qui culpa dolore esse aliquip consequat.
+If we are consistently, and prayerfully, reading and studying the Word of God, it will give us the wisdom to know when someone is preaching or teaching wrong teaching.  
 
-Ipsum excepteur cupidatat sunt minim ad eiusmod tempor sit.
+### God's Word Builds Up
 
-> Deserunt excepteur adipisicing culpa pariatur cillum laboris ullamco nisi fugiat cillum officia. In cupidatat nulla aliquip tempor ad Lorem Lorem quis voluptate officia consectetur pariatur ex in est duis. Mollit id esse est elit exercitation voluptate nostrud nisi laborum magna dolore dolore tempor in est consectetur.
+> [!NOTE] **Acts 20:32** <br><br>
+>
+> [**32**](https://biblehub.com/acts/20-32.htm) And now I commit you to God **and to the word of His grace, which can build you up** and give you an inheritance among all who are sanctified.
 
-Adipisicing voluptate ipsum culpa voluptate id aute laboris labore esse fugiat veniam ullamco occaecat do ut. Tempor et esse reprehenderit veniam proident ipsum irure sit ullamco et labore ea excepteur nulla labore ut. Ex aute minim quis tempor in eu id id irure ea nostrud dolor esse.
+#NT/44-Acts-20v32 #Believers/are/Committed/to/God #Believers/are/Committed/to/the/Word #Word/Can/Build/Up #Word/Can/Give/Inheritance #Believers/are/Sanctified  
 
-[[Top\|Top]](#top)
+Since, as we shall see, God commands us to grow and build ourselves up, I commit you, my precious reader, to God and to the Word of His Grace, that it would indeed build you up and give you an inheritance among all who are sanctified; and that it would also keep and protect you from all deception of every kind; that you will know the truth so as to be free from all deception. In Jesus' Name. Amen.
 
-## <a name="Lists"></a>Lists
+### We Are Commanded To Build Ourselves Up
 
-### Ordered List
+> [!NOTE] **Jude 1:20-21** <br></br>
+>
+> [**20**](https://biblehub.com/jude/1-20.htm) But you, beloved, **by building yourselves up** in your most holy faith and praying in the Holy Spirit, <br><br> [**21**](https://biblehub.com/jude/1-21.htm) keep yourselves in the love of God as you await the mercy of our Lord Jesus Christ to bring you eternal life.
 
-1. Longan
-2. Lychee
-3. Excepteur ad cupidatat do elit laborum amet cillum reprehenderit consequat quis.
-    Deserunt officia esse aliquip consectetur duis ut labore laborum commodo aliquip aliquip velit pariatur dolore.
-4. Marionberry
-5. Melon
-    * Cantaloupe
-    * Honeydew
-    * Watermelon
-6. Miracle fruit
-7. Mulberry
+#NT/65-Jude-1v20-21 #Believers/are/Commanded/to/Build/Themselves/Up #Faith #Holy-Spirit #Believers/are/Commanded/to/Keep/Themselves/in/Gods/Love #Believers/are/Commanded/to/Await/Jesus/Mercy #Eternal-Life  
 
-### Unordered List
+Also, take note of **Ephesians 4:16** below, that Believers are to '**grow and build themselves up in love**' as they do the work that God has assigned them to do.
 
-* Olive
-* Orange
-    * Blood orange
-    * Clementine
-* Papaya
-* Ut aute ipsum occaecat nisi culpa Lorem id occaecat cupidatat id id magna laboris ad duis. Fugiat cillum dolore veniam nostrud proident sint consectetur eiusmod irure adipisicing.
-* Passionfruit
+### Ministers Are Given To Grow And Build Up The Body
 
-[[Top\|Top]](#top)
+> [!NOTE] **Ephesians 4:11-16** <br></br>
+>
+> [**11**](https://biblehub.com/ephesians/4-11.htm) And it was He who gave some to be apostles, some to be prophets, some to be evangelists, and some to be pastors and teachers, <br><br> [**12**](https://biblehub.com/ephesians/4-12.htm) **to equip the saints for works of ministry and to build up the body of Christ**, <br><br> [**13**](https://biblehub.com/ephesians/4-13.htm) until we **all** reach unity in the faith and in the knowledge of the Son of God, as we mature to the full measure of the stature of Christ. <br><br> [**14**](https://biblehub.com/ephesians/4-14.htm) **Then we will no longer be infants, tossed about by the waves and carried around by every wind of teaching and by the clever cunning of men in their deceitful scheming.** <br><br> [**15**](https://biblehub.com/ephesians/4-15.htm) Instead, speaking the truth in love, we will in all things grow up into Christ Himself, who is the head. <br><br> [**16**](https://biblehub.com/ephesians/4-16.htm) From Him the whole body, fitted and held together by every supporting ligament, **grows and builds itself up** in love through the work of each individual part.
 
-## <a name="Horizontal"></a>Horizontal Rule
+#NT/49-Ephesians-4v11-16 #Apostles #Prophets #Evangelists #Pastors #Teachers #Believers/are/Commanded/to/be/Equipped/for/Works/of/Ministry #Ministers/are/Commanded/to/Build/Up/the/Body #Believers/are/Commanded/to/Reach/Unity/in/Faith #Believers/are/Commanded/to/Reach/Unity/in/the/Knowledge/of/the/Son #Believers/are/Commanded/to/Mature/to/Full/Measure/of/Stature/of/Christ #Believers/are/Commanded/Not/to/Remain/Infants #Believers/are/Commanded/Not/to/be/Tossed/About #Believers/are/Commanded/Not/to/be/Tossed/About/by/Unsound/Doctrine #Doctrines/of/Demons #Doctrines/of/Demons/Clever #Doctrines/of/Demons/Cunning #Doctrines/of/Demons/Deceitful/Scheming #Deceitful/Scheming #False/Teachers/Cunning #False/Teachers/Clever #False/Teachers/Deceitful #Believers/are/Commanded/to/Grow/Up/Into/Christ #Jesus/the/Head #Jesus/Fits/and/Holds/Together/Every/Supporting/Ligament #Believers/are/Commanded/to/Build/Themselves/Up #Believers/are/Commanded/to/Speak/Truth/in/Love
 
-In dolore velit aliquip labore mollit minim tempor veniam eu veniam ad in sint aliquip mollit mollit. Ex occaecat non deserunt elit laborum sunt tempor sint consequat culpa culpa qui sit. Irure ad commodo eu voluptate mollit cillum cupidatat veniam proident amet minim reprehenderit.
+Two of the main responsibilities of ministers of the Gospel is to grow and build the Body of Christ up, and to equip them for works of ministry. **ALL** Believers are called to ministry; each as the Holy Spirit has gifted, and leads, them.
 
-***
+## Conclusion
 
-In laboris eiusmod reprehenderit aliquip sit proident occaecat. Non sit labore anim elit veniam Lorem minim commodo eiusmod irure do minim nisi. Dolor amet cillum excepteur consequat sint non sint.
-
-[[Top\|Top]](#top)
-
-## <a name="Table"></a>Table
-
-Duis sunt ut pariatur reprehenderit mollit mollit magna dolore in pariatur nulla commodo sit dolor ad fugiat. Laboris amet ea occaecat duis eu enim exercitation deserunt ea laborum occaecat reprehenderit. Et incididunt dolor commodo consequat mollit nisi proident non pariatur in et incididunt id. Eu ut et Lorem ea ex magna minim ipsum ipsum do.
-
-| Table Heading 1 | Table Heading 2 | Center align    | Right align     | Table Heading 5 |
-| :-------------- | :-------------- | :-------------: | --------------: | :-------------- |
-| Item 1          | Item 2          | Item 3          | Item 4          | Item 5          |
-| Item 1          | Item 2          | Item 3          | Item 4          | Item 5          |
-| Item 1          | Item 2          | Item 3          | Item 4          | Item 5          |
-| Item 1          | Item 2          | Item 3          | Item 4          | Item 5          |
-| Item 1          | Item 2          | Item 3          | Item 4          | Item 5          |
-
-Minim id consequat adipisicing cupidatat laborum culpa veniam non consectetur et duis pariatur reprehenderit eu ex consectetur. Sunt nisi qui eiusmod ut cillum laborum Lorem officia aliquip laboris ullamco nostrud laboris non irure laboris. Cillum dolore labore Lorem deserunt mollit voluptate esse incididunt ex dolor.
-
-[[Top\|Top]](#top)
-
-## <a name="Code"></a>Code
-
-### Inline Code
-
-Ad amet irure est magna id mollit Lorem in do duis enim. Excepteur velit nisi magna ea pariatur pariatur ullamco fugiat deserunt sint non sint. Duis duis est `code in text` velit velit aute culpa ex quis pariatur pariatur laborum aute pariatur duis tempor sunt ad. Irure magna voluptate dolore consectetur consectetur irure esse. Anim magna `<strong>in culpa qui officia</strong>` dolor eiusmod esse amet aute cupidatat aliqua do id voluptate cupidatat reprehenderit amet labore deserunt.
-
-### Highlighted
-
-Et fugiat ad nisi amet magna labore do cillum fugiat occaecat cillum Lorem proident. In sint dolor ullamco ad do adipisicing amet id excepteur Lorem aliquip sit irure veniam laborum duis cillum. Aliqua occaecat minim cillum deserunt magna sunt laboris do do irure ea nostrud consequat ut voluptate ex.
-
-```go
-package main
-
-import (
-    "fmt"
-    "net/http"
-)
-
-func handler(w http.ResponseWriter, r *http.Request) {
-    fmt.Fprintf(w, "Hi there, I love %s!", r.URL.Path[1:])
-}
-
-func main() {
-    http.HandleFunc("/", handler)
-    http.ListenAndServe(":8080", nil)
-}
-```
-
-Ex amet id ex aliquip id do laborum excepteur exercitation elit sint commodo occaecat nostrud est. Nostrud pariatur esse veniam laborum non sint magna sit laboris minim in id. Aliqua pariatur pariatur excepteur adipisicing irure culpa consequat commodo et ex id ad.
-
-[[Top\|Top]](#top)
-
-## <a name="Inline"></a>Inline Elements
-
-Sint ea anim ipsum ad commodo cupidatat do **exercitation** incididunt et minim ad labore sunt. Minim deserunt labore laboris velit nulla incididunt ipsum nulla. Ullamco ad laborum ea qui et anim in laboris exercitation tempor sit officia laborum reprehenderit culpa velit quis. **Consequat commodo** reprehenderit duis [irure](#!) esse esse exercitation minim enim Lorem dolore duis irure. Nisi Lorem reprehenderit ea amet excepteur dolor excepteur magna labore proident voluptate ipsum. Reprehenderit ex esse deserunt aliqua ea officia mollit Lorem nulla magna enim. Et ad ipsum labore enim ipsum **cupidatat consequat**. Commodo non ea cupidatat magna deserunt dolore ipsum velit nulla elit veniam nulla eiusmod proident officia.
-
-![Super wide](http://placekitten.com/1280/800)
-
-*Proident sit veniam in est proident officia adipisicing* ea tempor cillum non cillum velit deserunt. Voluptate laborum incididunt sit consectetur Lorem irure incididunt voluptate nostrud. Commodo ut eiusmod tempor cupidatat esse enim minim ex anim consequat. Mollit sint culpa qui laboris quis consectetur ad sint esse. Amet anim anim minim ullamco et duis non irure. Sit tempor adipisicing ea laboris `culpa ex duis sint` anim aute reprehenderit id eu ea. Aute [excepteur proident](#!) Lorem minim adipisicing nostrud mollit ad ut voluptate do nulla esse occaecat aliqua sint anim.
-
-![Not so big](http://placekitten.com/480/400)
-
-Incididunt in culpa cupidatat mollit cillum qui proident sit. In cillum aliquip incididunt voluptate magna amet cupidatat cillum pariatur sint aliqua est *enim **anim** voluptate*. Magna aliquip proident incididunt id duis pariatur eiusmod incididunt commodo culpa dolore sit. Culpa do nostrud elit ad exercitation anim pariatur non minim nisi **adipisicing sunt *officia***. Do deserunt magna mollit Lorem commodo ipsum do cupidatat mollit enim ut elit veniam ea voluptate.
-
-[![Manny Pacquiao](https://img.youtube.com/vi/s6bCmZmy9aQ/0.jpg)](https://youtu.be/s6bCmZmy9aQ)
-
-Reprehenderit non eu quis in ad elit esse qui aute id [incididunt](#!) dolore cillum. Esse laboris consequat dolor anim exercitation tempor aliqua deserunt velit magna laboris. Culpa culpa minim duis amet mollit do quis amet commodo nulla irure.
+Believers will have no excuse about their ignorance or immaturity when they stand before Him on Judgment day. He has provided us the necessary tools to ensure that we are able to fulfill His command to [Be Not Deceived](https://benotdeceived.org).
 
 ---
 
-### Testing Callouts / Admonitions
+***NOTE***
 
-> [!NOTE] **Note**
->
-> Contents here.
+Unless otherwise stated, all Scripture references quoted on this website are taken from the ***Berean Standard Bible*** which is now in the public domain.
 
-> [!example] Example
+> [!NOTE] **BSB Copyright Information** <br><br>
 >
-> Contents here.
+> [Berean Standard Bible (BSB)](http://bereanbible.com/) printed 2016, 2020, 2022, 2025 by [Bible Hub](http://biblehub.com/) and [Berean.Bible](http://berean.bible/). Produced in cooperation with Bible Hub, Discovery Bible, unfoldingWord, Bible Aquifer, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain. Free [downloads](http://berean.bible/downloads.htm) and [unlimited usage](http://berean.bible/licensing.htm) available. See also the [Berean Literal Bible](http://literalbible.com/) and [Berean Interlinear Bible](http://interlinearbible.com/). <br><br>
+>
+> [Bible Hub](https://biblehub.com/)
