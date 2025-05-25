@@ -30,9 +30,9 @@ One of the main reasons this is so important is Jesus said the end time deceptio
 
 The secondary purpose of [Be Not Deceived](https://benotdeceived.org) is to prepare, equip, and build up believers so that they are able tofulfill Jesus' Command to '[Be Not Deceived](https://benotdeceived.org)'.
 
-Only when believers are grounded in the Word will they not be deceived by the false prophets, false teachers, and false christs, and false signs and wonders Jesus repeatedly warned of. They will know the truth, and, as Jesus said in John 8:31-32, ***"If you continue in My word, you are truly My disciples. Then you will know the truth, and the truth will set you free"***, including deception.***
+Only when believers are grounded in the Word will they not be deceived by the false prophets, false teachers, false christs, and false signs and wonders Jesus repeatedly warned of. They will know the truth, and, as Jesus said in John 8:31-32, ***"If you continue in My word, you are truly My disciples. Then you will know the truth, and the truth will set you free"***, including from deception.
 
-## How To Be Built Up So As To Not Be Deceived
+## How To Be Built Up So You Are Not Deceived
 
 ### The Holy Spirit Is Our Teacher
 
@@ -48,7 +48,7 @@ All we need to do before reading the Holy Scriptures is ask the Holy Spirit to g
 >
 > [**16**](https://biblehub.com/2_timothy/3-16.htm) **All Scripture is God-breathed and is useful for instruction, for conviction, for correction, and for training in righteousness**, <br><br> [**17**](https://biblehub.com/2_timothy/3-17.htm) **so that the man of God may be complete, fully equipped for every good work.**
 
-The Holy Scriptures are able to keep us from being deceived if we diligently apply ourselves to learning what they say. We can only be obedient to what Jesus has commanded us if we know what He has commanded us.  
+The Holy Scriptures are able to keep us from being deceived if we diligently apply ourselves to learning what they say. We can be obedient to what Jesus has commanded us only if we **know** what He has commanded us.  
 
 ### God's Word Makes Wise
 
@@ -56,7 +56,7 @@ The Holy Scriptures are able to keep us from being deceived if we diligently app
 >
 > [**15**](https://biblehub.com/2_timothy/3-15.htm) From infancy you have known **the Holy Scriptures, which are able to make you wise** for salvation through faith in Christ Jesus.
 
-If we are consistently, and prayerfully, reading and studying the Word of God, it will give us the wisdom to know when someone is preaching or teaching wrong teaching.  
+If we are consistently, and prayerfully, reading and studying the Word of God, it will give us the wisdom to know when someone is preaching or teaching wrong doctrine.  One who is trained i the real thing, will not be deceived by a counterfeit.
 
 ### God's Word Builds Up
 
@@ -74,7 +74,7 @@ Since, as we shall see, God commands us to grow and build ourselves up, I commit
 
 Also, take note of **Ephesians 4:16** below, that Believers are to '**grow and build themselves up in love**' as they do the work that God has assigned them to do.
 
-### Ministers Are Given To Grow And Build Up The Body
+### Ministers Are Given To Equip, Grow, And Build Up The Body
 
 > [!NOTE] **Ephesians 4:11-16** <br></br>
 >
