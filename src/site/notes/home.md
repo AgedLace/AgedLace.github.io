@@ -64,10 +64,9 @@ If we are consistently, and prayerfully, reading and studying the Word of God, i
 >
 > [**32**](https://biblehub.com/acts/20-32.htm) And now I commit you to God **and to the word of His grace, which can build you up** and give you an inheritance among all who are sanctified.
 
-> [!example]  **Prayer**
-> 
+> [!example] **Prayer**
+>
 > I commit you, my precious reader, to God and to the Word of His Grace, that it would indeed build you up and give you an inheritance among all who are sanctified; and that it would also keep and protect you from all deception of every kind; that you will know the truth so as to be free from all deception. In Jesus' Name. Amen.
-> 
 
 ### We Are Commanded To Build Ourselves Up
 
@@ -101,4 +100,4 @@ Unless otherwise stated, all Scripture references quoted on this website are tak
 >
 > [Bible Hub](https://biblehub.com/)
 
-#Copyrights/BSB 
+#Copyrights/BSB
