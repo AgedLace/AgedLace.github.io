@@ -41,16 +41,16 @@
 	- What will be the sign of Your coming
 	- What will be the sign of the end of the age
 - **Beginning Signs of Birth Pains - Matthew 24:4-8** #Birth-Pains/Beginning/Signs
-	- **Jesus' Warning - Matthew 24:4** #Believers/are/Commanded/to/See-to-It/No/One/Deceives/Them #Believers/are/Commanded/to/Be-Not-Deceived
+	- **Jesus' Warning - Matthew 24:4** #Believers/Commanded/to/See-to-It/No-One/Deceives-Them #Believers/Commanded/to/Be-Not-Deceived
 		- Jesus answers the questions in reverse order.
 		- "**See to it that no one deceives you …"**
 		- Why?
-			- **Many will come in My name, claiming, 'I am the Christ, and will deceive many.' - Matthew 24:5** #False/Christs
+			- **Many will come in My name, claiming, 'I am the Christ, and will deceive many.' - Matthew 24:5** #False-Christs
 			- And another **'see to it that …'** warning - Matthew 24:6
-				- **You will hear of wars and rumors of wars, *but see to it that you are not alarmed*** #Signs/Wars/and/Rumors/of/Wars #Believers/are/Commanded/Not/to/be/Alarmed  
-	- **Birth pains are not *'the end' - Matthew 24:6** #Birth-Pain/are/Not/the-End  
+				- **You will hear of wars and rumors of wars, *but see to it that you are not alarmed*** #Signs/Wars-and-Rumors-of-Wars #Believers/Commanded/Not-to-be/Alarmed  
+	- **Birth pains are not *'the end' - Matthew 24:6** #Birth-Pain/Are-Not/The-End  
 		- Jesus says, **These things *must* happen, *but the end is still to come.***
-	- **World-wide military conflicts and natural disasters - Matthew 24:7** #Birth-Pains/Beginning/Signs/Wars/and/Rumors/of/Wars
+	- **World-wide military conflicts and natural disasters - Matthew 24:7** #Birth-Pains/Beginning/Signs/Wars-and-Rumors-of-Wars
 		- **Nation will rise against nation, and kingdom and against kingdom.**
-		- **There will be famines and earthquakes in various places.** #Birth-Pains/Beginning/Signs/Natural-Disasters
+		- **There will be famines and earthquakes in various places.** #Birth-Pains/Beginning/Signs/Natural-Disasters #Signs/Natural-Disasters
 	- **ALL** these are the beginning of birth pains.

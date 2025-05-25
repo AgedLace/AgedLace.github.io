@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["BND/purpose","Welcome","gardenEntry"]}
+{"dg-publish":true,"permalink":"/home/","tags":["BND/Purpose","BND/Welcome","gardenEntry"]}
 ---
 
 ## Welcome To Be Not Deceived
@@ -97,3 +97,5 @@ Unless otherwise stated, all Scripture references quoted on this website are tak
 > [Berean Standard Bible (BSB)](http://bereanbible.com/) printed 2016, 2020, 2022, 2025 by [Bible Hub](http://biblehub.com/) and [Berean.Bible](http://berean.bible/). Produced in cooperation with Bible Hub, Discovery Bible, unfoldingWord, Bible Aquifer, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain. Free [downloads](http://berean.bible/downloads.htm) and [unlimited usage](http://berean.bible/licensing.htm) available. See also the [Berean Literal Bible](http://literalbible.com/) and [Berean Interlinear Bible](http://interlinearbible.com/). <br><br>
 >
 > [Bible Hub](https://biblehub.com/)
+
+#Copyrights/BSB 
