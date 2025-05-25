@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g4991-soteria/","tags":["Greek/G4991-sótéria"]}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g4991-soteria/","tags":["Greek/G4991-sótéria"],"created":"2025-05-16 15:05:00","updated":"2025-05-16 15:05:55"}
 ---
 
 ## Strong's Concordance

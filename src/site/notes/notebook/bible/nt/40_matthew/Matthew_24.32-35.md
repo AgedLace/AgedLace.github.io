@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/bible/nt/40-matthew/matthew-24-32-35/","tags":["NT/40-Matthew-24v32-35"]}
+{"dg-publish":true,"permalink":"/notebook/bible/nt/40-matthew/matthew-24-32-35/","tags":["NT/40-Matthew-24v32-35"],"created":"2025-05-17 05:05:00","updated":"2025-05-25 06:05:30"}
 ---
 
 **The Lesson of the Fig Tree** 

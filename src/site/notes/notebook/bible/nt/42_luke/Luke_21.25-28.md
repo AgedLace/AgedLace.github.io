@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/bible/nt/42-luke/luke-21-25-28/","tags":["NT/42-Luke-21v25-28"]}
+{"dg-publish":true,"permalink":"/notebook/bible/nt/42-luke/luke-21-25-28/","tags":["NT/42-Luke-21v25-28"],"created":"2025-05-17 05:05:00","updated":"2025-05-25 06:05:37"}
 ---
 
 **The Return of the Son of Man** 

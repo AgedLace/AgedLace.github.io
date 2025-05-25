@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g4052-perisseuo/","tags":["Greek/G4052-perisseuó"]}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g4052-perisseuo/","tags":["Greek/G4052-perisseuó"],"created":"2025-05-16 15:05:00","updated":"2025-05-16 15:05:01"}
 ---
 
 ## Strong's Concordance

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g4102-pistis/","tags":["Greek/G4102-pistis"]}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g4102-pistis/","tags":["Greek/G4102-pistis"],"created":"2025-05-16 15:05:00","updated":"2025-05-16 15:05:57"}
 ---
 
 ## Strong's Concordance

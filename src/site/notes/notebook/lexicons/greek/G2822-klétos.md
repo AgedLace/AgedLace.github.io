@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g2822-kletos/","tags":["Greek/G2822-klétos"]}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g2822-kletos/","tags":["Greek/G2822-klétos"],"created":"2025-05-16 15:05:00","updated":"2025-05-21 05:05:67"}
 ---
 
 ## Strong's Concordance

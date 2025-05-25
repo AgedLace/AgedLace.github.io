@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g1656-eleos/","tags":["Greek/G1656-eleos"]}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g1656-eleos/","tags":["Greek/G1656-eleos"],"created":"2025-05-16 15:05:00","updated":"2025-05-16 15:05:73"}
 ---
 
 ## Strong's Concordance

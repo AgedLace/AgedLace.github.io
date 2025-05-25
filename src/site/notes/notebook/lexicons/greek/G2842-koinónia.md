@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g2842-koinonia/","tags":["Greek/G2842-koinónia"]}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g2842-koinonia/","tags":["Greek/G2842-koinónia"],"created":"2025-05-16 15:05:00","updated":"2025-05-16 15:05:07"}
 ---
 
 ## Strong's Concordance

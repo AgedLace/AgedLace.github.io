@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g1864-epagonizomai/","tags":["Greek/G1864-epagónizomai"]}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g1864-epagonizomai/","tags":["Greek/G1864-epagónizomai"],"created":"2025-05-16 15:05:00","updated":"2025-05-16 15:05:89"}
 ---
 
 ## Strong's Concordance

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/bible/nt/41-mark/mark-13-1-8/","tags":["NT/41-Mark-13v1-8"]}
+{"dg-publish":true,"permalink":"/notebook/bible/nt/41-mark/mark-13-1-8/","tags":["NT/41-Mark-13v1-8"],"created":"2025-05-17 05:05:00","updated":"2025-05-25 06:05:54"}
 ---
 
 **Temple Destruction and Other Signs** 

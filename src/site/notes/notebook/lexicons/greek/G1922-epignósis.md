@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g1922-epignosis/","tags":["Greek/G1922-epignósis"]}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g1922-epignosis/","tags":["Greek/G1922-epignósis"],"created":"2025-05-16 15:05:00","updated":"2025-05-16 15:05:54"}
 ---
 
 ## Strong's Concordance

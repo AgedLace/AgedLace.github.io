@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/bible/nt/40-matthew/matthew-24-1-8/","tags":["NT/40-Matthew-24v1-8"]}
+{"dg-publish":true,"permalink":"/notebook/bible/nt/40-matthew/matthew-24-1-8/","tags":["NT/40-Matthew-24v1-8"],"created":"2025-05-17 05:05:00","updated":"2025-05-25 06:05:24"}
 ---
 
 **Temple Destruction and Other Signs** 

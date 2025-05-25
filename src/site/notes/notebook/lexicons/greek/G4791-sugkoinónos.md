@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g4791-sugkoinonos/","tags":["Greek/G4791-sugkoinónos"]}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g4791-sugkoinonos/","tags":["Greek/G4791-sugkoinónos"],"created":"2025-05-16 15:05:00","updated":"2025-05-16 15:05:52"}
 ---
 
 ## Strong's Concordance

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/bible/nt/42-luke/luke-21-10-19/","tags":["NT/42-Luke-21v10-19"]}
+{"dg-publish":true,"permalink":"/notebook/bible/nt/42-luke/luke-21-10-19/","tags":["NT/42-Luke-21v10-19"],"created":"2025-05-17 05:05:00","updated":"2025-05-25 06:05:06"}
 ---
 
 **Witnessing to All Nations** 

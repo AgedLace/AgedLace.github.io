@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g4129-plethuno/","tags":["Greek/G4129-pléthunó"]}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g4129-plethuno/","tags":["Greek/G4129-pléthunó"],"created":"2025-05-16 15:05:00","updated":"2025-05-16 15:05:47"}
 ---
 
 ## Strong's Concordance

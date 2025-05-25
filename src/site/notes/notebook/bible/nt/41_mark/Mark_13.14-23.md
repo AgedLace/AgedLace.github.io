@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/bible/nt/41-mark/mark-13-14-23/","tags":["NT/41-Mark-13v14-23"]}
+{"dg-publish":true,"permalink":"/notebook/bible/nt/41-mark/mark-13-14-23/","tags":["NT/41-Mark-13v14-23"],"created":"2025-05-17 05:05:00","updated":"2025-05-25 06:05:67"}
 ---
 
 **The Abomination of Desolation** 

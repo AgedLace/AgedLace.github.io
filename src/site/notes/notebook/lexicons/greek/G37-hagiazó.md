@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g37-hagiazo/","tags":["Greek/G37-hagiazó"]}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g37-hagiazo/","tags":["Greek/G37-hagiazó"],"created":"2025-05-16 15:05:00","updated":"2025-05-16 15:05:14"}
 ---
 
 ## Strong's Concordance

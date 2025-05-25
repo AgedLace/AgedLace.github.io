@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/bible/nt/40-matthew/matthew-24-36-51/","tags":["NT/40-Matthew-24v36-51"]}
+{"dg-publish":true,"permalink":"/notebook/bible/nt/40-matthew/matthew-24-36-51/","tags":["NT/40-Matthew-24v36-51"],"created":"2025-05-17 05:05:00","updated":"2025-05-25 06:05:90"}
 ---
 
 **Readiness at Any Hour** 
