@@ -6,13 +6,11 @@
 
 ### Primary Purpose
 
-The primary purpose of [Be Not Deceived](https://benotdeceived.org) is to warn believers to fulfill Jesus' commands in Matthew 24:4-5, Luke 21:8, and Mark 13:5-6 ***"to see to it that no one deceives"*** them. #Believers/are/Commanded/to/Be-Not-Deceived #Believers/are/Commanded/to/See-to-It/No/One/Deceives/Them  
+The primary purpose of [Be Not Deceived](https://benotdeceived.org) is to warn believers to fulfill Jesus' commands in Matthew 24:4-5, Luke 21:8, and Mark 13:5-6 ***"to see to it that no one deceives"*** them.
 
 > [!NOTE] **Matthew 24:4-5** <br><br>
 >
 > [4](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-4.htm)Jesus answered, "**See to it that no one deceives you.** [5](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-5.htm)For many will come in My name, claiming, 'I am the Christ,' and will deceive many.
-
-#NT/40-Matthew-24v4 #False/Christs #Believers/are/Commanded/to/See-to-It/No/One/Deceives/Them ****
 
 > [!NOTE] **Luke 21:8** <br><br>
 >
@@ -20,21 +18,15 @@ The primary purpose of [Be Not Deceived](https://benotdeceived.org) is to warn b
 
 ********
 
-#NT/42-Luke-21v8 #Believers/are/Commanded/to/Be-Not-Deceived #Believers/are/Commanded/to/See-to-It/No/One/Deceives/Them #False/Christs  
-
 > [!NOTE] **Mark 13:5-6** <br><br>
 >
 > [5](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmark%2F13-5.htm)Jesus began by telling them, "**See to it that no one deceives you**. [6](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmark%2F13-6.htm)Many will come in My name, claiming, 'I am He,' and will deceive many.
-
-#NT/41-Mark-13v5-6 #Believers/are/Commanded/to/See-to-It/No/One/Deceives/Them #Believers/are/Commanded/to/Be-Not-Deceived #False/Christs
 
 One of the main reasons this is so important is Jesus said the end time deception would be so great that, if possible, would even deceive the elect.
 
 > [!NOTE] **Matthew 24:23-24** <br><br>  
 >
 > 23 At that time, if anyone says to you, 'Look, here is the Christ!' or 'There He is!' do not believe it. <br><br> 24 For false Christs and false prophets will appear and perform great signs and wonders **that would deceive even the elect, if that were possible**.
-
-#NT/40-Matthew-24v23-24 #At-That-Time #False/Christs #False/Prophets #False/Signs-and-Wonders #Signs-and-Wonders #Believers/are/Commanded/to/Be-Not-Deceived #Elect  
 
 ### Secondary Purpose
 
@@ -50,8 +42,6 @@ Only when believers are grounded in the Word will they not be deceived by the fa
 >
 >  [**26**](https://biblehub.com/john/14-26.htm) But the Advocate, the Holy Spirit, whom the Father will send in My name, **will teach you all things and will remind you of everything I have told you**.
 
-#Holy-Spirit/Teaches/Us/All/Things #Holy-Spirit/Reminds/Us/of/Everything/Jesus/Said  
-
 All we need to do before reading the Holy Scriptures is ask the Holy Spirit to grant us His revelation, illumination, inspiration, insight and understanding of what the Word really says and means.
 
 ### The Word Is God-breathed
@@ -59,8 +49,6 @@ All we need to do before reading the Holy Scriptures is ask the Holy Spirit to g
 > [!NOTE] **2 Timothy 3:16-17** <br><br>
 >
 > [**16**](https://biblehub.com/2_timothy/3-16.htm) **All Scripture is God-breathed and is useful for instruction, for conviction, for correction, and for training in righteousness**, <br><br> [**17**](https://biblehub.com/2_timothy/3-17.htm) **so that the man of God may be complete, fully equipped for every good work.**
-
-#NT/55-2-Timothy-3v16-17 #Word/God-Breathed #Word/Useful/for/Instruction #Word/Useful/for/Conviction #Word/Useful/for/Training/in/Righteousness #Word/Able/to/Make/Believer/Complete #Word/Able/to/Make/Believer/Fully/Equipped
 
 The Holy Scriptures are able to keep us from being deceived if we diligently apply ourselves to learning what they say. We can only be obedient to what Jesus has commanded us if we know what He has commanded us.  
 
@@ -70,8 +58,6 @@ The Holy Scriptures are able to keep us from being deceived if we diligently app
 >
 > [**15**](https://biblehub.com/2_timothy/3-15.htm) From infancy you have known **the Holy Scriptures, which are able to make you wise** for salvation through faith in Christ Jesus.
 
-#NT/55-2-Timothy-3v15 #Word/Able/to/Make/Wise
-
 If we are consistently, and prayerfully, reading and studying the Word of God, it will give us the wisdom to know when someone is preaching or teaching wrong teaching.  
 
 ### God's Word Builds Up
@@ -79,8 +65,6 @@ If we are consistently, and prayerfully, reading and studying the Word of God, i
 > [!NOTE] **Acts 20:32** <br><br>
 >
 > [**32**](https://biblehub.com/acts/20-32.htm) And now I commit you to God **and to the word of His grace, which can build you up** and give you an inheritance among all who are sanctified.
-
-#NT/44-Acts-20v32 #Believers/are/Committed/to/God #Believers/are/Committed/to/the/Word #Word/Can/Build/Up #Word/Can/Give/Inheritance #Believers/are/Sanctified  
 
 Since, as we shall see, God commands us to grow and build ourselves up, I commit you, my precious reader, to God and to the Word of His Grace, that it would indeed build you up and give you an inheritance among all who are sanctified; and that it would also keep and protect you from all deception of every kind; that you will know the truth so as to be free from all deception. In Jesus' Name. Amen.
 
@@ -90,8 +74,6 @@ Since, as we shall see, God commands us to grow and build ourselves up, I commit
 >
 > [**20**](https://biblehub.com/jude/1-20.htm) But you, beloved, **by building yourselves up** in your most holy faith and praying in the Holy Spirit, <br><br> [**21**](https://biblehub.com/jude/1-21.htm) keep yourselves in the love of God as you await the mercy of our Lord Jesus Christ to bring you eternal life.
 
-#NT/65-Jude-1v20-21 #Believers/are/Commanded/to/Build/Themselves/Up #Faith #Holy-Spirit #Believers/are/Commanded/to/Keep/Themselves/in/Gods/Love #Believers/are/Commanded/to/Await/Jesus/Mercy #Eternal-Life  
-
 Also, take note of **Ephesians 4:16** below, that Believers are to '**grow and build themselves up in love**' as they do the work that God has assigned them to do.
 
 ### Ministers Are Given To Grow And Build Up The Body
@@ -99,8 +81,6 @@ Also, take note of **Ephesians 4:16** below, that Believers are to '**grow and b
 > [!NOTE] **Ephesians 4:11-16** <br></br>
 >
 > [**11**](https://biblehub.com/ephesians/4-11.htm) And it was He who gave some to be apostles, some to be prophets, some to be evangelists, and some to be pastors and teachers, <br><br> [**12**](https://biblehub.com/ephesians/4-12.htm) **to equip the saints for works of ministry and to build up the body of Christ**, <br><br> [**13**](https://biblehub.com/ephesians/4-13.htm) until we **all** reach unity in the faith and in the knowledge of the Son of God, as we mature to the full measure of the stature of Christ. <br><br> [**14**](https://biblehub.com/ephesians/4-14.htm) **Then we will no longer be infants, tossed about by the waves and carried around by every wind of teaching and by the clever cunning of men in their deceitful scheming.** <br><br> [**15**](https://biblehub.com/ephesians/4-15.htm) Instead, speaking the truth in love, we will in all things grow up into Christ Himself, who is the head. <br><br> [**16**](https://biblehub.com/ephesians/4-16.htm) From Him the whole body, fitted and held together by every supporting ligament, **grows and builds itself up** in love through the work of each individual part.
-
-#NT/49-Ephesians-4v11-16 #Apostles #Prophets #Evangelists #Pastors #Teachers #Believers/are/Commanded/to/be/Equipped/for/Works/of/Ministry #Ministers/are/Commanded/to/Build/Up/the/Body #Believers/are/Commanded/to/Reach/Unity/in/Faith #Believers/are/Commanded/to/Reach/Unity/in/the/Knowledge/of/the/Son #Believers/are/Commanded/to/Mature/to/Full/Measure/of/Stature/of/Christ #Believers/are/Commanded/Not/to/Remain/Infants #Believers/are/Commanded/Not/to/be/Tossed/About #Believers/are/Commanded/Not/to/be/Tossed/About/by/Unsound/Doctrine #Doctrines/of/Demons #Doctrines/of/Demons/Clever #Doctrines/of/Demons/Cunning #Doctrines/of/Demons/Deceitful/Scheming #Deceitful/Scheming #False/Teachers/Cunning #False/Teachers/Clever #False/Teachers/Deceitful #Believers/are/Commanded/to/Grow/Up/Into/Christ #Jesus/the/Head #Jesus/Fits/and/Holds/Together/Every/Supporting/Ligament #Believers/are/Commanded/to/Build/Themselves/Up #Believers/are/Commanded/to/Speak/Truth/in/Love
 
 Two of the main responsibilities of ministers of the Gospel is to grow and build the Body of Christ up, and to equip them for works of ministry. **ALL** Believers are called to ministry; each as the Holy Spirit has gifted, and leads, them.
 
