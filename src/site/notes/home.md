@@ -28,9 +28,9 @@ One of the main reasons this is so important is Jesus said the end time deceptio
 
 ### Secondary Purpose
 
-The secondary purpose of [Be Not Deceived](https://benotdeceived.org) is to prepare, equip, and build up believers so that they are able tofulfill Jesus' Command to '[Be Not Deceived](https://benotdeceived.org)'.
+The secondary purpose of [Be Not Deceived](https://benotdeceived.org) is to prepare, equip, and build up believers so that they are able to fulfill Jesus' Command to '[Be Not Deceived](https://benotdeceived.org)'.
 
-Only when believers are grounded in the Word will they not be deceived by the false prophets, false teachers, false christs, and false signs and wonders Jesus repeatedly warned of. They will know the truth, and, as Jesus said in John 8:31-32, ***"If you continue in My word, you are truly My disciples. Then you will know the truth, and the truth will set you free"***, including from deception.
+Only when believers are grounded in the Word will they not be deceived by the false prophets, false teachers, false christs, and great signs and wonders Jesus repeatedly warned of. They will know the truth, and, as Jesus said in John 8:31-32, ***"If you continue in My word, you are truly My disciples. Then you will know the truth, and the truth will set you free"***, including from deception.
 
 ## How To Be Built Up So You Are Not Deceived
 
@@ -56,7 +56,7 @@ The Holy Scriptures are able to keep us from being deceived if we diligently app
 >
 > [**15**](https://biblehub.com/2_timothy/3-15.htm) From infancy you have known **the Holy Scriptures, which are able to make you wise** for salvation through faith in Christ Jesus.
 
-If we are consistently, and prayerfully, reading and studying the Word of God, it will give us the wisdom to know when someone is preaching or teaching wrong doctrine. One who is trained i the real thing, will not be deceived by a counterfeit.
+If we are consistently, and prayerfully, reading and studying the Word of God, it will give us the wisdom to know when someone is preaching or teaching wrong doctrine. One who is trained in the real thing, will not be deceived by a counterfeit.
 
 ### God's Word Builds Up
 
@@ -64,7 +64,10 @@ If we are consistently, and prayerfully, reading and studying the Word of God, i
 >
 > [**32**](https://biblehub.com/acts/20-32.htm) And now I commit you to God **and to the word of His grace, which can build you up** and give you an inheritance among all who are sanctified.
 
-Since, as we shall see, God commands us to grow and build ourselves up, I commit you, my precious reader, to God and to the Word of His Grace, that it would indeed build you up and give you an inheritance among all who are sanctified; and that it would also keep and protect you from all deception of every kind; that you will know the truth so as to be free from all deception. In Jesus' Name. Amen.
+> [!example]  **Prayer**
+> 
+> I commit you, my precious reader, to God and to the Word of His Grace, that it would indeed build you up and give you an inheritance among all who are sanctified; and that it would also keep and protect you from all deception of every kind; that you will know the truth so as to be free from all deception. In Jesus' Name. Amen.
+> 
 
 ### We Are Commanded To Build Ourselves Up
 
@@ -84,7 +87,7 @@ Two of the main responsibilities of ministers of the Gospel is to grow and build
 
 ## Conclusion
 
-Believers will have no excuse about their ignorance or immaturity when they stand before Him on Judgment day. He has provided us the necessary tools to ensure that we are able to fulfill His command to [Be Not Deceived](https://benotdeceived.org).
+Believers will have no excuse about their ignorance or immaturity when they stand before Him on Judgment day. He has provided us the necessary tools to ensure that we are able to fulfill His command to **"see to it that no one deceives you."**
 
 ---
 
