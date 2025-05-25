@@ -16,8 +16,6 @@ The primary purpose of [Be Not Deceived](https://benotdeceived.org) is to warn b
 >
 > [8](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fluke%2F21-8.htm)Jesus answered, "**See to it that you are not deceived**. For many will come in My name, claiming, 'I am He,' and, 'The time is near.' Do not follow them.
 
-********
-
 > [!NOTE] **Mark 13:5-6** <br><br>
 >
 > [5](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmark%2F13-5.htm)Jesus began by telling them, "**See to it that no one deceives you**. [6](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmark%2F13-6.htm)Many will come in My name, claiming, 'I am He,' and will deceive many.
@@ -34,7 +32,7 @@ The secondary purpose of [Be Not Deceived](https://benotdeceived.org) is to prep
 
 Only when believers are grounded in the Word will they not be deceived by the false prophets, false teachers, and false christs, and false signs and wonders Jesus repeatedly warned of. They will know the truth, and, as Jesus said in John 8:31-32, ***"If you continue in My word, you are truly My disciples. Then you will know the truth, and the truth will set you free"***, including deception.***
 
-## How To Be Built Up So As To Not Deceived
+## How To Be Built Up So As To Not Be Deceived
 
 ### The Holy Spirit Is Our Teacher
 
@@ -52,7 +50,7 @@ All we need to do before reading the Holy Scriptures is ask the Holy Spirit to g
 
 The Holy Scriptures are able to keep us from being deceived if we diligently apply ourselves to learning what they say. We can only be obedient to what Jesus has commanded us if we know what He has commanded us.  
 
-### God's Word Make Wise
+### God's Word Makes Wise
 
 > [!NOTE] **2 Timothy 3:15** <br><br>
 >
