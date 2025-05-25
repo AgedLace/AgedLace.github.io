@@ -56,7 +56,7 @@ The Holy Scriptures are able to keep us from being deceived if we diligently app
 >
 > [**15**](https://biblehub.com/2_timothy/3-15.htm) From infancy you have known **the Holy Scriptures, which are able to make you wise** for salvation through faith in Christ Jesus.
 
-If we are consistently, and prayerfully, reading and studying the Word of God, it will give us the wisdom to know when someone is preaching or teaching wrong doctrine.  One who is trained i the real thing, will not be deceived by a counterfeit.
+If we are consistently, and prayerfully, reading and studying the Word of God, it will give us the wisdom to know when someone is preaching or teaching wrong doctrine. One who is trained i the real thing, will not be deceived by a counterfeit.
 
 ### God's Word Builds Up
 
