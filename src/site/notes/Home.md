@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["BND/Purpose","BND/Welcome","gardenEntry"],"created":"May 25, 2025 05:10 am","updated":"May 26, 2025 17:25 pm"}
+{"dg-publish":true,"permalink":"/home/","tags":["BND/Purpose","BND/Welcome","gardenEntry"],"created":"May 25, 2025 05:10 am","updated":"May 26, 2025 17:32 pm"}
 ---
 
 ## Welcome To Be Not Deceived
@@ -87,7 +87,6 @@ Two of the main responsibilities of ministers of the Gospel is to grow and build
 ## Conclusion
 
 Believers will have no excuse about their ignorance or immaturity when they stand before Him on Judgment day. He has provided us the necessary tools to ensure that we are able to fulfill His command to **"see to it that no one deceives you."**
-
 
 ---
 
