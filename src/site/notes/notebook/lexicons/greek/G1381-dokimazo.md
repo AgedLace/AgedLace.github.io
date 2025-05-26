@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g1381-dokimazo/","tags":["Greek/G1381-dokimazo"]}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g1381-dokimazo/","tags":["Greek/G1381-dokimazo"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 19:55 pm"}
 ---
 
 ## Strong's Concordance

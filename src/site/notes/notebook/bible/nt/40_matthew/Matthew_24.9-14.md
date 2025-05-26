@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/bible/nt/40-matthew/matthew-24-9-14/","tags":["NT/40-Matthew-24v9-14"]}
+{"dg-publish":true,"permalink":"/notebook/bible/nt/40-matthew/matthew-24-9-14/","tags":["NT/40-Matthew-24v9-14"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 07:51 pm"}
 ---
 
 **Witnessing to All Nations** 

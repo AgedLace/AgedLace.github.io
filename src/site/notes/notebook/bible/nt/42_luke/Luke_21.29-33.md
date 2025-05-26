@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/bible/nt/42-luke/luke-21-29-33/","tags":["NT/42-Luke-21v29-33"]}
+{"dg-publish":true,"permalink":"/notebook/bible/nt/42-luke/luke-21-29-33/","tags":["NT/42-Luke-21v29-33"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 07:53 pm"}
 ---
 
 **The Lesson of the Fig Tree** 
