@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g144-aisthesis/","tags":["Greek/G144-aisthésis"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 19:54 pm"}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g144-aisthesis/","tags":["Greek/G144-aisthésis"]}
 ---
 
 ## Strong's Concordance

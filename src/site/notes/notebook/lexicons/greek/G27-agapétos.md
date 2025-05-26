@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g27-agapetos/","tags":["Greek/G27-agapétos"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 19:54 pm"}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g27-agapetos/","tags":["Greek/G27-agapétos"]}
 ---
 
 ## Strong's Concordance

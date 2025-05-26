@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g5048-teleioo/","tags":["Greek/G5048-teleioó"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 19:55 pm"}
+{"dg-publish":true,"permalink":"/notebook/lexicons/greek/g5048-teleioo/","tags":["Greek/G5048-teleioó"]}
 ---
 
 ## Strong's Concordance

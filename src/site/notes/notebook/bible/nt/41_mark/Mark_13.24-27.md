@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notebook/bible/nt/41-mark/mark-13-24-27/","tags":["NT/41-Mark-13v24-27"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 07:52 pm"}
+{"dg-publish":true,"permalink":"/notebook/bible/nt/41-mark/mark-13-24-27/","tags":["NT/41-Mark-13v24-27"]}
 ---
 
 **The Return of the Son of Man** 
