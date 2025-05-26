@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-1-8/","tags":["NT/40-Matthew-24v1-8"],"created":"May 25, 2025 05:10 am","updated":"May 26, 2025 17:47 pm"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-1-8/","tags":["NT/40-Matthew-24v1-8"],"created":"May 25, 2025 05:10 am","updated":"May 26, 2025 18:02 pm"}
 ---
 
 **Temple Destruction and Other Signs** 
