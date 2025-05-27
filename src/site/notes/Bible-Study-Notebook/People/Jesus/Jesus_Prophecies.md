@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/people/jesus/jesus-prophecies/","tags":["Jesus/Prophecies"],"created":"2025-05-25T23:36:47.454-04:00","updated":"2025-05-26T10:35:10.084-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/people/jesus/jesus-prophecies/","tags":["Jesus/Prophecies"],"created":"2025-05-25T23:36:47.454-04:00","updated":"2025-05-27T07:09:11.676-04:00"}
 ---
 
 **[[Temple-Destroyed \| Destruction of Temple]]** - Matthew 24:2
@@ -12,12 +12,3 @@
 		- Nation Against Nation; Kingdom Against Kingdom
 	- Global Famines and Earthquakes
 
-**Tags**
-- #Birth-Pain/Signs
-- #Birth-Pain/Signs/False-Christs
-- #Birth-Pain/Signs/False-Christs/Deceive-Many
-- #Birth-Pain/Signs/Natural-Disasters
-- #Birth-Pain/Signs/Wars-and-Rumors-of-Wars
-- #Birth-Pain/Signs/Natural-Disasters
-
-- #Temple/Destruction
