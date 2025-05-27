@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/41-mark/mark-13-32-37/","tags":["NT/41-Mark-13v32-37"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 07:53 pm"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/41-mark/mark-13-32-37/","tags":["NT/41-Mark-13v32-37"],"created":"2025-05-25T05:10:15.751-04:00","updated":"2025-05-25T19:53:05.045-04:00"}
 ---
 
 

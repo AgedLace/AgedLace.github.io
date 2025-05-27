@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/places/mount-of-olives/","tags":["Places/Mount-of-Olives"],"created":"May 25, 2025 23:42 pm","updated":"May 26, 2025 10:21 am"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/places/mount-of-olives/","tags":["Places/Mount-of-Olives"],"created":"2025-05-25T23:42:45.060-04:00","updated":"2025-05-26T10:34:47.950-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/events/end-time/birth-pains-signs/","tags":["Birth-Pain/Signs"],"created":"May 25, 2025 23:48 pm","updated":"May 26, 2025 10:11 am"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/events/end-time/birth-pains-signs/","tags":["Birth-Pain/Signs"],"created":"2025-05-25T23:48:23.023-04:00","updated":"2025-05-26T10:34:47.873-04:00"}
 ---
 
 **Birth Pain Signs** - Matthew 24:4-8

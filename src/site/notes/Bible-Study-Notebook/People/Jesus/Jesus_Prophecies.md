@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/people/jesus/jesus-prophecies/","tags":["Jesus/Prophecies"],"created":"May 25, 2025 23:36 pm","updated":"May 26, 2025 10:35 am"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/people/jesus/jesus-prophecies/","tags":["Jesus/Prophecies"],"created":"2025-05-25T23:36:47.454-04:00","updated":"2025-05-26T10:35:10.084-04:00"}
 ---
 
 **[[Temple-Destroyed \| Destruction of Temple]]** - Matthew 24:2

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/topics/deception/","tags":["Deception"],"created":"May 25, 2025 23:45 pm","updated":"May 26, 2025 10:28 am"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/topics/deception/","tags":["Deception"],"created":"2025-05-25T23:45:21.687-04:00","updated":"2025-05-26T10:34:47.967-04:00"}
 ---
 
 **False Christs Deceive Many** - Matthew 24:4

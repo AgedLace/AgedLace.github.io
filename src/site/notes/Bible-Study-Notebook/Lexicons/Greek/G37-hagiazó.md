@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g37-hagiazo/","tags":["Greek/G37-hagiazó"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 19:54 pm"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g37-hagiazo/","tags":["Greek/G37-hagiazó"],"created":"2025-05-25T05:10:25.528-04:00","updated":"2025-05-25T19:54:53.562-04:00"}
 ---
 
 ## Strong's Concordance

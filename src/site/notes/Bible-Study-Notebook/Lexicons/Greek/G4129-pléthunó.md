@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g4129-plethuno/","tags":["Greek/G4129-pléthunó"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 19:55 pm"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g4129-plethuno/","tags":["Greek/G4129-pléthunó"],"created":"2025-05-25T05:10:41.532-04:00","updated":"2025-05-25T19:55:17.476-04:00"}
 ---
 
 ## Strong's Concordance

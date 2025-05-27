@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/events/end-time/the-end/","tags":["Events/The-End"],"created":"May 25, 2025 23:50 pm","updated":"May 26, 2025 10:10 am"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/events/end-time/the-end/","tags":["Events/The-End"],"created":"2025-05-25T23:50:31.008-04:00","updated":"2025-05-26T10:10:49.432-04:00"}
 ---
 
 **Birth Pang Signs** - Matthew 24:6

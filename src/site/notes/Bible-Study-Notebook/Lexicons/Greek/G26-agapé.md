@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g26-agape/","tags":["Greek/G26-agapé"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 19:54 pm"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g26-agape/","tags":["Greek/G26-agapé"],"created":"2025-05-25T05:10:18.995-04:00","updated":"2025-05-25T19:54:41.802-04:00"}
 ---
 
 ## Strong's Concordance

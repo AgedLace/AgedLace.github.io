@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/people/disciples/disciples-ask-3-questions/","tags":["Disciples/Ask-3-Questions"],"created":"May 25, 2025 23:40 pm","updated":"May 26, 2025 10:34 am"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/people/disciples/disciples-ask-3-questions/","tags":["Disciples/Ask-3-Questions"],"created":"2025-05-25T23:40:06.954-04:00","updated":"2025-05-26T10:34:44.317-04:00"}
 ---
 
 **Disciples Ask Jesus 3 Questions** - Matthew 24:3

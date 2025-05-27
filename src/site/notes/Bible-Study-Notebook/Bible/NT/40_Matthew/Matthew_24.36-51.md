@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-36-51/","tags":["NT/40-Matthew-24v36-51"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 07:52 pm"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-36-51/","tags":["NT/40-Matthew-24v36-51"],"created":"2025-05-25T05:10:15.745-04:00","updated":"2025-05-25T19:52:44.644-04:00"}
 ---
 
 **Readiness at Any Hour** 

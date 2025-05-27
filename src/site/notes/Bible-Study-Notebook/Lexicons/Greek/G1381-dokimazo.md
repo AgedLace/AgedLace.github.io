@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g1381-dokimazo/","tags":["Greek/G1381-dokimazo"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 19:55 pm"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g1381-dokimazo/","tags":["Greek/G1381-dokimazo"],"created":"2025-05-25T05:10:28.095-04:00","updated":"2025-05-25T19:55:04.589-04:00"}
 ---
 
 ## Strong's Concordance

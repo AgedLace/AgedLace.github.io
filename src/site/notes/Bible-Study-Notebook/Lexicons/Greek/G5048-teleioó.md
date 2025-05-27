@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g5048-teleioo/","tags":["Greek/G5048-teleioó"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 19:55 pm"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g5048-teleioo/","tags":["Greek/G5048-teleioó"],"created":"2025-05-25T05:10:45.745-04:00","updated":"2025-05-25T19:55:19.773-04:00"}
 ---
 
 ## Strong's Concordance

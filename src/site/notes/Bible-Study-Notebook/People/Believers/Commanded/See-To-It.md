@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/people/believers/commanded/see-to-it/","tags":["Believers/Commanded/See-To-It"],"created":"May 25, 2025 23:45 pm","updated":"May 26, 2025 10:12 am"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/people/believers/commanded/see-to-it/","tags":["Believers/Commanded/See-To-It"],"created":"2025-05-25T23:45:14.733-04:00","updated":"2025-05-26T10:12:01.160-04:00"}
 ---
 
 **Jesus Commanded Us** - Matthew 24:4, 6

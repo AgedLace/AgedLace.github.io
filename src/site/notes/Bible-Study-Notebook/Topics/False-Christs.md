@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/topics/false-christs/","tags":["False-Christs"],"created":"May 26, 2025 17:42 pm","updated":"May 26, 2025 17:45 pm"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/topics/false-christs/","tags":["False-Christs"],"created":"2025-05-26T17:42:39.185-04:00","updated":"2025-05-26T17:45:19.030-04:00"}
 ---
 
 **Jesus foretold many would come in His name and deceive many** - Matthew 24:5

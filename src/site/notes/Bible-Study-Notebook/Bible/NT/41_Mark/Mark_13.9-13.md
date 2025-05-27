@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/41-mark/mark-13-9-13/","tags":["NT/41-Mark-13v9-13"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 07:52 pm"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/41-mark/mark-13-9-13/","tags":["NT/41-Mark-13v9-13"],"created":"2025-05-25T05:10:15.751-04:00","updated":"2025-05-25T19:52:50.598-04:00"}
 ---
 
 **Witnessing to All Nations** 

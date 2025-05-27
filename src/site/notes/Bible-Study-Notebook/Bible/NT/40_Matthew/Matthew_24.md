@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24/","tags":["NT/40-Matthew-24v4"],"created":"May 25, 2025 05:10 am","updated":"May 25, 2025 07:51 pm"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24/","tags":["NT/40-Matthew-24v4"],"created":"2025-05-25T05:10:15.748-04:00","updated":"2025-05-25T19:51:27.133-04:00"}
 ---
 
 ## **Berean Standard Bible - Matthew 24**
