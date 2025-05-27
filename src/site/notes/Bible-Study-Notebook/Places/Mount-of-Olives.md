@@ -6,5 +6,5 @@
 While on this Mount
 
 - Jesus Foretold [[Temple Destruction\|Temple Destruction]] - Matthew 24:2
-- Jesus Revealed [[Bible-Study-Notebook/Events/End Time/Birth-Pains-Signs\|Birth-Pains-Signs]] - Matthew 24:4-8
+- Jesus Revealed [[Bible-Study-Notebook/Events/End-Time/Birth-Pains-Signs\|Birth-Pains-Signs]] - Matthew 24:4-8
 
