@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/people/believers/persecuted/hated/","tags":["Signs/Believers/Betrayed-and-Hated"],"created":"2025-05-28T21:44:12.766-04:00","updated":"2025-05-28T22:03:37.848-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/people/believers/persecuted/hated/","tags":["Events/End-Time/Signs/Believers/Betrayed-and-Hated"],"created":"2025-05-28T21:44:12.766-04:00","updated":"2025-05-29T00:17:56.007-04:00"}
 ---
 
 

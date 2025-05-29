@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/events/falling-away/1-timothy-4v1-3/","tags":["Events/Falling-Away"],"created":"2025-05-27T15:13:32.862-04:00","updated":"2025-05-27T15:27:06.138-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/events/falling-away/1-timothy-4v1-3/","tags":["Events/Falling-Away"],"created":"2025-05-27T15:13:32.862-04:00","updated":"2025-05-29T00:19:28.498-04:00"}
 ---
 
 

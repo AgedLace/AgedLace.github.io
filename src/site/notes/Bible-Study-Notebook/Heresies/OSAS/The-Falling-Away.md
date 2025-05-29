@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/heresies/osas/the-falling-away/","tags":["Doctrines-of-Devils/OSAS"],"created":"2025-05-27T14:04:34.965-04:00","updated":"2025-05-28T22:12:47.038-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/heresies/osas/the-falling-away/","tags":["Doctrines-of-Devils/OSAS"],"created":"2025-05-27T14:04:34.965-04:00","updated":"2025-05-29T00:20:05.199-04:00"}
 ---
 
 

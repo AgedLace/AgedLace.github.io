@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/heresies/osas/be-careful-not-to-fall/","tags":["Doctrines-of-Devils/OSAS/Be-Careful-Not-to-Fall"],"created":"2025-05-27T14:46:38.549-04:00","updated":"2025-05-28T21:57:27.656-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/heresies/osas/be-careful-not-to-fall/","tags":["Doctrines-of-Devils/OSAS/Be-Careful-Not-to-Fall"],"created":"2025-05-27T14:46:38.549-04:00","updated":"2025-05-29T00:18:28.227-04:00"}
 ---
 
 **1 Corinthians 10:12**

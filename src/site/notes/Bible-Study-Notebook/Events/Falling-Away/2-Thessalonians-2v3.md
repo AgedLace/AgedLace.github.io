@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/events/falling-away/2-thessalonians-2v3/","tags":["Events/Falling-Away"],"created":"2025-05-27T14:10:20.654-04:00","updated":"2025-05-27T14:42:55.434-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/events/falling-away/2-thessalonians-2v3/","tags":["Events/Falling-Away"],"created":"2025-05-27T14:10:20.654-04:00","updated":"2025-05-29T00:20:05.192-04:00"}
 ---
 
 
