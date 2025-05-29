@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/41-mark/mark-13-28-31/","tags":["NT/41-Mark-13v28-31"],"created":"2025-05-25T05:10:15.751-04:00","updated":"2025-05-25T19:52:56.615-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/41-mark/mark-13-28-31/","tags":["NT/41_Mark-13v28-31"],"created":"2025-05-25T05:10:15.751-04:00","updated":"2025-05-29T03:30:53.770-04:00"}
 ---
 
 **The Lesson of the Fig Tree** 

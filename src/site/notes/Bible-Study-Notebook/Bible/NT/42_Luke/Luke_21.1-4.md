@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-21-1-4/","tags":["NT/42-Luke-21v1-4"],"created":"2025-05-25T05:10:15.755-04:00","updated":"2025-05-25T19:53:11.011-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-21-1-4/","tags":["_"],"created":"2025-05-25T05:10:15.755-04:00","updated":"2025-05-29T03:31:28.131-04:00"}
 ---
 
 **The Poor Widow's Offering** 

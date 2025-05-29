@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g646-apostasia/","tags":["Greek/G646-apostasia"],"created":"2025-05-27T14:25:28.430-04:00","updated":"2025-05-27T14:31:01.149-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g646-apostasia/","tags":["Greek/G646-apostasia"],"created":"2025-05-27T14:25:28.430-04:00","updated":"2025-05-29T03:43:01.496-04:00"}
 ---
 
 

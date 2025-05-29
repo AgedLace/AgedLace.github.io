@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/people/jesus/prophecies/matthew-24v4-8/","tags":["Jesus/Prophecies/Beginning-Birth-Pains"],"created":"2025-05-28T22:31:47.611-04:00","updated":"2025-05-29T00:35:51.278-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/people/jesus/prophecies/matthew-24v4-8/","tags":["People/Jesus/Prophecies/Beginning-Birth-Pains"],"created":"2025-05-28T22:31:47.611-04:00","updated":"2025-05-29T04:30:16.953-04:00"}
 ---
 
 
-**Jesus foretold the Beginning of Birth Pains**
+**The Beginning of Birth Pains**
 
 > [!NOTE] **Matthew 24:4-8**
 >

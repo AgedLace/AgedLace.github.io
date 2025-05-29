@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-21-5-9/","tags":["NT/42-Luke-21v5-9"],"created":"2025-05-25T05:10:15.761-04:00","updated":"2025-05-25T19:56:31.277-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-21-5-9/","tags":["NT/42_Luke-21v5-9"],"created":"2025-05-25T05:10:15.761-04:00","updated":"2025-05-29T03:31:38.361-04:00"}
 ---
 
 **Temple Destruction and Other Signs** 
