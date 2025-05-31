@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-21-5-9/","tags":["NT/42_Luke-21v5-9"],"created":"2025-05-25T05:10:15.761-04:00","updated":"2025-05-29T03:31:38.361-04:00"}
+Title: Luke_21.5-9
+tags:
+  - NT/42_Luke-21v5-9
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 19:56 pm
 ---
-
 **Temple Destruction and Other Signs** 
 ([Matthew 24:1–8](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmatthew%2F24.htm); [Mark 13:1–8](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmark%2F13.htm))
 

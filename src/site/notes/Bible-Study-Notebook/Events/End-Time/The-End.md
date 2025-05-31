@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/events/end-time/the-end/","tags":["Events/The-End"],"created":"2025-05-25T23:50:31.008-04:00","updated":"2025-05-29T03:34:45.583-04:00"}
+Title: The-End
+tags:
+  - Events/The-End
+dg-publish: true
+Date-Created: 2025-May-25 23:50
+Date-Modified: 2025-May-29 03:34
 ---
-
 **The End Is Not Yet**
 
 > [!NOTE] **Matthew 24:6**
@@ -12,4 +16,10 @@
 - Are NOT yet "The End"
 - Jesus said it was still to come.
 
+%%
 
+**Tags**
+- #Events/The-End
+- #NT/40_Matthew-24v6
+
+%%

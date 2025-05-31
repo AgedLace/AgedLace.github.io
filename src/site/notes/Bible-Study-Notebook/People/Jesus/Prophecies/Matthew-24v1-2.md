@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/people/jesus/prophecies/matthew-24v1-2/","tags":["People/Jesus/Prophecies/Temple-Destruction"],"created":"2025-05-28T22:31:15.121-04:00","updated":"2025-05-29T04:30:03.423-04:00"}
+Title: Matthew-24v1-2
+tags:
+  - People/Jesus/Prophecies/Temple-Destruction
+dg-publish: true
+Date-Created: 2025-May-28 22:31
+Date-Modified: 2025-May-29 04:30
 ---
-
 **Temple Destruction**
 
 Jesus foretold the complete and utter destruction of the temple and all of it's buildings. (see the end of verse 1)
@@ -12,4 +16,11 @@ Jesus foretold the complete and utter destruction of the temple and all of it's 
 >
 > 2 Do you see all these things?" He replied. "Truly I tell you, not one stone here will be left on another; every one will be thrown down."
 
+%%
 
+**Tags**
+
+- #NT/40_Matthew-24v1-2
+-
+
+%%

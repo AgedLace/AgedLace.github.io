@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-21-20-24/","tags":["NT/42_Luke-21v20-24"],"created":"2025-05-25T05:10:15.758-04:00","updated":"2025-05-29T03:31:56.898-04:00"}
+Title: Luke_21.20-24
+tags:
+  - NT/42_Luke-21v20-24
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 07:53 pm
 ---
-
 **The Destruction of Jerusalem**  
 ([Matthew 24:15–25](https://biblehub.com/bsb/matthew/24.htm#15); [Mark 13:14–23](https://biblehub.com/bsb/mark/13.htm#14))
 

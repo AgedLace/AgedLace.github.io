@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g2822-kletos/","tags":["Greek/G2822-klétos"],"created":"2025-05-25T05:10:36.455-04:00","updated":"2025-05-25T19:55:10.549-04:00"}
+Title: G2822-klétos
+tags:
+  - Greek/G2822-klétos
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 19:55 pm
 ---
-
 ## Strong's Concordance
 
 **Definition** - called, invited

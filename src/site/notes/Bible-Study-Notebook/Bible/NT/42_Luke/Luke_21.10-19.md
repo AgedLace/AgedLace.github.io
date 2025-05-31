@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-21-10-19/","tags":["NT/42_Luke-21v10-19"],"created":"2025-05-25T05:10:15.758-04:00","updated":"2025-05-29T03:31:48.331-04:00"}
+Title: Luke_21.10-19
+tags:
+  - NT/42_Luke-21v10-19
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 07:53 pm
 ---
-
 **Witnessing to All Nations** 
 ([Matthew 24:9–14](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmatthew%2F24.htm%239); [Mark 13:9–13](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmark%2F13.htm%239))
 

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g4052-perisseuo/","tags":["Greek/G4052-perisseuó"],"created":"2025-05-25T05:10:39.305-04:00","updated":"2025-05-25T19:55:15.663-04:00"}
+Title: G4052-perisseuó
+tags:
+  - Greek/G4052-perisseuó
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 19:55 pm
 ---
-
 ## Strong's Concordance
 
 **Definition** - To abound, to be in abundance, to overflow, to excel

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g144-aisthesis/","tags":["Greek/G144-aisthésis"],"created":"2025-05-25T05:10:26.465-04:00","updated":"2025-05-25T19:54:55.449-04:00"}
+Title: G144-aisthésis
+tags:
+  - Greek/G144-aisthésis
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 19:54 pm
 ---
-
 ## Strong's Concordance
 
 **Definition** - Perception, discernment, insight

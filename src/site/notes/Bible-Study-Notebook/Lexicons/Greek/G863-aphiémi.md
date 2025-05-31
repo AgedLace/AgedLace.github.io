@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g863-aphiemi/","tags":["Greek/G863-aphiémi"],"created":"2025-05-29T03:49:05.420-04:00","updated":"2025-05-29T03:58:48.557-04:00"}
+Title: G863-aphiémi
+tags:
+  - Greek/G863-aphiémi
+dg-publish: true
+Date-Created: 2025-May-29 03:49
+Date-Modified: 2025-May-29 03:58
 ---
-
 
 ## Strong's Concordance
 

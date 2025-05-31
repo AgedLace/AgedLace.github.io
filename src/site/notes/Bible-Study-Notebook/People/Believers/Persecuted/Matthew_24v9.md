@@ -1,11 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/people/believers/persecuted/matthew-24v9/","tags":["Events/End-Time/Birth-Pain/Signs/Believers/Betrayed-and-Hated"],"created":"2025-05-28T21:44:12.766-04:00","updated":"2025-05-29T04:29:00.225-04:00"}
+Title: Matthew_24v9
+tags:
+  - Events/End-Time/Birth-Pain/Signs/Believers/Betrayed-and-Hated
+dg-publish: true
+Date-Created: 2025-May-28 21:44
+Date-Modified: 2025-May-29 04:29
 ---
-
 **Believers to Be Persecuted, Killed, and Hated for Jesus' Name**
 
 > [!NOTE] **Matthew 24:9**
 >
 > 9 Then they will deliver you over **to be persecuted and killed, and you will be hated by all nations because of My name.**
 
+%%
 
+**Tags**
+
+- #NT/40_Matthew-24v9
+- #People/Believers/Persecuted-Killed-Hated
+-
+
+%%

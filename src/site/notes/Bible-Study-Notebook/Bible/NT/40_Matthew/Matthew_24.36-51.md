@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-36-51/","tags":["NT/40_Matthew-24v36-51"],"created":"2025-05-25T05:10:15.745-04:00","updated":"2025-05-29T03:26:54.037-04:00"}
+Title: Matthew_24.36-51
+tags: [NT/40_Matthew-24v36-51]
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 07:52 pm
 ---
-
 **Readiness at Any Hour** 
 ([Genesis 6:1–7](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fgenesis%2F6.htm); [Mark 13:32–37](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmark%2F13.htm%2332); [Luke 12:35–48](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fluke%2F12.htm%2335))
 

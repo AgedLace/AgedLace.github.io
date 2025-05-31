@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g1515-eirene/","tags":["Greek/G1515-eiréné"],"created":"2025-05-25T05:10:30.262-04:00","updated":"2025-05-25T19:55:06.579-04:00"}
+Title: G1515-eiréné
+tags:
+  - Greek/G1515-eiréné
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 19:55 pm
 ---
-
 ## Strong's Concordance
 
 **Definition** - peace

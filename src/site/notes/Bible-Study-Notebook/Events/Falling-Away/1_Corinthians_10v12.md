@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/events/falling-away/1-corinthians-10v12/","tags":["Doctrines-of-Devils/OSAS/Be-Careful-Not-to-Fall"],"created":"2025-05-27T14:42:55.124-04:00","updated":"2025-05-29T04:15:01.117-04:00"}
+Title: 1_Corinthians_10v12
+tags:
+  - Doctrines-of-Devils/OSAS/Be-Careful-Not-to-Fall
+dg-publish: true
+Date-Created: 2025-May-27 14:42
+Date-Modified: 2025-May-29 04:15
 ---
-
 **Be Careful Not To Fall**
 
 > [!NOTE] **1 Corinthians 10:12**
@@ -10,4 +14,9 @@
 
 Paul never would have needed to give this warning if it were not possible for a believer to fall.
 
+%%
 
+#Events/Falling-Away
+#NT/46_1-Corinthians-10v12
+
+%%

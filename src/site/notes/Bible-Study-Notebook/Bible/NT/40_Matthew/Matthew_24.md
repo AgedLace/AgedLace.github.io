@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24/","tags":["nt/40_Matthew-24"],"created":"2025-05-25T05:10:15.748-04:00","updated":"2025-05-29T03:33:02.032-04:00"}
+Title: Matthew_24
+tags:
+  - nt/40_Matthew-24
+dg-publish: true
+Date-Created: 2025-May-25 05:10
+Date-Modified: 2025-May-29 03:33
 ---
-
 ## **Berean Standard Bible - Matthew 24**
 
 **Temple Destruction and Other Signs**  

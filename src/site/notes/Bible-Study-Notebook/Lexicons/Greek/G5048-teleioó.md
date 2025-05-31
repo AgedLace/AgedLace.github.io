@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g5048-teleioo/","tags":["Greek/G5048-teleioó"],"created":"2025-05-25T05:10:45.745-04:00","updated":"2025-05-25T19:55:19.773-04:00"}
+Title: G5048-teleioó
+tags:
+  - Greek/G5048-teleioó
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 19:55 pm
 ---
-
 ## Strong's Concordance
 
 **Definition** - To complete, to perfect, to accomplish, to bring to an end.

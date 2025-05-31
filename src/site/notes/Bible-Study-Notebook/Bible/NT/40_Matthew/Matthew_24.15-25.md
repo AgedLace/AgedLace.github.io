@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-15-25/","tags":["NT/40_Matthew-24v15-25"],"created":"2025-05-25T05:10:15.745-04:00","updated":"2025-05-29T03:25:48.956-04:00"}
+Title: Matthew_24.15-25
+tags: [NT/40_Matthew-24v15-25]
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 07:51 pm
 ---
-
 **The Abomination of Desolation** 
 ([Mark 13:14–23](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmark%2F13.htm%2314); [Luke 21:20–24](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fluke%2F21.htm%2320))
 

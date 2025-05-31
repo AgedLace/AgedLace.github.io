@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/events/falling-away/1-timothy-1v18-20/","tags":["Events/Falling-Away"],"created":"2025-05-27T15:27:40.688-04:00","updated":"2025-05-29T03:36:42.878-04:00"}
+Title: 1_Timothy_1v18-20
+tags:
+  - Events/Falling-Away
+dg-publish: true
+Date-Created: 2025-May-27 15:27
+Date-Modified: 2025-May-29 03:36
 ---
-
 
 **Shipwrecked Faith**
 
@@ -17,4 +21,13 @@
 
 One can '*shipwreck*' one's faith unless there was a period of time when they had faith to shipwreck.
 
+%%
 
+**Tags**
+
+- #NT/54_1-Timothy-1v18-20
+- #Faith/Shipwrecked
+- #Doctrines-of-Devils/OSAS
+- #Doctrines-of-Devils/OSAS/Falling-Away
+
+%%

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-12-35-48/","tags":["NT/42_Luke-12v35-48"],"created":"2025-05-25T05:10:15.755-04:00","updated":"2025-05-29T03:31:18.057-04:00"}
+Title: Luke_12.35-48
+tags:
+  - NT/42_Luke-12v35-48
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 07:53 pm
 ---
-
 **Readiness at Any Hour**  
 ([Matthew 24:36–51](https://biblehub.com/bsb/matthew/24.htm#36); [Mark 13:32–37](https://biblehub.com/bsb/mark/13.htm#32))
 

@@ -1,7 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-26-31/","tags":["NT/40_Matthew-24v26-31"],"created":"2025-05-25T05:10:15.745-04:00","updated":"2025-05-29T03:26:26.703-04:00"}
+Title: Matthew_24.26-31
+tags: [NT/40_Matthew-24v26-31]
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 07:51 pm
 ---
-
 
 The Return of the Son of Man 
 

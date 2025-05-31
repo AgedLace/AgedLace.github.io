@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g4991-soteria/","tags":["Greek/G4991-sótéria"],"created":"2025-05-25T05:10:44.319-04:00","updated":"2025-05-25T19:55:19.036-04:00"}
+Title: G4991-sótéria
+tags:
+  - Greek/G4991-sótéria
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 19:55 pm
 ---
-
 ## Strong's Concordance
 
 **Definition** - salvation

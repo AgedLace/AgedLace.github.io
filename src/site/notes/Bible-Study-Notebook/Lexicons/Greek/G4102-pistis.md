@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g4102-pistis/","tags":["Greek/G4102-pistis"],"created":"2025-05-25T05:10:40.502-04:00","updated":"2025-05-25T19:55:17.009-04:00"}
+Title: G4102-pistis
+tags:
+  - Greek/G4102-pistis
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 19:55 pm
 ---
-
 ## Strong's Concordance
 
 **Definition** - faith, belief, trust, confidence, fidelity

@@ -1,7 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g27-agapetos/","tags":["Greek/G27-agapétos"],"created":"2025-05-25T05:10:24.145-04:00","updated":"2025-05-25T19:54:43.766-04:00"}
+Title: G27-agapétos
+tags:
+  - Greek/G27-agapétos
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 19:54 pm
 ---
-
 ## Strong's Concordance
 
 **Definition** - beloved, dearly loved
