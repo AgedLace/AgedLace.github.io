@@ -1,4 +1,5 @@
 ---
+
 Title: Home
 tags:
   - BND/Purpose
@@ -9,6 +10,11 @@ Date-Modified: 2025-May-29 00:39
 dg-home: true
 keywords: '["Be Not Deceived", "See to it no one deceives you"]'
 ---
+=======
+{"dg-publish":true,"permalink":"/home/","tags":["BND/Purpose","BND/Welcome","gardenEntry"],"created":"2025-06-02T22:56:11.129-04:00","updated":"2025-06-02T20:08:11.149-04:00"}
+---
+
+>>>>>>> 77ff506b6183fc5aec016fdacac5c078845eb90e
 ## Welcome To Be Not Deceived
 
 ### Primary Purpose
