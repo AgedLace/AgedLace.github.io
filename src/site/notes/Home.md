@@ -1,14 +1,7 @@
 ---
-Title: Home
-tags: [BND/Purpose, BND/Welcome]
-dg-publish: true
-Date-Created: 2025-May-25 05:10
-Date-Modified: 2025-May-29 00:39
-dg-home: true
-keywords: '["Be Not Deceived", "See to it no one deceives you"]'
-date created: 2025-19-Mo 11:19:15
-date modified: 2025-34-Mo 11:34:06
+{"dg-publish":true,"permalink":"/home/","tags":["BND/Purpose","BND/Welcome","gardenEntry"],"created":"2025-06-02T23:31:11.193-04:00","updated":"2025-06-02T20:08:11.149-04:00"}
 ---
+
 ## Welcome To Be Not Deceived
 
 ### Primary Purpose
