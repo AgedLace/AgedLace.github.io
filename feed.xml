@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://benotdeceived.org">
+    <title>Digital Garden</title>
+    <link href="https://benotdeceived.org/feed.xml" rel="self" >
+    <link href="https://benotdeceived.org" >
+    <updated>2025-06-03T03:05:24Z</updated>
+    <id>https://benotdeceived.org</id>
+</feed>
