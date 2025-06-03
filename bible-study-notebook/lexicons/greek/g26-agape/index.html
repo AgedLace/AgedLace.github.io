@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-<title>Home</title>
+<title>G26-agapé</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs"</script>
 <script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -354,7 +354,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
-<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/bible-study-notebook/lexicons/greek/g26-agape/">G26-agapé </a>
+<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/bible-study-notebook/lexicons/greek/g26-agape/">G26-agapé </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="filelist">
@@ -680,7 +680,7 @@ CTRL + K
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="">
-<div @click.stop class="notelink active-note"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/">Home </a>
+<div @click.stop class="notelink"><i icon-name="sticky-note" aria-hidden="true"></i><a data-note-icon="" style="text-decoration:none" class="filename" href="/">Home </a>
 </div>
 </div>
 </div>
@@ -709,89 +709,16 @@ CTRL + K
 <script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1),window.toggleSearch=function(){document.getElementById("globalsearch").classList.contains("active")?document.getElementById("globalsearch").classList.remove("active"):(document.getElementById("globalsearch").classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){console.log(e.textContent);const t=e.textContent;t&&(window.document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <svg width="100" height="100" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="#fff">\n      <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="1.5s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="1.5s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="1.5s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="6" stroke-opacity="0">\n              <animate attributeName="r"\n                   begin="3s" dur="3s"\n                   values="6;22"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-opacity"\n                   begin="3s" dur="3s"\n                   values="1;0" calcMode="linear"\n                   repeatCount="indefinite" />\n              <animate attributeName="stroke-width"\n                   begin="3s" dur="3s"\n                   values="2;0" calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n          <circle cx="22" cy="22" r="8">\n              <animate attributeName="r"\n                   begin="0s" dur="1.5s"\n                   values="6;1;2;3;4;5;6"\n                   calcMode="linear"\n                   repeatCount="indefinite" />\n          </circle>\n      </g>\n  </svg>';function debounce(e,t,n){var a;return function(){var r=this,i=arguments,c=n&&!a;clearTimeout(a),a=setTimeout((function(){a=null,n||e.apply(r,i)}),t),c&&e.apply(r,i)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="⌘ + K"))}function createIndex(e){const t=e=>e.toLowerCase().split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){let e=!0;if(localStorage.getItem("searchIndex")){let{date:t,docs:n}=JSON.parse(localStorage.getItem("searchIndex"));if("2025-06-03T03:41:00.272Z"===t){e=!1;let t=createIndex(n);window.docs=n,window.index=t}}if(e){let e=await(await fetch("/searchIndex.json?v=2025-06-03T03:41:00.272Z")).json(),t=createIndex(e);localStorage.setItem("searchIndex",JSON.stringify({date:"2025-06-03T03:41:00.272Z",docs:e})),window.docs=e,window.index=t}document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")){if("ArrowDown"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.nextElementSibling?t.nextElementSibling.classList.add("active"):document.querySelector(".searchresult").classList.add("active")):document.querySelector(".searchresult").classList.add("active");let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("ArrowUp"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t?(t.classList.remove("active"),t.previousElementSibling?t.previousElementSibling.classList.add("active"):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling||e.classList.add("active")}))):document.querySelectorAll(".searchresult").forEach((e=>{e.nextElementSibling&&e.classList.add("active")}));let n=document.querySelector(".searchresult.active");n&&n.scrollIntoView({behavior:"smooth",block:"nearest",inline:"start"})}if("Enter"===e.key){e.preventDefault();let t=document.querySelector(".searchresult.active");t&&(window.location.href=t.querySelector("a").href)}}}));const t=debounce(search,200,!1);field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&t()})),resultsDiv=document.querySelector("#search-results");const n=new URL(location.href).searchParams;n.get("q")&&(field.setAttribute("value",n.get("q")),toggleSearch(),search())}async function search(){let e=field.value.trim();if(!e)return;if(e==lastSearch)return;console.log(`search for ${e}`),window.lastSearch=e,resultsDiv.innerHTML=loadingSvg;let t=offlineSearch(e),n="";if(!t.length){let t=document.createElement("p");return t.innerText=`No results for "${e}"`,resultsDiv.innerHTML="",void resultsDiv.appendChild(t)}n+='<div style="max-width:100%;">',t.forEach((e=>{e.tags&&e.tags.length>0?n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        <div class="header-meta">\n                            <div class="header-tags">\n                                ${e.tags.map((e=>'<a class="tag" href="JavaScript:Void(0);">#'+e+"</a>")).join("")}\n                            </div>\n                        </div>\n                        ${e.content}\n                    </div>\n                </div>`:n+=`<div class="searchresult">\n                    <a class="search-link" href="${e.url}">${e.title}</a>\n                    <div onclick="window.location='${e.url}'">\n                        ${e.content}\n                    </div>\n                </div>`})),n+="</div>",resultsDiv.innerHTML=n}function truncate(e,t){return(e=e.replaceAll(/<[^>]*>/g,"")).length<t?e:e.substring(0,t-3)+"..."}function offlineSearch(e){let t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",weight:10}]);const a=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...a("title"),...a("content"),...a("tags")])].map((e=>{let n=t[e];return n.content=truncate(n.content,400),n.tags=n.tags.filter((e=>"gardenEntry"!=e&&"note"!=e)),n}))}window.lastSearch=""</script>
 <main class="content cm-s-obsidian">
 <header>
-<h1></h1>
+<h1 data-note-icon="">G26-agapé</h1>
 <div class="header-meta">
-</div>
+<div class="timestamps"><div><i icon-name="calendar-plus"></i> <span class="human-date" data-date="2025-06-02T23:40:12.180-04:00"></span></div><div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="2025-06-02T20:08:11.146-04:00"></span></div></div></div>
 </header>
-<h2 id="welcome-to-be-not-deceived" tabindex="-1">Welcome To Be Not Deceived</h2>
-<h3 id="primary-purpose" tabindex="-1">Primary Purpose</h3>
-<p>The primary purpose of <a href="https://benotdeceived.org" target="_blank" class="external-link">Be Not Deceived</a> is to warn believers to fulfill Jesus' commands in Matthew 24:4-5, Luke 21:8, and Mark 13:5-6 <em><strong>&quot;to see to it that no one deceives&quot;</strong></em> them.</p>
-<div class="callout" data-callout="note"><div class="callout-title"><div class="callout-title-inner"> <strong>Matthew 24:4-5</strong> <br><br></div></div>
-<div class="callout-content">
-<p>
-</p><p><a href="https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-4.htm" target="_blank" class="external-link">4</a>Jesus answered, &quot;<strong>See to it that no one deceives you.</strong> <a href="https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-5.htm" target="_blank" class="external-link">5</a>For many will come in My name, claiming, 'I am the Christ,' and will deceive many.</p>
-</div></div>
-<div class="callout" data-callout="note"><div class="callout-title"><div class="callout-title-inner"> <strong>Luke 21:8</strong> <br><br></div></div>
-<div class="callout-content">
-<p>
-</p><p><a href="https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fbiblehub.com%2Fluke%2F21-8.htm" target="_blank" class="external-link">8</a>Jesus answered, &quot;<strong>See to it that you are not deceived</strong>. For many will come in My name, claiming, 'I am He,' and, 'The time is near.' Do not follow them.</p>
-</div></div>
-<div class="callout" data-callout="note"><div class="callout-title"><div class="callout-title-inner"> <strong>Mark 13:5-6</strong> <br><br></div></div>
-<div class="callout-content">
-<p>
-</p><p><a href="https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fbiblehub.com%2Fmark%2F13-5.htm" target="_blank" class="external-link">5</a>Jesus began by telling them, &quot;<strong>See to it that no one deceives you</strong>. <a href="https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fbiblehub.com%2Fmark%2F13-6.htm" target="_blank" class="external-link">6</a>Many will come in My name, claiming, 'I am He,' and will deceive many.</p>
-</div></div>
-<p>One of the main reasons this is so important is Jesus said the end time deception would be so great that, if possible, would even deceive the elect.</p>
-<div class="callout" data-callout="note"><div class="callout-title"><div class="callout-title-inner"> <strong>Matthew 24:23-24</strong> <br><br></div></div>
-<div class="callout-content">
-<p>
-</p><p>23 At that time, if anyone says to you, 'Look, here is the Christ!' or 'There He is!' do not believe it. <br><br> 24 For false Christs and false prophets will appear and perform great signs and wonders <strong>that would deceive even the elect, if that were possible</strong>.</p>
-</div></div>
-<h3 id="secondary-purpose" tabindex="-1">Secondary Purpose</h3>
-<p>The secondary purpose of <a href="https://benotdeceived.org" target="_blank" class="external-link">Be Not Deceived</a> is to prepare, equip, and build up believers so that they are able to fulfill Jesus' Command to '<a href="https://benotdeceived.org" target="_blank" class="external-link">Be Not Deceived</a>'.</p>
-<p>Only when believers are grounded in the Word will they not be deceived by the false prophets, false teachers, false christs, and great signs and wonders Jesus repeatedly warned of. They will know the truth, and, as Jesus said in John 8:31-32, <em><strong>&quot;If you continue in My word, you are truly My disciples. Then you will know the truth, and the truth will set you free&quot;</strong></em>, including from deception.</p>
-<h2 id="how-to-be-built-up-so-you-are-not-deceived" tabindex="-1">How To Be Built Up So You Are Not Deceived</h2>
-<h3 id="the-holy-spirit-is-our-teacher" tabindex="-1">The Holy Spirit Is Our Teacher</h3>
-<div class="callout" data-callout="note"><div class="callout-title"><div class="callout-title-inner"> <strong>John 14:26</strong> <br><br></div></div>
-<div class="callout-content">
-<p>
-</p><p><a href="https://biblehub.com/john/14-26.htm" target="_blank" class="external-link"><strong>26</strong></a> But the Advocate, the Holy Spirit, whom the Father will send in My name, <strong>will teach you all things and will remind you of everything I have told you</strong>.</p>
-</div></div>
-<p>All we need to do before reading the Holy Scriptures is ask the Holy Spirit to grant us His revelation, illumination, inspiration, insight and understanding of what the Word really says and means.</p>
-<h3 id="the-word-is-god-breathed" tabindex="-1">The Word Is God-breathed</h3>
-<div class="callout" data-callout="note"><div class="callout-title"><div class="callout-title-inner"> <strong>2 Timothy 3:16-17</strong> <br><br></div></div>
-<div class="callout-content">
-<p>
-</p><p><a href="https://biblehub.com/2_timothy/3-16.htm" target="_blank" class="external-link"><strong>16</strong></a> <strong>All Scripture is God-breathed and is useful for instruction, for conviction, for correction, and for training in righteousness</strong>, <br><br> <a href="https://biblehub.com/2_timothy/3-17.htm" target="_blank" class="external-link"><strong>17</strong></a> <strong>so that the man of God may be complete, fully equipped for every good work.</strong></p>
-</div></div>
-<p>The Holy Scriptures are able to keep us from being deceived if we diligently apply ourselves to learning what they say. We can be obedient to what Jesus has commanded us only if we <strong>know</strong> what He has commanded us.</p>
-<h3 id="god-s-word-makes-wise" tabindex="-1">God's Word Makes Wise</h3>
-<div class="callout" data-callout="note"><div class="callout-title"><div class="callout-title-inner"> <strong>2 Timothy 3:15</strong> <br><br></div></div>
-<div class="callout-content">
-<p>
-</p><p><a href="https://biblehub.com/2_timothy/3-15.htm" target="_blank" class="external-link"><strong>15</strong></a> From infancy you have known <strong>the Holy Scriptures, which are able to make you wise</strong> for salvation through faith in Christ Jesus.</p>
-</div></div>
-<p>If we are consistently, and prayerfully, reading and studying the Word of God, it will give us the wisdom to know when someone is preaching or teaching wrong doctrine. One who is trained in the real thing, will not be deceived by a counterfeit.</p>
-<h3 id="god-s-word-builds-up" tabindex="-1">God's Word Builds Up</h3>
-<div class="callout" data-callout="note"><div class="callout-title"><div class="callout-title-inner"> <strong>Acts 20:32</strong> <br><br></div></div>
-<div class="callout-content">
-<p>
-</p><p><a href="https://biblehub.com/acts/20-32.htm" target="_blank" class="external-link"><strong>32</strong></a> And now I commit you to God <strong>and to the word of His grace, which can build you up</strong> and give you an inheritance among all who are sanctified.</p>
-</div></div>
-<div class="callout" data-callout="example"><div class="callout-title"><div class="callout-title-inner"> <strong>Prayer</strong></div></div>
-<div class="callout-content">
-<p>
-</p><p>I commit you, my precious reader, to God and to the Word of His Grace, that it would indeed build you up and give you an inheritance among all who are sanctified; and that it would also keep and protect you from all deception of every kind; that you will know the truth so as to be free from all deception. In Jesus' Name. Amen.</p>
-</div></div>
-<h3 id="we-are-commanded-to-build-ourselves-up" tabindex="-1">We Are Commanded To Build Ourselves Up</h3>
-<div class="callout" data-callout="note"><div class="callout-title"><div class="callout-title-inner"> <strong>Jude 1:20-21</strong> <br></div></div>
-<div class="callout-content">
-<p>
-</p><p><a href="https://biblehub.com/jude/1-20.htm" target="_blank" class="external-link"><strong>20</strong></a> But you, beloved, <strong>by building yourselves up</strong> in your most holy faith and praying in the Holy Spirit, <br><br> <a href="https://biblehub.com/jude/1-21.htm" target="_blank" class="external-link"><strong>21</strong></a> keep yourselves in the love of God as you await the mercy of our Lord Jesus Christ to bring you eternal life.</p>
-</div></div>
-<p>Also, take note of <strong>Ephesians 4:16</strong> below, that Believers are to '<strong>grow and build themselves up in love</strong>' as they do the work that God has assigned them to do.</p>
-<h3 id="ministers-are-given-to-equip-grow-and-build-up-the-body" tabindex="-1">Ministers Are Given To Equip, Grow, And Build Up The Body</h3>
-<div class="callout" data-callout="note"><div class="callout-title"><div class="callout-title-inner"> <strong>Ephesians 4:11-16</strong> <br></div></div>
-<div class="callout-content">
-<p>
-</p><p><a href="https://biblehub.com/ephesians/4-11.htm" target="_blank" class="external-link"><strong>11</strong></a> And it was He who gave some to be apostles, some to be prophets, some to be evangelists, and some to be pastors and teachers, <br><br> <a href="https://biblehub.com/ephesians/4-12.htm" target="_blank" class="external-link"><strong>12</strong></a> <strong>to equip the saints for works of ministry and to build up the body of Christ</strong>, <br><br> <a href="https://biblehub.com/ephesians/4-13.htm" target="_blank" class="external-link"><strong>13</strong></a> until we <strong>all</strong> reach unity in the faith and in the knowledge of the Son of God, as we mature to the full measure of the stature of Christ. <br><br> <a href="https://biblehub.com/ephesians/4-14.htm" target="_blank" class="external-link"><strong>14</strong></a> <strong>Then we will no longer be infants, tossed about by the waves and carried around by every wind of teaching and by the clever cunning of men in their deceitful scheming.</strong> <br><br> <a href="https://biblehub.com/ephesians/4-15.htm" target="_blank" class="external-link"><strong>15</strong></a> Instead, speaking the truth in love, we will in all things grow up into Christ Himself, who is the head. <br><br> <a href="https://biblehub.com/ephesians/4-16.htm" target="_blank" class="external-link"><strong>16</strong></a> From Him the whole body, fitted and held together by every supporting ligament, <strong>grows and builds itself up</strong> in love through the work of each individual part.</p>
-</div></div>
-<p>Two of the main responsibilities of ministers of the Gospel is to grow and build the Body of Christ up, and to equip them for works of ministry. <strong>ALL</strong> Believers are called to ministry; each as the Holy Spirit has gifted, and leads, them.</p>
-<h2 id="conclusion" tabindex="-1">Conclusion</h2>
-<p>Believers will have no excuse about their ignorance or immaturity when they stand before Him on Judgment day. He has provided us the necessary tools to ensure that we are able to fulfill His command to <strong>&quot;see to it that no one deceives you.&quot;</strong></p>
-<hr>
-<p><strong>PLEASE NOTE</strong></p>
-<p>The entries in the <em>Bible Study Notebook</em> are a continual work in progress. They will be fleshed out and added to as we progress through the Holy Scriptures.</p>
+<h2 id="strong-s-concordance" tabindex="-1">Strong's Concordance</h2>
+<p><strong>Definition</strong> - love</p>
+<p><strong>Word Origin</strong> - Derived from the verb <em>ἀγαπάω (agapaō)</em>, meaning &quot;<em>to love</em>.&quot;</p>
+<p><strong>Usage</strong> - <em>Agapé</em> is a term used in the New Testament to describe a selfless, sacrificial, unconditional love. It is the highest form of love, often associated with the love of God for humanity and the love that believers are called to have for one another. Unlike other Greek words for love, such as &quot;<em>eros</em>&quot; (romantic love) or &quot;<em>philia</em>&quot; (brotherly love), <em>agapé</em> is not based on emotions or feelings but is an act of the will, characterized by a commitment to the well-being of others</p>
+<h2 id="helps-word-studies" tabindex="-1">Helps Word-studies</h2>
+<p><strong>26</strong> <em>agápē</em> – properly, <em>love</em> which centers in moral <em>preference</em>. So too in secular ancient Greek, <a href="https://biblehub.com/greek/26.htm" target="_blank" class="external-link">26</a> (<em>agápē</em>) focuses on <em>preference</em>; likewise the verb form (<a href="https://biblehub.com/greek/25.htm" target="_blank" class="external-link">25</a> <em>/agapáō</em>) in antiquity meant &quot;to <em>prefer</em>&quot; (<em>TDNT</em>, 7). In the NT, <a href="https://biblehub.com/greek/26.htm" target="_blank" class="external-link">26</a> (<em>agápē</em>) typically refers to <em>divine love</em> (= what <em>God prefers</em>).</p>
 </main>
 <aside>
 <div class="sidebar">
@@ -805,31 +732,9 @@ On this page
 <div class="toc-container">
 <nav class="toc">
 <ol>
-<li><a href="#welcome-to-be-not-deceived">Welcome To Be Not Deceived</a>
-<ol>
-<li><a href="#primary-purpose">Primary Purpose</a>
+<li><a href="#strong-s-concordance">Strong's Concordance</a>
 </li>
-<li><a href="#secondary-purpose">Secondary Purpose</a>
-</li>
-</ol>
-</li>
-<li><a href="#how-to-be-built-up-so-you-are-not-deceived">How To Be Built Up So You Are Not Deceived</a>
-<ol>
-<li><a href="#the-holy-spirit-is-our-teacher">The Holy Spirit Is Our Teacher</a>
-</li>
-<li><a href="#the-word-is-god-breathed">The Word Is God-breathed</a>
-</li>
-<li><a href="#god-s-word-makes-wise">God's Word Makes Wise</a>
-</li>
-<li><a href="#god-s-word-builds-up">God's Word Builds Up</a>
-</li>
-<li><a href="#we-are-commanded-to-build-ourselves-up">We Are Commanded To Build Ourselves Up</a>
-</li>
-<li><a href="#ministers-are-given-to-equip-grow-and-build-up-the-body">Ministers Are Given To Equip, Grow, And Build Up The Body</a>
-</li>
-</ol>
-</li>
-<li><a href="#conclusion">Conclusion</a>
+<li><a href="#helps-word-studies">Helps Word-studies</a>
 </li>
 </ol>
 </nav>
@@ -852,6 +757,9 @@ On this page
 <iframe style="display:none;height:0;width:0" id="link-preview-iframe" src="">
 </iframe>
 <script>var opacityTimeout,contentTimeout,transitionDurationMs=100,iframe=document.getElementById("link-preview-iframe"),tooltipWrapper=document.getElementById("tooltip-wrapper"),tooltipContent=document.getElementById("tooltip-content"),linkHistories={};function hideTooltip(){opacityTimeout=setTimeout((function(){tooltipWrapper.style.opacity=0,contentTimeout=setTimeout((function(){tooltipContent.innerHTML="",tooltipWrapper.style.display="none"}),transitionDurationMs+1)}),transitionDurationMs)}function showTooltip(t){var e=t.target,o=e.getClientRects()[e.getClientRects().length-1],i=window.pageYOffset||document.documentElement.scrollTop,n=t.target.getAttribute("href");if(-1===n.indexOf("http")||-1!==n.indexOf(window.location.host)){let t=n.split("#")[0];linkHistories[t]?(tooltipContent.innerHTML=linkHistories[t],tooltipWrapper.style.display="block",setTimeout((function(){if(tooltipWrapper.style.opacity=1,-1!=n.indexOf("#")){let t=n.split("#")[1];const e=tooltipWrapper.querySelector(`[id='${t}']`);e.classList.add("referred"),e.scrollIntoView({behavior:"smooth"},!0)}else tooltipWrapper.scroll(0,0)}),1)):(iframe.src=t,iframe.onload=function(){tooltipContentHtml="",tooltipContentHtml+='<div style="font-weight: bold; unicode-bidi: plaintext;">'+iframe.contentWindow.document.querySelector("h1").innerHTML+"</div>",tooltipContentHtml+=iframe.contentWindow.document.querySelector(".content").innerHTML,tooltipContent.innerHTML=tooltipContentHtml,linkHistories[t]=tooltipContentHtml,tooltipWrapper.style.display="block",tooltipWrapper.scrollTop=0,setTimeout((function(){if(tooltipWrapper.style.opacity=1,-1!=n.indexOf("#")){let t=n.split("#")[1];const e=tooltipWrapper.querySelector(`[id='${t}']`);e.classList.add("referred"),console.log(e),e.scrollIntoView({behavior:"smooth"},!0)}else tooltipWrapper.scroll(0,0)}),1)}),tooltipWrapper.style.left=o.left-tooltipWrapper.offsetWidth/2+o.width/2+"px",window.innerHeight-o.top<tooltipWrapper.offsetHeight?tooltipWrapper.style.top=o.top+i-tooltipWrapper.offsetHeight-10+"px":window.innerHeight-o.top>tooltipWrapper.offsetHeight&&(tooltipWrapper.style.top=o.top+i+35+"px"),o.left+o.width/2<tooltipWrapper.offsetWidth/2?tooltipWrapper.style.left="10px":document.body.clientWidth-o.left-o.width/2<tooltipWrapper.offsetWidth/2&&(tooltipWrapper.style.left=document.body.clientWidth-tooltipWrapper.offsetWidth-20+"px")}}function setupListeners(t){t.addEventListener("mouseleave",(function(t){hideTooltip()})),tooltipWrapper.addEventListener("mouseleave",(function(t){hideTooltip()})),t.addEventListener("mouseenter",(function(t){clearTimeout(opacityTimeout),clearTimeout(contentTimeout),showTooltip(t)})),tooltipWrapper.addEventListener("mouseenter",(function(t){clearTimeout(opacityTimeout),clearTimeout(contentTimeout)}))}window.addEventListener("load",(function(t){document.querySelectorAll(".internal-link").forEach(setupListeners),document.querySelectorAll(".backlink-card a").forEach(setupListeners)}))</script>
+<script>window.location.hash&&document.getElementById(window.location.hash.slice(1)).classList.add("referred"),window.addEventListener("hashchange",(e=>{const t=e.oldURL.split("#");t[1]&&document.getElementById(t[1]).classList.remove("referred");const n=e.newURL.split("#");n[1]&&document.getElementById(n[1]).classList.add("referred")}),!1);const url_parts=window.location.href.split("#"),url=url_parts[0],referrence=url_parts[1];document.querySelectorAll(".cm-s-obsidian > *[id]").forEach((function(e){e.ondblclick=function(e){const t=url+"#"+e.target.id;navigator.clipboard.writeText(t)}}))</script>
+<script src="https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js"></script>
+<script defer="defer">TIMESTAMP_FORMAT="MMMM dd, yyyy h:mm a",document.querySelectorAll(".human-date").forEach((function(e){date=e.getAttribute("data-date")||e.innerText,parsed_date=luxon.DateTime.fromISO(date),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromSQL(date)),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromHTML(date)),e.innerHTML=parsed_date.toFormat(TIMESTAMP_FORMAT)}))</script>
 <script>lucide.createIcons({attrs:{class:["svg-icon"]}})</script>
 </body>
 </html>
