@@ -14,3 +14,4 @@ src/site/notes/.trash
 .cache
 _site/
 **/.DS_Store
+/src/site/notes/_Templates

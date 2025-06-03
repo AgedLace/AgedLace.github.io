@@ -1,0 +1,15 @@
+---
+Title: Matthew_24.15-25
+tags: [NT/40_Matthew-24v15-25]
+dg-publish: true
+Date-Created: May 25, 2025 05:10 am
+Date-Modified: May 25, 2025 07:51 pm
+---
+**The Abomination of Desolation** 
+([Mark 13:14–23](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmark%2F13.htm%2314); [Luke 21:20–24](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fluke%2F21.htm%2320))
+
+[15](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-15.htm) So when you see standing in the holy place 'the abomination of desolation,'[a](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmatthew%2F%23fn) spoken of by the prophet Daniel (let the reader understand), [16](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-16.htm) then let those who are in Judea flee to the mountains. [17](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-17.htm) Let no one on the housetop come down to retrieve anything from his house. [18](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-18.htm) And let no one in the field return for his cloak.
+
+[19](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-19.htm) How miserable those days will be for pregnant and nursing mothers! [20](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-20.htm) Pray that your flight will not occur in the winter or on the Sabbath. [21](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-21.htm) For at that time there will be great tribulation, unseen from the beginning of the world until now, and never to be seen again. [22](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-22.htm) If those days had not been cut short, nobody would be saved. But for the sake of the elect, those days will be cut short.
+
+[23](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-23.htm) At that time, if anyone says to you, 'Look, here is the Christ!' or 'There He is!' do not believe it. [24](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-24.htm) For false Christs and false prophets will appear and perform great signs and wonders to deceive even the elect, if that were possible. [25](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-25.htm) See, I have told you in advance.
