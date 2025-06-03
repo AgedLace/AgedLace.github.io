@@ -1,11 +1,7 @@
 ---
-Title: Luke_21.29-33
-tags:
-  - NT/42_Luke-21v29-33
-dg-publish: true
-Date-Created: May 25, 2025 05:10 am
-Date-Modified: May 25, 2025 07:53 pm
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-21-29-33/","tags":["NT/42_Luke-21v29-33"],"created":"2025-06-02T23:40:12.170-04:00","updated":"2025-06-02T20:08:11.143-04:00"}
 ---
+
 **The Lesson of the Fig Tree** 
 ([Matthew 24:32–35](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmatthew%2F24.htm%2332); [Mark 13:28–31](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmark%2F13.htm%2328))
 

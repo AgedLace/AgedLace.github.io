@@ -1,11 +1,7 @@
 ---
-Title: Matthew-24v4-8
-tags:
-  - People/Jesus/Prophecies/Beginning-Birth-Pains
-dg-publish: true
-Date-Created: 2025-May-28 10:31
-Date-Modified: 2025-May-29 04:30
+{"dg-publish":true,"permalink":"/bible-study-notebook/people/jesus/prophecies/matthew-24v4-8/","tags":["People/Jesus/Prophecies/Beginning-Birth-Pains"],"created":"2025-06-02T23:40:12.196-04:00","updated":"2025-06-02T20:08:11.149-04:00"}
 ---
+
 
 **The Beginning of Birth Pains**
 
@@ -21,16 +17,4 @@ Date-Modified: 2025-May-29 04:30
 >
 > 8 ALL these things are the beginning of birth pains.
 
-%%
 
-**Tags**
-
-- #NT/40_Matthew-24v4-8
-- #Events/End-Time/Birth-Pain/Signs
-- #Events/End-Time/Birth-Pain/Signs/Are-Not/The-End
-- #Events/End-Time/Birth-Pain/Signs/False-Christs
-- #Events/End-Time/Birth-Pain/Signs/False-Christs/Deceive-Many
-- #Events/End-Time/Birth-Pain/Signs/Wars-and-Rumors-of-Wars
-- #Events/End-Time/Birth-Pain/Signs/Natural-Disasters
-
-%%

@@ -1,11 +1,7 @@
 ---
-Title: Luke_21.1-4
-tags:
-  - _
-dg-publish: true
-Date-Created: May 25, 2025 05:10 am
-Date-Modified: May 25, 2025 07:53 pm
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-21-1-4/","tags":["_"],"created":"2025-06-02T23:40:12.166-04:00","updated":"2025-06-02T20:08:11.143-04:00"}
 ---
+
 **The Poor Widow's Offering** 
 ([Mark 12:41–44](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmark%2F12.htm%2341))
 

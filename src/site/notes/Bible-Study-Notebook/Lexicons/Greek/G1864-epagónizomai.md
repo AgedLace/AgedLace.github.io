@@ -1,11 +1,7 @@
 ---
-Title: G1864-epagónizomai
-tags:
-  - Greek/G1864-epagónizomai
-dg-publish: true
-Date-Created: May 25, 2025 05:10 am
-Date-Modified: May 25, 2025 19:55 pm
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g1864-epagonizomai/","tags":["Greek/G1864-epagónizomai"],"created":"2025-06-02T23:40:12.180-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
 ---
+
 ## Strong's Concordance
 
 **Definition** - to content earnestly, to struggle for

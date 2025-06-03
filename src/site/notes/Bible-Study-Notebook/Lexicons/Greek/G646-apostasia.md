@@ -1,11 +1,7 @@
 ---
-Title: G646-apostasia
-tags:
-  - Greek/G646-apostasia
-dg-publish: true
-Date-Created: 2025-May-27 14:25
-Date-Modified: 2025-May-29 03:43
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g646-apostasia/","tags":["Greek/G646-apostasia"],"created":"2025-06-02T23:40:12.186-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
 ---
+
 
 ## Strong's Concordance
 

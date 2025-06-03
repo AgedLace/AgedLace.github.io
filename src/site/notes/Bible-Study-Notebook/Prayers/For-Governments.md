@@ -1,11 +1,7 @@
 ---
-Title: For-Governments
-tags:
-  - Prayer/For-Governments
-dg-publish: true
-Date-Created: 2025-June-02 09:51
-Date-Modified: 2025-June-02 10:01
+{"dg-publish":true,"permalink":"/bible-study-notebook/prayers/for-governments/","tags":["Prayer/For-Governments"],"created":"2025-06-02T23:40:12.196-04:00","updated":"2025-06-02T20:08:11.149-04:00"}
 ---
+
 
 > [!example] **Prayer for Governments - Derek Prince**
 >

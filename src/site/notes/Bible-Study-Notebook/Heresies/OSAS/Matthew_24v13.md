@@ -1,11 +1,7 @@
 ---
-Title: Matthew_24v13
-tags:
-  - Doctrines-of-Devils/OSAS
-dg-publish: true
-Date-Created: 2025-May-27 13:58
-Date-Modified: 2025-May-29 05:18
+{"dg-publish":true,"permalink":"/bible-study-notebook/heresies/osas/matthew-24v13/","tags":["Doctrines-of-Devils/OSAS"],"created":"2025-06-02T23:40:12.176-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
 ---
+
 **Only Those Who Persevere To The End Will Be Saved**
 
 > [!NOTE] **Matthew 24:13**
@@ -14,10 +10,4 @@ Date-Modified: 2025-May-29 05:18
 
 This directly opposes those who teach that once we are saved, we are always saved. Jesus said **only** those who endure to the end shall be saved.  
 
-%%
 
-#Doctrines-of-Devils/OSAS/Endure-to-the-End
-#People/False-Teachers
-#NT/40_Matthew-24v13
-
-%%

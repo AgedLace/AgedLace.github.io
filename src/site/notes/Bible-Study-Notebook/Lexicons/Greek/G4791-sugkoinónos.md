@@ -1,11 +1,7 @@
 ---
-Title: G4791-sugkoinónos
-tags:
-  - Greek/G4791-sugkoinónos
-dg-publish: true
-Date-Created: May 25, 2025 05:10 am
-Date-Modified: May 25, 2025 19:55 pm
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g4791-sugkoinonos/","tags":["Greek/G4791-sugkoinónos"],"created":"2025-06-02T23:40:12.183-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
 ---
+
 ## Strong's Concordance
 
 **Definition** - Partaker, partner, sharer, companion

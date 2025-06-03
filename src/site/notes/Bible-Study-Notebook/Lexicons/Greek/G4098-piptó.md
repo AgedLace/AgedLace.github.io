@@ -1,11 +1,7 @@
 ---
-Title: G4098-piptó
-tags:
-  - Greek/G4098-piptó
-dg-publish: true
-Date-Created: 2025-May-29 03:57
-Date-Modified: 2025-May-29 04:02
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g4098-pipto/","tags":["Greek/G4098-piptó"],"created":"2025-06-02T23:40:12.183-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
 ---
+
 
 ## Strong's Concordance
 

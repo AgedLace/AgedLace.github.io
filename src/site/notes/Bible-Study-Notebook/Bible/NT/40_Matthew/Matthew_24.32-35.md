@@ -1,10 +1,7 @@
 ---
-Title: Matthew_24.32-35
-tags: [NT/40_Matthew-24v32-35]
-dg-publish: true
-Date-Created: May 25, 2025 05:10 am
-Date-Modified: May 25, 2025 07:51 pm
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-32-35/","tags":["NT/40_Matthew-24v32-35"],"created":"2025-06-02T23:40:12.160-04:00","updated":"2025-06-02T20:08:11.136-04:00"}
 ---
+
 **The Lesson of the Fig Tree** 
 ([Mark 13:28–31](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmark%2F13.htm%2328); [Luke 21:29–33](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fluke%2F21.htm%2329))
 

@@ -1,11 +1,7 @@
 ---
-Title: Bible-Copyrights
-tags:
-  - BND/Bible/Copyrights
-dg-publish: true
-Date-Created: 2025-May-26 10:40
-Date-Modified: 2025-May-29 00:39
+{"dg-publish":true,"permalink":"/bible-copyrights/","tags":["BND/Bible/Copyrights"],"created":"2025-06-02T23:40:12.206-04:00","updated":"2025-06-02T20:08:11.136-04:00"}
 ---
+
 
 Unless otherwise stated, all Scripture references quoted on this website are taken from the ***Berean Standard Bible*** which is now in the public domain.
 

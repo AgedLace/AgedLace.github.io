@@ -1,11 +1,7 @@
 ---
-Title: H586-natah
-tags:
-  - Hebrew/H586-natah
-dg-publish: true
-Date-Created: 2025-June-02 11:30
-Date-Modified: 2025-June-02 11:42
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/hebrew/h586-natah/","tags":["Hebrew/H586-natah"],"created":"2025-06-02T23:40:12.190-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
 ---
+
 
 ## Strong's Concordance
 

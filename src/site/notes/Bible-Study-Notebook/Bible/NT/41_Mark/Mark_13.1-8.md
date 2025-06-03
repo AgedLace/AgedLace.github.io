@@ -1,11 +1,7 @@
 ---
-Title: Mark_13.1-8
-tags:
-  - NT/41_Mark-13v1-8
-dg-publish: true
-Date-Created: May 25, 2025 05:10 am
-Date-Modified: May 25, 2025 07:52 pm
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/41-mark/mark-13-1-8/","tags":["NT/41_Mark-13v1-8"],"created":"2025-06-02T23:40:12.163-04:00","updated":"2025-06-02T20:08:11.143-04:00"}
 ---
+
 **Temple Destruction and Other Signs** 
 ([Matthew 24:1–8](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmatthew%2F24.htm); [Luke 21:5–9](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fluke%2F21.htm%235))
 

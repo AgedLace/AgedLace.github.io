@@ -1,24 +1,11 @@
 ---
-Title: Matthew_24v4
-tags:
-  - Deception
-dg-publish: true
-Date-Created: 2025-May-25 23:45
-Date-Modified: 2025-May-29 04:35
+{"dg-publish":true,"permalink":"/bible-study-notebook/topics/deception/matthew-24v4/","tags":["Deception"],"created":"2025-06-02T23:40:12.200-04:00","updated":"2025-06-02T20:08:11.149-04:00"}
 ---
+
 **See To It No One Deceives You**
 
 > [!NOTE] **Matthew 24:4**
 >
 > Jesus answered, "See to it that no one deceives you."
 
-%%
 
-**Tags**
-
-- #NT/40_Matthew-24v4
-- #People/False-Christs/Deceive-Many
-- #Events/End-Time/Birth-Pain/Signs/False-Christs
-- #Events/End-Time/Birth-Pain/Signs/False-Christs
-
-%%
