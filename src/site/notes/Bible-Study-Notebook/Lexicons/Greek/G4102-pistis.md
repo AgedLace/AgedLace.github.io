@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g4102-pistis/","tags":["Greek/G4102-pistis"],"created":"2025-06-02T23:40:12.183-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g4102-pistis/","tags":["Greek/G4102-pistis"],"created":"2025-06-02T23:52:02.561-04:00","updated":"2025-06-04T01:40:35.407-04:00"}
 ---
+
 
 ## Strong's Concordance
 

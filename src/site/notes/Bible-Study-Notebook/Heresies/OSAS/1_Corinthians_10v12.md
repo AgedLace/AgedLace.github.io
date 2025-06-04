@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/heresies/osas/1-corinthians-10v12/","tags":["Doctrines-of-Devils/OSAS/Be-Careful-Not-to-Fall"],"created":"2025-06-02T23:40:12.176-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/heresies/osas/1-corinthians-10v12/","tags":["Doctrines-of-Devils/OSAS/Be-Careful-Not-to-Fall"],"created":"2025-06-02T23:52:01.974-04:00","updated":"2025-06-04T01:40:35.357-04:00"}
 ---
+
 
 **Paul Warned The Corinthians to Be Careful Not to Fall**
 

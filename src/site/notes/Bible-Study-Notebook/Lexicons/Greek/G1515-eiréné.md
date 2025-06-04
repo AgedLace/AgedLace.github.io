@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g1515-eirene/","tags":["Greek/G1515-eiréné"],"created":"2025-06-02T23:40:12.180-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g1515-eirene/","tags":["Greek/G1515-eiréné"],"created":"2025-06-02T23:52:02.181-04:00","updated":"2025-06-04T01:40:35.384-04:00"}
 ---
+
 
 ## Strong's Concordance
 

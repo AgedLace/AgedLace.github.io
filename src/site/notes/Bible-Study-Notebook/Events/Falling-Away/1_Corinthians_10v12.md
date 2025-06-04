@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/events/falling-away/1-corinthians-10v12/","tags":["Doctrines-of-Devils/OSAS/Be-Careful-Not-to-Fall"],"created":"2025-06-02T23:40:12.173-04:00","updated":"2025-06-02T20:08:11.143-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/events/falling-away/1-corinthians-10v12/","tags":["Doctrines-of-Devils/OSAS/Be-Careful-Not-to-Fall"],"created":"2025-06-02T23:52:01.841-04:00","updated":"2025-06-04T01:40:35.334-04:00"}
 ---
+
 
 **Be Careful Not To Fall**
 

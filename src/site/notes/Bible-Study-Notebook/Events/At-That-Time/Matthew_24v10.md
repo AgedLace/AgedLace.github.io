@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/events/at-that-time/matthew-24v10/","tags":["Events/At-That-Time"],"created":"2025-06-02T23:40:12.173-04:00","updated":"2025-06-02T20:08:11.143-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/events/at-that-time/matthew-24v10/","tags":["Events/At-That-Time"],"created":"2025-06-02T23:52:01.781-04:00","updated":"2025-06-04T01:40:35.317-04:00"}
 ---
+
 
 
 > [!NOTE] **Matthew 24:10**

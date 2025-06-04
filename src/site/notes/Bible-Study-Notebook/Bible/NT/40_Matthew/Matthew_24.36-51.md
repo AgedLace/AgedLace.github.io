@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-36-51/","tags":["NT/40_Matthew-24v36-51"],"created":"2025-06-02T23:40:12.163-04:00","updated":"2025-06-02T20:08:11.136-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-36-51/","tags":["NT/40_Matthew-24v36-51"],"created":"2025-06-03T21:27:49.368-04:00","updated":"2025-06-04T01:43:27.779-04:00"}
 ---
 
-**Readiness at Any Hour** 
+**Readiness at Any Hour**<br/>
 ([Genesis 6:1–7](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fgenesis%2F6.htm); [Mark 13:32–37](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmark%2F13.htm%2332); [Luke 12:35–48](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fluke%2F12.htm%2335))
 
 [36](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-36.htm) No one knows about that day or hour, not even the angels in heaven, nor the Son,[g](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmatthew%2F%23fn) but only the Father. [37](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-37.htm) As it was in the days of Noah, so will it be at the coming of the Son of Man. [38](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-38.htm) For in the days before the flood, people were eating and drinking, marrying and giving in marriage, up to the day Noah entered the ark. [39](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-39.htm) And they were oblivious until the flood came and swept them all away. So will it be at the coming of the Son of Man. [40](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-40.htm) Two men will be in the field: one will be taken and the other left. [41](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-41.htm) Two women will be grinding at the mill: one will be taken and the other left.

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g4052-perisseuo/","tags":["Greek/G4052-perisseuó"],"created":"2025-06-02T23:40:12.183-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g4052-perisseuo/","tags":["Greek/G4052-perisseuó"],"created":"2025-06-02T23:52:02.524-04:00","updated":"2025-06-04T01:40:35.407-04:00"}
 ---
+
 
 ## Strong's Concordance
 

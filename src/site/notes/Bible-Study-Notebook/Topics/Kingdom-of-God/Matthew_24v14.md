@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/topics/kingdom-of-god/matthew-24v14/","tags":["Kingdom-of-God"],"created":"2025-06-02T23:40:12.203-04:00","updated":"2025-06-02T20:08:11.149-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/topics/kingdom-of-god/matthew-24v14/","tags":["Kingdom-of-God"],"created":"2025-06-02T23:52:03.061-04:00","updated":"2025-06-04T01:40:35.497-04:00"}
 ---
+
 
 **Gospel of the Kingdom Will Be Preached In All The World**
 

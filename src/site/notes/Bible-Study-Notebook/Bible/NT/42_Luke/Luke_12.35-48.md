@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-12-35-48/","tags":["NT/42_Luke-12v35-48"],"created":"2025-06-02T23:40:12.166-04:00","updated":"2025-06-02T20:08:11.143-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-12-35-48/","tags":["NT/42_Luke-12v35-48"],"created":"2025-06-03T21:28:13.705-04:00","updated":"2025-06-04T01:44:02.062-04:00"}
 ---
 
-**Readiness at Any Hour**  
+**Readiness at Any Hour**<br/>
 ([Matthew 24:36–51](https://biblehub.com/bsb/matthew/24.htm#36); [Mark 13:32–37](https://biblehub.com/bsb/mark/13.htm#32))
 
 [**35**](https://biblehub.com/luke/12-35.htm) Be dressed for service and keep your lamps burning. [**36**](https://biblehub.com/luke/12-36.htm) Then you will be like servants waiting for their master to return from the wedding banquet, so that when he comes and knocks, they can open the door for him at once. [**37**](https://biblehub.com/luke/12-37.htm) Blessed are those servants whom the master finds on watch when he returns. Truly I tell you, he will dress himself to serve and will have them recline at the table, and he himself will come and wait on them. [**38**](https://biblehub.com/luke/12-38.htm) Even if he comes in the second or third watch of the night[f](https://biblehub.com/bsb/luke/12.htm#fn) and finds them alert, those servants will be blessed.

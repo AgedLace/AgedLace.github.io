@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-26-31/","tags":["NT/40_Matthew-24v26-31"],"created":"2025-06-02T23:40:12.160-04:00","updated":"2025-06-02T20:08:11.136-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-26-31/","tags":["NT/40_Matthew-24v26-31"],"created":"2025-06-03T21:27:42.551-04:00","updated":"2025-06-04T01:43:15.809-04:00"}
 ---
 
 

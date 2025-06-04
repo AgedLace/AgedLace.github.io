@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/events/falling-away/1-timothy-1v18-20/","tags":["Events/Falling-Away"],"created":"2025-06-02T23:40:12.173-04:00","updated":"2025-06-02T20:08:11.143-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/events/falling-away/1-timothy-1v18-20/","tags":["Events/Falling-Away"],"created":"2025-06-02T23:52:01.864-04:00","updated":"2025-06-04T01:40:35.337-04:00"}
 ---
+
 
 
 **Shipwrecked Faith**

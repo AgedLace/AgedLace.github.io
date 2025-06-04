@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/heresies/osas/matthew-24v13/","tags":["Doctrines-of-Devils/OSAS"],"created":"2025-06-02T23:40:12.176-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/heresies/osas/matthew-24v13/","tags":["Doctrines-of-Devils/OSAS"],"created":"2025-06-02T23:52:02.031-04:00","updated":"2025-06-04T01:40:35.364-04:00"}
 ---
+
 
 **Only Those Who Persevere To The End Will Be Saved**
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/41-mark/mark-13-1-8/","tags":["NT/41_Mark-13v1-8"],"created":"2025-06-02T23:40:12.163-04:00","updated":"2025-06-02T20:08:11.143-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/41-mark/mark-13-1-8/","tags":["NT/41_Mark-13v1-8"],"created":"2025-06-03T21:28:00.501-04:00","updated":"2025-06-04T01:43:37.042-04:00"}
 ---
 
-**Temple Destruction and Other Signs** 
+**Temple Destruction and Other Signs**<br/>
 ([Matthew 24:1–8](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmatthew%2F24.htm); [Luke 21:5–9](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fluke%2F21.htm%235))
 
 [1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmark%2F13-1.htm) As Jesus was leaving the temple, one of His disciples said to Him, "Teacher, look at the magnificent stones and buildings!"

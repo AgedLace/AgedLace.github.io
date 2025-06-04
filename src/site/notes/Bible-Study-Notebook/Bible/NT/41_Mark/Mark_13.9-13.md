@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/41-mark/mark-13-9-13/","tags":["NT/41_Mark-13v9-13"],"created":"2025-06-02T23:40:12.166-04:00","updated":"2025-06-02T20:08:11.143-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/41-mark/mark-13-9-13/","tags":["NT/41_Mark-13v9-13"],"created":"2025-06-03T21:28:12.468-04:00","updated":"2025-06-04T01:43:38.762-04:00"}
 ---
 
-**Witnessing to All Nations** 
+**Witnessing to All Nations**<br/>
 ([Matthew 24:9–14](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmatthew%2F24.htm%239); [Luke 21:10–19](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fluke%2F21.htm%2310))
 
 [9](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmark%2F13-9.htm) So be on your guard. You will be delivered over to the councils and beaten in the synagogues. On My account you will stand before governors and kings as witnesses to them. [10](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmark%2F13-10.htm) And the gospel must first be proclaimed to all the nations. [11](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmark%2F13-11.htm) But when they arrest you and hand you over, do not worry beforehand what to say. Instead, speak whatever you are given at that time, for it will not be you speaking, but the Holy Spirit.

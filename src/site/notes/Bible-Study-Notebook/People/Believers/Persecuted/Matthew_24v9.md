@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/people/believers/persecuted/matthew-24v9/","tags":["Events/End-Time/Birth-Pain/Signs/Believers/Betrayed-and-Hated"],"created":"2025-06-02T23:40:12.193-04:00","updated":"2025-06-02T20:08:11.149-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/people/believers/persecuted/matthew-24v9/","tags":["Events/End-Time/Birth-Pain/Signs/Believers/Betrayed-and-Hated"],"created":"2025-06-02T23:52:02.821-04:00","updated":"2025-06-04T01:40:35.447-04:00"}
 ---
+
 
 **Believers to Be Persecuted, Killed, and Hated for Jesus' Name**
 

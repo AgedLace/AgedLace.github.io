@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g1864-epagonizomai/","tags":["Greek/G1864-epagónizomai"],"created":"2025-06-02T23:40:12.180-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/greek/g1864-epagonizomai/","tags":["Greek/G1864-epagónizomai"],"created":"2025-06-02T23:52:02.344-04:00","updated":"2025-06-04T01:40:35.390-04:00"}
 ---
+
 
 ## Strong's Concordance
 

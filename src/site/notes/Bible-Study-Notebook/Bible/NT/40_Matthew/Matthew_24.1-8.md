@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-1-8/","tags":["NT/40_Matthew-24v1-8"],"created":"2025-06-02T23:40:12.160-04:00","updated":"2025-06-02T20:08:11.136-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-1-8/","tags":["NT/40_Matthew-24v1-8"],"created":"2025-06-03T21:27:25.554-04:00","updated":"2025-06-04T01:43:08.462-04:00"}
 ---
 
-**Temple Destruction and Other Signs**  
+**Temple Destruction and Other Signs**<br/>
 ([Mark 13:1–8](https://biblehub.com/bsb/mark/13.htm); [Luke 21:5–9](https://biblehub.com/bsb/luke/21.htm#5))
 
 [**1**](https://biblehub.com/matthew/24-1.htm) As [[Bible-Study-Notebook/People/Jesus/Index\|Jesus]] left [[Bible-Study-Notebook/Prophecy/Temple-Destroyed\|the temple]] and was walking away, His [[Bible-Study-Notebook/People/Disciples/Ask-3-Questions\|disciples]] came up to Him to point out its buildings.

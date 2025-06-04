@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-21-34-38/","tags":["NT/42_Luke-21v34-38"],"created":"2025-06-02T23:40:12.170-04:00","updated":"2025-06-02T20:08:11.143-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-21-34-38/","tags":["NT/42_Luke-21v34-38"],"created":"2025-06-03T21:28:21.458-04:00","updated":"2025-06-04T01:44:22.376-04:00"}
 ---
 
 **Be Watchful for the Day**

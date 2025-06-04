@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/people/jesus/index/","tags":["People/Jesus"],"created":"2025-06-02T23:40:12.193-04:00","updated":"2025-06-02T20:08:11.149-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/people/jesus/index/","tags":["People/Jesus"],"created":"2025-06-02T23:52:02.861-04:00","updated":"2025-06-04T01:40:35.450-04:00"}
 ---
+
 
 **Jesus' Prophecies** - Matthew 24:1-2, 4-8
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/topics/deception/matthew-24v4/","tags":["Deception"],"created":"2025-06-02T23:40:12.200-04:00","updated":"2025-06-02T20:08:11.149-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/topics/deception/matthew-24v4/","tags":["Deception"],"created":"2025-06-02T23:52:02.981-04:00","updated":"2025-06-04T01:40:35.480-04:00"}
 ---
+
 
 **See To It No One Deceives You**
 

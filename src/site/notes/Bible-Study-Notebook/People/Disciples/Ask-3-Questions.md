@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/people/disciples/ask-3-questions/","tags":["People/Disciples/Ask-3-Questions"],"created":"2025-06-02T23:40:12.193-04:00","updated":"2025-06-02T20:08:11.149-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/people/disciples/ask-3-questions/","tags":["People/Disciples/Ask-3-Questions"],"created":"2025-06-02T23:52:02.841-04:00","updated":"2025-06-04T01:40:35.450-04:00"}
 ---
+
 
 **Disciples Ask Jesus 3 Questions** - Matthew 24:3
 - When will these things (destruction of temple) be

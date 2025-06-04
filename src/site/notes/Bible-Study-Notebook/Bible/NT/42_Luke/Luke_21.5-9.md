@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-21-5-9/","tags":["NT/42_Luke-21v5-9"],"created":"2025-06-02T23:40:12.170-04:00","updated":"2025-06-02T20:08:11.143-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/42-luke/luke-21-5-9/","tags":["NT/42_Luke-21v5-9"],"created":"2025-06-03T21:28:22.701-04:00","updated":"2025-06-04T01:44:05.622-04:00"}
 ---
 
-**Temple Destruction and Other Signs** 
+**Temple Destruction and Other Signs**<br/>
 ([Matthew 24:1–8](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmatthew%2F24.htm); [Mark 13:1–8](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmark%2F13.htm))
 
 [5](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fluke%2F21-5.htm) As some of the disciples were remarking how the temple was adorned with beautiful stones and consecrated gifts, Jesus said, [6](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fluke%2F21-6.htm) "As for what you see here, the time will come when not one stone will be left on another; every one will be thrown down."

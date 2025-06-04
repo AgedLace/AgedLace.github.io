@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/events/falling-away/revelation-2v5/","tags":["Events/Falling-Away"],"created":"2025-06-02T23:40:12.176-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/events/falling-away/revelation-2v5/","tags":["Events/Falling-Away"],"created":"2025-06-02T23:52:01.951-04:00","updated":"2025-06-04T01:40:35.357-04:00"}
 ---
+
 
 **Jesus Told The Church At Ephesus to 'Return to Your First Love'**
 **Jesus Said If They Did Not Repent, Their Lampstand Would Be Removed**

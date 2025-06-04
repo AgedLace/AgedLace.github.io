@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/hebrew/h7181-qashab/","tags":["Hebrew/H7181-qashab"],"created":"2025-06-02T23:40:12.190-04:00","updated":"2025-06-02T20:08:11.146-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/lexicons/hebrew/h7181-qashab/","tags":["Hebrew/H7181-qashab"],"created":"2025-06-02T23:52:02.761-04:00","updated":"2025-06-04T01:40:35.437-04:00"}
 ---
+
 
 
 ## Strong's Concordance

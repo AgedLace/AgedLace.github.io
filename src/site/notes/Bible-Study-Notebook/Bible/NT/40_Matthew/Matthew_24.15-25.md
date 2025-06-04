@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-15-25/","tags":["NT/40_Matthew-24v15-25"],"created":"2025-06-02T23:40:12.160-04:00","updated":"2025-06-02T20:08:11.136-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/bible/nt/40-matthew/matthew-24-15-25/","tags":["NT/40_Matthew-24v15-25"],"created":"2025-06-03T21:27:34.274-04:00","updated":"2025-06-04T01:43:13.715-04:00"}
 ---
 
-**The Abomination of Desolation** 
+**The Abomination of Desolation**<br/>
 ([Mark 13:14–23](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmark%2F13.htm%2314); [Luke 21:20–24](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fluke%2F21.htm%2320))
 
 [15](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-15.htm) So when you see standing in the holy place 'the abomination of desolation,'[a](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fbsb%2Fmatthew%2F%23fn) spoken of by the prophet Daniel (let the reader understand), [16](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-16.htm) then let those who are in Judea flee to the mountains. [17](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-17.htm) Let no one on the housetop come down to retrieve anything from his house. [18](https://www.google.com/url?sa=E&q=https%3A%2F%2Fbiblehub.com%2Fmatthew%2F24-18.htm) And let no one in the field return for his cloak.

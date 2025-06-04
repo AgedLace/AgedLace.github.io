@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/prophecy/temple-destroyed/","tags":["Prophecy/Temple-Destroyed"],"created":"2025-06-02T23:40:12.200-04:00","updated":"2025-06-02T20:25:27.039-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/prophecy/temple-destroyed/","tags":["Prophecy/Temple-Destroyed"],"created":"2025-06-02T23:52:02.961-04:00","updated":"2025-06-04T01:40:35.477-04:00"}
 ---
+
 
 **Jesus Foretold Temple Destruction** - Matthew 24:2
 

@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/bible-study-notebook/topics/divine-healing/proverbs-4v20-23/","tags":["Divine-Healing/Gods-Medicine-Bottle"],"created":"2025-06-02T23:40:12.200-04:00","updated":"2025-06-02T20:08:11.149-04:00"}
+{"dg-publish":true,"permalink":"/bible-study-notebook/topics/divine-healing/proverbs-4v20-23/","tags":["Divine-Healing/Gods-Medicine-Bottle"],"created":"2025-06-02T23:52:03.004-04:00","updated":"2025-06-04T01:40:35.490-04:00"}
 ---
+
 
 
 
