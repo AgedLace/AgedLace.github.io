@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025/june/what-signals-jesus-return/","tags":["Events/Jesus-Return","Blog/2025/06/What-Signals-Jesus-Return"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-07T08:33:35.019-04:00"}
+{"dg-publish":true,"permalink":"/blog/2025/june/what-signals-jesus-return/","tags":["Events/Jesus-Return","Blog/2025/06/What-Signals-Jesus-Return"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-07T08:48:20.005-04:00"}
 ---
 
 ## What Is Jesus' End-Time Chronology
@@ -106,7 +106,7 @@ Please **compare Matthew 24:29 with Revelation 6:12-14**.
 >
 > [**31**](https://biblehub.com/matthew/24-31.htm) "**And He will send forth His angels with A GREAT TRUMPET and THEY WILL GATHER TOGETHER His elect from the four winds, from one end of the sky to the other.**
 
-> [!NOTE] **Mark 13:24
+> [!NOTE] **Mark 13:24**
 >
 > [**24**](https://biblehub.com/mark/13-24.htm) "But in those days, **after that tribulation**, THE SUN WILL BE DARKENED AND THE MOON WILL NOT GIVE ITS LIGHT, 
 >

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025/june/when-will-all-this-happen/","tags":["Events/End-Time","Blog/2025/06/When-Will-All-This-Happen"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-07T08:33:46.459-04:00"}
+{"dg-publish":true,"permalink":"/blog/2025/june/when-will-all-this-happen/","tags":["Events/End-Time","Blog/2025/06/When-Will-All-This-Happen"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-07T08:49:35.296-04:00"}
 ---
 
 ## Jesus' End-Time Chronology
@@ -82,7 +82,7 @@ This is part 3 of Jesus' End-Time Chronology as documented in Matthew 24. This a
 
 Luke 21:34-36 adds …
 
--- Be On Guard
+- Be On Guard
 - Don't Let Day Catch You Unaware
 - That Day Comes Upon The Whole Earth
 - Keep Alert
