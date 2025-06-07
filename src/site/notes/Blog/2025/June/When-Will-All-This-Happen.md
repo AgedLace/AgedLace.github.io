@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025/june/when-will-all-this-happen/","tags":["Events/End-Time","Blog/2025/06/When-Will-All-This-Happen"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-07T08:26:47.404-04:00"}
+{"dg-publish":true,"permalink":"/blog/2025/june/when-will-all-this-happen/","tags":["Events/End-Time","Blog/2025/06/When-Will-All-This-Happen"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-07T08:33:46.459-04:00"}
 ---
 
 ## Jesus' End-Time Chronology
 
-[[What-Signals-End-of-the-Age \| Part 1 - What Signals the End of the Age]]  
+[[Blog/2025/June/What-Signals-End-of-the-Age\| Part 1 - What Signals the End of the Age]]  
 [[Blog/2025/June/What-Signals-Jesus-Return\| Part 2 - What Signals Jesus' Return]]  
-[[When-Will-All-This-Happen \| Part 3 - When Will All This Happen]]
+[[Blog/2025/June/When-Will-All-This-Happen\| Part 3 - When Will All This Happen]]
 
 ### When Will All This Happen
 

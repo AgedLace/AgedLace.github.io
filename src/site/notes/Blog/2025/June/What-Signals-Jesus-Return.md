@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025/june/what-signals-jesus-return/","tags":["Events/Jesus-Return","Blog/2025/06/What-Signals-Jesus-Return"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-07T08:26:28.921-04:00"}
+{"dg-publish":true,"permalink":"/blog/2025/june/what-signals-jesus-return/","tags":["Events/Jesus-Return","Blog/2025/06/What-Signals-Jesus-Return"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-07T08:33:35.019-04:00"}
 ---
 
 ## What Is Jesus' End-Time Chronology
 
-[[What-Signals-End-of-the-Age \| Part 1 - What Signals the End of the Age]]  
+[[Blog/2025/June/What-Signals-End-of-the-Age\| Part 1 - What Signals the End of the Age]]  
 [[Blog/2025/June/What-Signals-Jesus-Return\| Part 2 - What Signals Jesus' Return]]  
-[[When-Will-All-This-Happen \| Part 3 - When Will All This Happen]]
+[[Blog/2025/June/When-Will-All-This-Happen\| Part 3 - When Will All This Happen]]
 
 ### What Sign Will Signal Your Return?
 
