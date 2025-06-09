@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025/june/what-signals-jesus-return/","tags":["Events/Jesus-Return","Blog/2025/06/What-Signals-Jesus-Return"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-09T14:48:08.412-04:00"}
+{"dg-publish":true,"permalink":"/blog/2025/june/what-signals-jesus-return/","tags":["Events/Jesus-Return","Blog/2025/06/What-Signals-Jesus-Return"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-09T15:42:48.905-04:00"}
 ---
 
 ## What Is Jesus' End-Time Chronology
@@ -142,3 +142,6 @@ Luke 21:26-27 adds …
 > [!NOTE] **Luke 21:28**
 >
 > [**28**](https://biblehub.com/luke/21-28.htm) When these things begin to happen, stand up and lift up your heads, because your redemption is drawing near."
+
+- [[Blog/2025/June/What-Signals-Jesus-Return\| What Sign Signals Your Return - Part 2]]
+- [[Blog/2025/June/When-Will-All-This-Happen\| When Will All This Happen - Part 3]]
