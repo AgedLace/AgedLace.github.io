@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025/june/what-signals-end-of-the-age/","tags":["Events/End-of-the-Aged","Blog/2025/06/What-Signals-End-of-the-Age"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-07T08:31:36.297-04:00"}
+{"dg-publish":true,"permalink":"/blog/2025/june/what-signals-end-of-the-age/","tags":["Events/End-of-the-Aged","Blog/2025/06/What-Signals-End-of-the-Age"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-09T15:01:23.568-04:00"}
 ---
 
 ## Jesus' End-Time Chronology
@@ -68,9 +68,9 @@ This is part 1 of Jesus' End-Time Chronology series as documented in Matthew 24,
 
 Luke 21:11 adds …
 
-- Global Plagues
-- Terrifying Things
-- Great Miraculous Signs From Heaven
+- Global National Catastrophes and Plagues
+- Fearful Sights
+- Great Signs From Heaven
 
 > [!NOTE] **Luke 21:11**
 >
@@ -102,15 +102,25 @@ Luke 21:11 adds …
 >
 > [**14**](https://biblehub.com/matthew/24-14.htm) And this gospel of the kingdom will be preached in all the world as a testimony to all nations, and then the end will come.
 
-Luke 21:12-19 expands on these signs.
+Mark and Luke Expand On These Signs …
 
-- A Time Of Great Persecution
-- Dragged Into Synagogues (Courts) And Prisons
-- Stand Trial Before Kings and Governors
-- Divine Wisdom Granted
-- Family And Friends Will Betray
-- Martyrdom
-- Worldwide Hatred Of Christians
+- Delivered Over to Councils and Beaten In Synagogues
+- Christians Will Testify (Witness) Before Kings and Governors
+- Divine Wisdom Given
+- Betrayal by Close Family Members
+- Global Hatred
+
+> [!NOTE] **Mark 13:9-13**
+>
+> [**9**](https://biblehub.com/mark/13-9.htm) So be on your guard. You will be delivered over to the councils and beaten in the synagogues. On My account you will stand before governors and kings as witnesses to them. 
+>
+> [**10**](https://biblehub.com/mark/13-10.htm) And the gospel must first be proclaimed to all the nations. 
+>
+> [**11**](https://biblehub.com/mark/13-11.htm) But when they arrest you and hand you over, do not worry beforehand what to say. Instead, speak whatever you are given at that time, for it will not be you speaking, but the Holy Spirit.
+>
+> [**12**](https://biblehub.com/mark/13-12.htm) Brother will betray brother to death, and a father his child. Children will rise against their parents and have them put to death. 
+>
+> [**13**](https://biblehub.com/mark/13-13.htm) You will be hated by everyone because of My name, but the one who perseveres to the end will be saved.
 
 > [!NOTE] **Luke 21:12-19**
 >
