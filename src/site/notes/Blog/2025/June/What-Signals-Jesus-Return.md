@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025/june/what-signals-jesus-return/","tags":["Events/Jesus-Return","Blog/2025/06/What-Signals-Jesus-Return"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-07T08:48:20.005-04:00"}
+{"dg-publish":true,"permalink":"/blog/2025/june/what-signals-jesus-return/","tags":["Events/Jesus-Return","Blog/2025/06/What-Signals-Jesus-Return"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-09T14:05:24.747-04:00"}
 ---
 
 ## What Is Jesus' End-Time Chronology
@@ -98,7 +98,7 @@ Please **compare Matthew 24:29 with Revelation 6:12-14**.
 - All the Earth Will Mourn When They See Him
 - Jesus Comes On The Clouds of Heaven
 - Angels Sent Out At Trumpet Blast
-- The Elect Are Gathered From Heaven and Earth
+- The Elect Are Gathered From **The Heavens** (NOT the Earth!!! Father God, is this significant?  If so, what does it mean?)
 
 > [!NOTE] **Matthew 24:30-31**
 >
