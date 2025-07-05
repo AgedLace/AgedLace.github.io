@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025/07-july/israel-proof-god-is-faithful/","tags":["Blog/2025/07/Israel-Proof-God-Is-Faithful"],"created":"2025-07-04T20:41:29.002-04:00","updated":"2025-07-04T22:27:55.072-04:00"}
+{"dg-publish":true,"permalink":"/blog/2025/07-july/israel-proof-god-is-faithful/","tags":["Blog/2025/07/Israel-Proof-God-Is-Faithful"],"created":"2025-07-04T20:41:29.002-04:00","updated":"2025-07-04T22:37:23.855-04:00"}
 ---
 
 ## Why This Post
 
 Recently, I have been witnessing an increasingly heated, even volatile, 'discussion' dividing the Body of Christ with respect to Israel; particularly "who is the 'real' Israel. These 'discussions' have quite literally devolved into both sides name-calling, and even accusing the other of being "antichrist".  
 
-I have been praying and asking God about this. As I was waking up today, I had the thought how God hasn't never called Christians "to return" to His land. Rather, He has brought back the biological descendants (yet another bitterly contested topic) of Abraham, just as He promised by covenant to him.
+I have been praying and asking God about this. As I was waking up today, I had the thought how God has never called Christians "to return" to His land. Rather, He has brought back the biological descendants (yet another bitterly contested topic) of Abraham, just as He promised by covenant to him.
 
 > [!NOTE] **Genesis 12:7**
 >
