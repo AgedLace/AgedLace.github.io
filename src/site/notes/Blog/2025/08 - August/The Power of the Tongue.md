@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025/08-august/the-power-of-the-tongue/","tags":["BND/Blog/2025/08/The-Power-of-the-Tongue/"],"created":"2025-08-18T04:03:21.740-04:00","updated":"2025-08-18T05:13:08.824-04:00"}
+{"dg-publish":true,"permalink":"/blog/2025/08-august/the-power-of-the-tongue/","tags":["BND/Blog/2025/08/The-Power-of-the-Tongue/"],"created":"2025-08-18T04:03:21.740-04:00","updated":"2025-08-18T05:16:33.556-04:00"}
 ---
 
 In these last days, when deception abounds, Scripture commands us to guard our tongues and speak God’s Truth boldly.
@@ -40,7 +40,7 @@ In these last days, when deception abounds, Scripture commands us to guard our t
 >O LORD, my Rock and my Redeemer.
 
 - Do my heart and words please God?
-## Proclaiming Truth or Bearing False Witness
+## Are We Proclaiming Truth or Bearing False Witness
 
 >[!Bible] [Proverbs 12:17 BSB](https://www.bible.com/bible/3034/PRO.12.17)
 >He who speaks the truth declares what is right,
