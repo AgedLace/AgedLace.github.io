@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025/08-august/the-power-of-the-tongue/","tags":["BND/Blog/2025/08/The-Power-of-the-Tongue/"],"created":"2025-08-18T04:03:21.740-04:00","updated":"2025-08-18T04:05:08.515-04:00"}
+{"dg-publish":true,"permalink":"/blog/2025/08-august/the-power-of-the-tongue/","tags":["BND/Blog/2025/08/The-Power-of-the-Tongue/"],"created":"2025-08-18T04:03:21.740-04:00","updated":"2025-08-18T05:13:08.824-04:00"}
 ---
 
 In these last days, when deception abounds, Scripture commands us to guard our tongues and speak God’s Truth boldly.
 
-## The Tongue’s Power  
+## The Power in Our Tongues  
 
 >[!Bible] [Proverbs 18:21 BSB](https://www.bible.com/bible/3034/PRO.18.21)
 >Life and death are in the power of the tongue,
@@ -40,7 +40,7 @@ In these last days, when deception abounds, Scripture commands us to guard our t
 >O LORD, my Rock and my Redeemer.
 
 - Do my heart and words please God?
-## The Tongue Proclaims Truth
+## Proclaiming Truth or Bearing False Witness
 
 >[!Bible] [Proverbs 12:17 BSB](https://www.bible.com/bible/3034/PRO.12.17)
 >He who speaks the truth declares what is right,
@@ -68,7 +68,7 @@ In these last days, when deception abounds, Scripture commands us to guard our t
 >[!Bible] [Romans 12:1-2 BSB](https://www.bible.com/bible/3034/ROM.12.1-2)
 >Therefore I urge you, brothers, on account of God’s mercy, to offer your bodies as living sacrifices, holy and pleasing to God, which is your spiritual service of worship. Do not be conformed to this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what is the good, pleasing, and perfect will of God.
 
-Daily speaking the following proclamations based upon the Scriptures out loud will begin renewing your mind to align your tongue with God’s Word.
+Daily speaking the following proclamations based upon the Scriptures out loud will begin renewing your mind to align your tongue with the Truth of God’s Word.
 
 > My tongue speaks life, bearing fruit for God (Proverbs 18:21, BSB).
 
