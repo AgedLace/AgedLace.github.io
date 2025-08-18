@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025/08-august/the-power-of-the-tongue/","tags":["BND/Blog/2025/08/The-Power-of-the-Tongue/"],"created":"2025-08-18T04:03:21.740-04:00","updated":"2025-08-18T05:16:33.556-04:00"}
+{"dg-publish":true,"permalink":"/blog/2025/08-august/the-power-of-the-tongue/","tags":["BND/Blog/2025/08/The-Power-of-the-Tongue/"],"created":"2025-08-18T04:03:21.740-04:00","updated":"2025-08-18T05:20:23.388-04:00"}
 ---
 
 In these last days, when deception abounds, Scripture commands us to guard our tongues and speak God’s Truth boldly.
@@ -62,7 +62,7 @@ In these last days, when deception abounds, Scripture commands us to guard our t
 - Is my heart deceiving me?
 - Is my testimony worthless?
 
-## Confess God's Word Daily
+## Confessing God's Word Daily
 
 
 >[!Bible] [Romans 12:1-2 BSB](https://www.bible.com/bible/3034/ROM.12.1-2)
