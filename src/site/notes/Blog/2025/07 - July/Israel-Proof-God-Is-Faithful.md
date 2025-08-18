@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025/07-july/israel-proof-god-is-faithful/","tags":["Blog/2025/07/Israel-Proof-God-Is-Faithful"],"created":"2025-07-04T20:41:29.002-04:00","updated":"2025-07-04T22:37:23.855-04:00"}
+{"dg-publish":true,"permalink":"/blog/2025/07-july/israel-proof-god-is-faithful/","tags":["Blog/2025/07/Israel-Proof-God-Is-Faithful"],"created":"2025-07-04T20:41:29.002-04:00","updated":"2025-07-07T09:44:11.060-04:00"}
 ---
 
 ## Why This Post
