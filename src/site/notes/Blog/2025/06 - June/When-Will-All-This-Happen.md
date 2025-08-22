@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/blog/2025/06-june/when-will-all-this-happen/","tags":["Events/End-Time","Blog/2025/06/When-Will-All-This-Happen"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-06-09T15:42:24.648-04:00"}
+{"dg-publish":true,"permalink":"/blog/2025/06-june/when-will-all-this-happen/","tags":["Events/End-Time","Blog/2025/06/When-Will-All-This-Happen"],"created":"2025-05-31T09:02:12.964-04:00","updated":"2025-08-21T23:32:12.440-04:00"}
 ---
 
 ## Jesus' End-Time Chronology
@@ -86,9 +86,13 @@ This is part 3 of Jesus' End-Time Chronology as documented in Matthew 24. This a
 >
 > [**37**](https://biblehub.com/mark/13-37.htm) And what I say to you, I say to everyone: Keep watch!"
 
-> [!NOTE] **Luke 21:35-38**
+> [!NOTE] **Luke 21:34-36**
 >
-> [**35**](https://biblehub.com/luke/12-35.htm) Be dressed for service and keep your lamps burning. 
+> [**34**](https://biblehub.com/luke/21-34.htm)But watch yourselves, or your hearts will be weighed down by dissipation, drunkenness, and the worries of life—and that day will spring upon you suddenly like a snare. 
+>
+> [**35**](https://biblehub.com/luke/21-35.htm)For it will come upon all who dwell on the face of all the earth. 
+>
+> [**36**](https://biblehub.com/luke/21-36.htm)So keep watch at all times, and pray that you may have the strength to escape all that is about to happen and to stand before the Son of Man."
 
 #### Additional Warnings
 
@@ -108,7 +112,7 @@ This is part 3 of Jesus' End-Time Chronology as documented in Matthew 24. This a
 >
 > [**51**](https://biblehub.com/matthew/24-51.htm) Then he will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.
 
-> [!NOTE] **Luke 21:36-38**
+> [!NOTE] **Luke 12:36-38**
 >
 > [**36**](https://biblehub.com/luke/12-36.htm) Then you will be like servants waiting for their master to return from the wedding banquet, so that when he comes and knocks, they can open the door for him at once. 
 >
